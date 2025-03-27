@@ -1,0 +1,3812 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_ad5af5fed3113f970ea5d7d197e2c93f {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_ad5af5fed3113f970ea5d7d197e2c93f" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_ad5af5fed3113f970ea5d7d197e2c93f = L.map(
+                "map_ad5af5fed3113f970ea5d7d197e2c93f",
+                {
+                    center: [51.15360669753086, 0.26298079012345676],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_7a326619befdae5b1e73337ca0b7aeb8 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_7a326619befdae5b1e73337ca0b7aeb8.addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+            var circle_marker_8aba9a88695b788097db64c6e7ebd88c = L.circleMarker(
+                [51.155888, 0.250721],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_9f0262c9277f80181862cc67725217e4 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_017c84dceb9ef03c54b0ff1ab23891ac = $(`<div id="html_017c84dceb9ef03c54b0ff1ab23891ac" style="width: 100.0%; height: 100.0%;"><b>Manor Road</b><br>Electors: 93<br>Reform Probability: 76%</div>`)[0];
+                popup_9f0262c9277f80181862cc67725217e4.setContent(html_017c84dceb9ef03c54b0ff1ab23891ac);
+            
+        
+
+        circle_marker_8aba9a88695b788097db64c6e7ebd88c.bindPopup(popup_9f0262c9277f80181862cc67725217e4)
+        ;
+
+        
+    
+    
+            var circle_marker_d609b2825e4e3d84fb8e8f7141bdca8d = L.circleMarker(
+                [51.157801, 0.255635],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_83ae1475a9c191494bce484f04773260 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_b140feee35927babd64ca493954be387 = $(`<div id="html_b140feee35927babd64ca493954be387" style="width: 100.0%; height: 100.0%;"><b>Carville Avenue</b><br>Electors: 41<br>Reform Probability: 74%</div>`)[0];
+                popup_83ae1475a9c191494bce484f04773260.setContent(html_b140feee35927babd64ca493954be387);
+            
+        
+
+        circle_marker_d609b2825e4e3d84fb8e8f7141bdca8d.bindPopup(popup_83ae1475a9c191494bce484f04773260)
+        ;
+
+        
+    
+    
+            var circle_marker_9e2305826c4e7ca7e68b523ce595d7e3 = L.circleMarker(
+                [51.160016, 0.255043],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_6b862cb0e67434dbd1bf6be45c3fc439 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0a79630b4112765cd81dd0ad5522e336 = $(`<div id="html_0a79630b4112765cd81dd0ad5522e336" style="width: 100.0%; height: 100.0%;"><b>Holden Road</b><br>Electors: 92<br>Reform Probability: 73%</div>`)[0];
+                popup_6b862cb0e67434dbd1bf6be45c3fc439.setContent(html_0a79630b4112765cd81dd0ad5522e336);
+            
+        
+
+        circle_marker_9e2305826c4e7ca7e68b523ce595d7e3.bindPopup(popup_6b862cb0e67434dbd1bf6be45c3fc439)
+        ;
+
+        
+    
+    
+            var circle_marker_aeae9028d0bc1941800cc9f7e888d23f = L.circleMarker(
+                [51.154304, 0.258825],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_b107ad3c3d3e1a7d687d6946e228eee3 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_6420eb5bbc74d65f2e1d174e601cdb20 = $(`<div id="html_6420eb5bbc74d65f2e1d174e601cdb20" style="width: 100.0%; height: 100.0%;"><b>Charles Street</b><br>Electors: 83<br>Reform Probability: 71%</div>`)[0];
+                popup_b107ad3c3d3e1a7d687d6946e228eee3.setContent(html_6420eb5bbc74d65f2e1d174e601cdb20);
+            
+        
+
+        circle_marker_aeae9028d0bc1941800cc9f7e888d23f.bindPopup(popup_b107ad3c3d3e1a7d687d6946e228eee3)
+        ;
+
+        
+    
+    
+            var circle_marker_f5cb8ef4e39518cf6453df8822d43c9d = L.circleMarker(
+                [51.161392, 0.255024],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_9b47555417c5af5b8abd529f4ff34428 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_a1334351b76ced82e53b1fb02b294cec = $(`<div id="html_a1334351b76ced82e53b1fb02b294cec" style="width: 100.0%; height: 100.0%;"><b>Ruscombe Close</b><br>Electors: 32<br>Reform Probability: 69%</div>`)[0];
+                popup_9b47555417c5af5b8abd529f4ff34428.setContent(html_a1334351b76ced82e53b1fb02b294cec);
+            
+        
+
+        circle_marker_f5cb8ef4e39518cf6453df8822d43c9d.bindPopup(popup_9b47555417c5af5b8abd529f4ff34428)
+        ;
+
+        
+    
+    
+            var circle_marker_348a8429fbf9b64f5f4f2f5366894e29 = L.circleMarker(
+                [51.159085, 0.261333],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_5c7336d1153eb22cf4186061383189fa = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_59283d92daa8e201a6718ac726a6173f = $(`<div id="html_59283d92daa8e201a6718ac726a6173f" style="width: 100.0%; height: 100.0%;"><b>Pinewood Gardens</b><br>Electors: 156<br>Reform Probability: 68%</div>`)[0];
+                popup_5c7336d1153eb22cf4186061383189fa.setContent(html_59283d92daa8e201a6718ac726a6173f);
+            
+        
+
+        circle_marker_348a8429fbf9b64f5f4f2f5366894e29.bindPopup(popup_5c7336d1153eb22cf4186061383189fa)
+        ;
+
+        
+    
+    
+            var circle_marker_9eb7518c5dc81c082e81f22939e63788 = L.circleMarker(
+                [51.161668, 0.25977],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_bfefb5831497f9f6c7df6646dde65a17 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_09eafef229768a899ca9045f8346606b = $(`<div id="html_09eafef229768a899ca9045f8346606b" style="width: 100.0%; height: 100.0%;"><b>Pennington Road</b><br>Electors: 170<br>Reform Probability: 68%</div>`)[0];
+                popup_bfefb5831497f9f6c7df6646dde65a17.setContent(html_09eafef229768a899ca9045f8346606b);
+            
+        
+
+        circle_marker_9eb7518c5dc81c082e81f22939e63788.bindPopup(popup_bfefb5831497f9f6c7df6646dde65a17)
+        ;
+
+        
+    
+    
+            var circle_marker_58541561ecb53e967d4da23f41708684 = L.circleMarker(
+                [51.153976, 0.257179],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_a4e6e2ca2f9a726163c5a798a071a019 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_da1f8f279559316b6390bee011697863 = $(`<div id="html_da1f8f279559316b6390bee011697863" style="width: 100.0%; height: 100.0%;"><b>Edward Street</b><br>Electors: 204<br>Reform Probability: 68%</div>`)[0];
+                popup_a4e6e2ca2f9a726163c5a798a071a019.setContent(html_da1f8f279559316b6390bee011697863);
+            
+        
+
+        circle_marker_58541561ecb53e967d4da23f41708684.bindPopup(popup_a4e6e2ca2f9a726163c5a798a071a019)
+        ;
+
+        
+    
+    
+            var circle_marker_a6336c0db94c51ebceab9d3a2f359a7b = L.circleMarker(
+                [51.155615, 0.255556],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_db94b321a937c2ec9f74607cba6885ac = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_e3e6b7d934373d1c09ebb2d663ce3bb0 = $(`<div id="html_e3e6b7d934373d1c09ebb2d663ce3bb0" style="width: 100.0%; height: 100.0%;"><b>Prospect Road</b><br>Electors: 243<br>Reform Probability: 67%</div>`)[0];
+                popup_db94b321a937c2ec9f74607cba6885ac.setContent(html_e3e6b7d934373d1c09ebb2d663ce3bb0);
+            
+        
+
+        circle_marker_a6336c0db94c51ebceab9d3a2f359a7b.bindPopup(popup_db94b321a937c2ec9f74607cba6885ac)
+        ;
+
+        
+    
+    
+            var circle_marker_426e1298ea35edfa6c457d254e783d89 = L.circleMarker(
+                [51.154698, 0.268183],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_ff26f48351769e800481033621867bfb = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_1900b74d58a8425c98714078c668f45f = $(`<div id="html_1900b74d58a8425c98714078c668f45f" style="width: 100.0%; height: 100.0%;"><b>Hillcrest</b><br>Electors: 77<br>Reform Probability: 66%</div>`)[0];
+                popup_ff26f48351769e800481033621867bfb.setContent(html_1900b74d58a8425c98714078c668f45f);
+            
+        
+
+        circle_marker_426e1298ea35edfa6c457d254e783d89.bindPopup(popup_ff26f48351769e800481033621867bfb)
+        ;
+
+        
+    
+    
+            var circle_marker_b1d9474b9258d262bd44ddd5aac1d665 = L.circleMarker(
+                [51.155719, 0.261912],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_70695d2e477cb993db1def149839c356 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_24168aaf3ad846adaa1571091544a5e0 = $(`<div id="html_24168aaf3ad846adaa1571091544a5e0" style="width: 100.0%; height: 100.0%;"><b>Crendon Park</b><br>Electors: 75<br>Reform Probability: 66%</div>`)[0];
+                popup_70695d2e477cb993db1def149839c356.setContent(html_24168aaf3ad846adaa1571091544a5e0);
+            
+        
+
+        circle_marker_b1d9474b9258d262bd44ddd5aac1d665.bindPopup(popup_70695d2e477cb993db1def149839c356)
+        ;
+
+        
+    
+    
+            var circle_marker_508454c74a8ea57a88ee8bd214f613f6 = L.circleMarker(
+                [51.15472, 0.262421],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_f31604cd0b02167cd2e59627e71aacda = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ec79252f3389ec944e94a03805d93df6 = $(`<div id="html_ec79252f3389ec944e94a03805d93df6" style="width: 100.0%; height: 100.0%;"><b>Yew Tree Road</b><br>Electors: 271<br>Reform Probability: 66%</div>`)[0];
+                popup_f31604cd0b02167cd2e59627e71aacda.setContent(html_ec79252f3389ec944e94a03805d93df6);
+            
+        
+
+        circle_marker_508454c74a8ea57a88ee8bd214f613f6.bindPopup(popup_f31604cd0b02167cd2e59627e71aacda)
+        ;
+
+        
+    
+    
+            var circle_marker_0e0ae5a8be8c80a3918d020377b9cdb1 = L.circleMarker(
+                [51.15719, 0.253289],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_b18584f2d622ca65325c19e577ef9205 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_f34e6e16940dc742f2cfb80d75367b15 = $(`<div id="html_f34e6e16940dc742f2cfb80d75367b15" style="width: 100.0%; height: 100.0%;"><b>Crundwell Road</b><br>Electors: 100<br>Reform Probability: 66%</div>`)[0];
+                popup_b18584f2d622ca65325c19e577ef9205.setContent(html_f34e6e16940dc742f2cfb80d75367b15);
+            
+        
+
+        circle_marker_0e0ae5a8be8c80a3918d020377b9cdb1.bindPopup(popup_b18584f2d622ca65325c19e577ef9205)
+        ;
+
+        
+    
+    
+            var circle_marker_2fe8814b1d1c00e7f93ba080ea919202 = L.circleMarker(
+                [51.161274, 0.257893],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_8f94f34f0528181023f3b76c861073ad = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0460b7de48262884e3a2d50488dd1ac5 = $(`<div id="html_0460b7de48262884e3a2d50488dd1ac5" style="width: 100.0%; height: 100.0%;"><b>Castle Street</b><br>Electors: 45<br>Reform Probability: 65%</div>`)[0];
+                popup_8f94f34f0528181023f3b76c861073ad.setContent(html_0460b7de48262884e3a2d50488dd1ac5);
+            
+        
+
+        circle_marker_2fe8814b1d1c00e7f93ba080ea919202.bindPopup(popup_8f94f34f0528181023f3b76c861073ad)
+        ;
+
+        
+    
+    
+            var circle_marker_88ef3910a00c4ae775a22024b5c1088c = L.circleMarker(
+                [51.160898, 0.259561],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_e8edcbdaff81bdd5ffedd02dbdcb516d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_3f45befbf1f965b779db2c417b701e10 = $(`<div id="html_3f45befbf1f965b779db2c417b701e10" style="width: 100.0%; height: 100.0%;"><b>Park Road</b><br>Electors: 200<br>Reform Probability: 65%</div>`)[0];
+                popup_e8edcbdaff81bdd5ffedd02dbdcb516d.setContent(html_3f45befbf1f965b779db2c417b701e10);
+            
+        
+
+        circle_marker_88ef3910a00c4ae775a22024b5c1088c.bindPopup(popup_e8edcbdaff81bdd5ffedd02dbdcb516d)
+        ;
+
+        
+    
+    
+            var circle_marker_acbf632299338ee794b49cca8661e24e = L.circleMarker(
+                [51.156974, 0.25794],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_4eddabfdfbd83d2278d5be9777c70318 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_b986f164dd965c67392e18bedf44f448 = $(`<div id="html_b986f164dd965c67392e18bedf44f448" style="width: 100.0%; height: 100.0%;"><b>Meadow Road</b><br>Electors: 123<br>Reform Probability: 65%</div>`)[0];
+                popup_4eddabfdfbd83d2278d5be9777c70318.setContent(html_b986f164dd965c67392e18bedf44f448);
+            
+        
+
+        circle_marker_acbf632299338ee794b49cca8661e24e.bindPopup(popup_4eddabfdfbd83d2278d5be9777c70318)
+        ;
+
+        
+    
+    
+            var circle_marker_142893859aa08dc784a14f6303ed6d7d = L.circleMarker(
+                [51.156943, 0.265619],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_5414549787bcf163a97a98f09125f689 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_a613714a575c367dc29da15c55f370a6 = $(`<div id="html_a613714a575c367dc29da15c55f370a6" style="width: 100.0%; height: 100.0%;"><b>The Ridgewaye</b><br>Electors: 114<br>Reform Probability: 65%</div>`)[0];
+                popup_5414549787bcf163a97a98f09125f689.setContent(html_a613714a575c367dc29da15c55f370a6);
+            
+        
+
+        circle_marker_142893859aa08dc784a14f6303ed6d7d.bindPopup(popup_5414549787bcf163a97a98f09125f689)
+        ;
+
+        
+    
+    
+            var circle_marker_598af14603fb17e902f8bb118bddff7b = L.circleMarker(
+                [51.155491, 0.257911],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_b25755118b77eef6f73bae3dd413c6c1 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_26776c424c6aaf465ef70cd5ed04e1f7 = $(`<div id="html_26776c424c6aaf465ef70cd5ed04e1f7" style="width: 100.0%; height: 100.0%;"><b>Forge Road</b><br>Electors: 66<br>Reform Probability: 65%</div>`)[0];
+                popup_b25755118b77eef6f73bae3dd413c6c1.setContent(html_26776c424c6aaf465ef70cd5ed04e1f7);
+            
+        
+
+        circle_marker_598af14603fb17e902f8bb118bddff7b.bindPopup(popup_b25755118b77eef6f73bae3dd413c6c1)
+        ;
+
+        
+    
+    
+            var circle_marker_d7ba7ff04abe9667ec3731ac2deed508 = L.circleMarker(
+                [51.157743, 0.257692],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_aaffd88ed5a5a7664c8682a8b5d6de9e = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ddeb5f0bf2f618c9aa6476260698236a = $(`<div id="html_ddeb5f0bf2f618c9aa6476260698236a" style="width: 100.0%; height: 100.0%;"><b>Springfield Road</b><br>Electors: 204<br>Reform Probability: 65%</div>`)[0];
+                popup_aaffd88ed5a5a7664c8682a8b5d6de9e.setContent(html_ddeb5f0bf2f618c9aa6476260698236a);
+            
+        
+
+        circle_marker_d7ba7ff04abe9667ec3731ac2deed508.bindPopup(popup_aaffd88ed5a5a7664c8682a8b5d6de9e)
+        ;
+
+        
+    
+    
+            var circle_marker_43cf3b27dc9ecd29aefd408722ba2428 = L.circleMarker(
+                [51.158763, 0.25707],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_2fcbcfce84f64c330d942876ef70a6c2 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_b6bd47194484b5f8c9ef9900994cf77e = $(`<div id="html_b6bd47194484b5f8c9ef9900994cf77e" style="width: 100.0%; height: 100.0%;"><b>Doric Avenue</b><br>Electors: 82<br>Reform Probability: 65%</div>`)[0];
+                popup_2fcbcfce84f64c330d942876ef70a6c2.setContent(html_b6bd47194484b5f8c9ef9900994cf77e);
+            
+        
+
+        circle_marker_43cf3b27dc9ecd29aefd408722ba2428.bindPopup(popup_2fcbcfce84f64c330d942876ef70a6c2)
+        ;
+
+        
+    
+    
+            var circle_marker_65ec636b816fd4fa854123a35ee3dd02 = L.circleMarker(
+                [51.154694, 0.249335],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_fc9cbed3b357d32daf9d436a14339824 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_6a1b3fd32e6680b9d314fe1d45d4b993 = $(`<div id="html_6a1b3fd32e6680b9d314fe1d45d4b993" style="width: 100.0%; height: 100.0%;"><b>Keel Gardens</b><br>Electors: 64<br>Reform Probability: 64%</div>`)[0];
+                popup_fc9cbed3b357d32daf9d436a14339824.setContent(html_6a1b3fd32e6680b9d314fe1d45d4b993);
+            
+        
+
+        circle_marker_65ec636b816fd4fa854123a35ee3dd02.bindPopup(popup_fc9cbed3b357d32daf9d436a14339824)
+        ;
+
+        
+    
+    
+            var circle_marker_413577b80a66b4230700f8dd179f96a8 = L.circleMarker(
+                [51.155159, 0.258324],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_51ba0f08dc8ad04b1b87aec62981e32f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_9b6c801ca90f4ae0e2d6e14eade7c069 = $(`<div id="html_9b6c801ca90f4ae0e2d6e14eade7c069" style="width: 100.0%; height: 100.0%;"><b>Holden Park Road</b><br>Electors: 99<br>Reform Probability: 64%</div>`)[0];
+                popup_51ba0f08dc8ad04b1b87aec62981e32f.setContent(html_9b6c801ca90f4ae0e2d6e14eade7c069);
+            
+        
+
+        circle_marker_413577b80a66b4230700f8dd179f96a8.bindPopup(popup_51ba0f08dc8ad04b1b87aec62981e32f)
+        ;
+
+        
+    
+    
+            var circle_marker_3fe990e94052f366c5420f11351bc6af = L.circleMarker(
+                [51.152357, 0.267439],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_30d80d57ca8acb2487e1e6e89d6eac23 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d087825759e959d47d0c2ae4a8a1ae5b = $(`<div id="html_d087825759e959d47d0c2ae4a8a1ae5b" style="width: 100.0%; height: 100.0%;"><b>Chestnut Avenue</b><br>Electors: 146<br>Reform Probability: 63%</div>`)[0];
+                popup_30d80d57ca8acb2487e1e6e89d6eac23.setContent(html_d087825759e959d47d0c2ae4a8a1ae5b);
+            
+        
+
+        circle_marker_3fe990e94052f366c5420f11351bc6af.bindPopup(popup_30d80d57ca8acb2487e1e6e89d6eac23)
+        ;
+
+        
+    
+    
+            var circle_marker_3189c9f099e3537fbd510c7aa0787ea5 = L.circleMarker(
+                [51.154158, 0.257901],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_d8c12b6a13ea2e2cf617bc7d96f16007 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_cb2ed9c2897ea03cd9d39fd924f63c47 = $(`<div id="html_cb2ed9c2897ea03cd9d39fd924f63c47" style="width: 100.0%; height: 100.0%;"><b>Taylor Street</b><br>Electors: 109<br>Reform Probability: 61%</div>`)[0];
+                popup_d8c12b6a13ea2e2cf617bc7d96f16007.setContent(html_cb2ed9c2897ea03cd9d39fd924f63c47);
+            
+        
+
+        circle_marker_3189c9f099e3537fbd510c7aa0787ea5.bindPopup(popup_d8c12b6a13ea2e2cf617bc7d96f16007)
+        ;
+
+        
+    
+    
+            var circle_marker_062dda3d7fdda638bc6c94889385fda7 = L.circleMarker(
+                [51.145386, 0.266438],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_0f3f99aca6df64bc76ff44fd82d82ae0 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_37c1dee9a9315e930e097d763425abba = $(`<div id="html_37c1dee9a9315e930e097d763425abba" style="width: 100.0%; height: 100.0%;"><b>All Saints Road</b><br>Electors: 102<br>Reform Probability: 61%</div>`)[0];
+                popup_0f3f99aca6df64bc76ff44fd82d82ae0.setContent(html_37c1dee9a9315e930e097d763425abba);
+            
+        
+
+        circle_marker_062dda3d7fdda638bc6c94889385fda7.bindPopup(popup_0f3f99aca6df64bc76ff44fd82d82ae0)
+        ;
+
+        
+    
+    
+            var circle_marker_b2e3dd329f6ebd512824dddb9b102f4e = L.circleMarker(
+                [51.149129, 0.271926],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_81192f09d2030993a26f069b974be520 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_466913f846b552082865bf9f4bf7b337 = $(`<div id="html_466913f846b552082865bf9f4bf7b337" style="width: 100.0%; height: 100.0%;"><b>Woodland Close</b><br>Electors: 36<br>Reform Probability: 61%</div>`)[0];
+                popup_81192f09d2030993a26f069b974be520.setContent(html_466913f846b552082865bf9f4bf7b337);
+            
+        
+
+        circle_marker_b2e3dd329f6ebd512824dddb9b102f4e.bindPopup(popup_81192f09d2030993a26f069b974be520)
+        ;
+
+        
+    
+    
+            var circle_marker_a9cfb4a2f9290e566f06ec215a7d5107 = L.circleMarker(
+                [51.143465, 0.268574],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_7b81b89682a2db671faea97093f5e105 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_03e3ca0b37ab563786484d9e92533a85 = $(`<div id="html_03e3ca0b37ab563786484d9e92533a85" style="width: 100.0%; height: 100.0%;"><b>Queens Road</b><br>Electors: 410<br>Reform Probability: 61%</div>`)[0];
+                popup_7b81b89682a2db671faea97093f5e105.setContent(html_03e3ca0b37ab563786484d9e92533a85);
+            
+        
+
+        circle_marker_a9cfb4a2f9290e566f06ec215a7d5107.bindPopup(popup_7b81b89682a2db671faea97093f5e105)
+        ;
+
+        
+    
+    
+            var circle_marker_a97922d53f4b1e8926c51c0cd27bd9b0 = L.circleMarker(
+                [51.159075, 0.25627],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_cdc2ab4f4ff502f514d783384f060e70 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_210be6fa8f9d149c48bf011bfab49d23 = $(`<div id="html_210be6fa8f9d149c48bf011bfab49d23" style="width: 100.0%; height: 100.0%;"><b>Vale Avenue</b><br>Electors: 27<br>Reform Probability: 60%</div>`)[0];
+                popup_cdc2ab4f4ff502f514d783384f060e70.setContent(html_210be6fa8f9d149c48bf011bfab49d23);
+            
+        
+
+        circle_marker_a97922d53f4b1e8926c51c0cd27bd9b0.bindPopup(popup_cdc2ab4f4ff502f514d783384f060e70)
+        ;
+
+        
+    
+    
+            var circle_marker_5a2cdface5ebf17931e0098c2eb83a54 = L.circleMarker(
+                [51.161609, 0.261986],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_403bb7778fd1254f86d02641d3f90007 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0e83ec28e2e744e794777b5841b33773 = $(`<div id="html_0e83ec28e2e744e794777b5841b33773" style="width: 100.0%; height: 100.0%;"><b>Fernhurst Crescent</b><br>Electors: 85<br>Reform Probability: 60%</div>`)[0];
+                popup_403bb7778fd1254f86d02641d3f90007.setContent(html_0e83ec28e2e744e794777b5841b33773);
+            
+        
+
+        circle_marker_5a2cdface5ebf17931e0098c2eb83a54.bindPopup(popup_403bb7778fd1254f86d02641d3f90007)
+        ;
+
+        
+    
+    
+            var circle_marker_e20bc01d8905976e46cbd9754af94f67 = L.circleMarker(
+                [51.158492, 0.245313],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_7851871aa273db14146b0ca2e0304a11 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_33ec30a5e48fb9f9b1a719eb91cd8199 = $(`<div id="html_33ec30a5e48fb9f9b1a719eb91cd8199" style="width: 100.0%; height: 100.0%;"><b>Victoria Road</b><br>Electors: 74<br>Reform Probability: 60%</div>`)[0];
+                popup_7851871aa273db14146b0ca2e0304a11.setContent(html_33ec30a5e48fb9f9b1a719eb91cd8199);
+            
+        
+
+        circle_marker_e20bc01d8905976e46cbd9754af94f67.bindPopup(popup_7851871aa273db14146b0ca2e0304a11)
+        ;
+
+        
+    
+    
+            var circle_marker_1fa9d19ca87bea3698ed3b693c057409 = L.circleMarker(
+                [51.156179, 0.261318],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_d44a31b4037a4fdf240b9a566a5c72fb = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_011e7805df4624246c2fdeed413b84e8 = $(`<div id="html_011e7805df4624246c2fdeed413b84e8" style="width: 100.0%; height: 100.0%;"><b>Salomons Grove</b><br>Electors: 85<br>Reform Probability: 59%</div>`)[0];
+                popup_d44a31b4037a4fdf240b9a566a5c72fb.setContent(html_011e7805df4624246c2fdeed413b84e8);
+            
+        
+
+        circle_marker_1fa9d19ca87bea3698ed3b693c057409.bindPopup(popup_d44a31b4037a4fdf240b9a566a5c72fb)
+        ;
+
+        
+    
+    
+            var circle_marker_d855846f4d06be75564cff7253899cb7 = L.circleMarker(
+                [51.148856, 0.264765],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_7c6b111bffcbbed7a85baad4857e1a39 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d1dd60b59a167e2f51006a1e45884b3d = $(`<div id="html_d1dd60b59a167e2f51006a1e45884b3d" style="width: 100.0%; height: 100.0%;"><b>Wilman Road</b><br>Electors: 179<br>Reform Probability: 59%</div>`)[0];
+                popup_7c6b111bffcbbed7a85baad4857e1a39.setContent(html_d1dd60b59a167e2f51006a1e45884b3d);
+            
+        
+
+        circle_marker_d855846f4d06be75564cff7253899cb7.bindPopup(popup_7c6b111bffcbbed7a85baad4857e1a39)
+        ;
+
+        
+    
+    
+            var circle_marker_d4f59f45fe7b338c013aff23c8f80026 = L.circleMarker(
+                [51.159896, 0.256152],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_8287b1ced6f54e308a71ea2f4e11469b = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_82743a813bb594ef5e3dc60c09286f28 = $(`<div id="html_82743a813bb594ef5e3dc60c09286f28" style="width: 100.0%; height: 100.0%;"><b>Vale Road</b><br>Electors: 79<br>Reform Probability: 58%</div>`)[0];
+                popup_8287b1ced6f54e308a71ea2f4e11469b.setContent(html_82743a813bb594ef5e3dc60c09286f28);
+            
+        
+
+        circle_marker_d4f59f45fe7b338c013aff23c8f80026.bindPopup(popup_8287b1ced6f54e308a71ea2f4e11469b)
+        ;
+
+        
+    
+    
+            var circle_marker_18a31cad5561529c507fb6bc45b2b596 = L.circleMarker(
+                [51.157062, 0.281657],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_2dc5a5e16dcf64377a6fb0b8931878ce = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_bdfcccacac58e0922c412824a50cf3e5 = $(`<div id="html_bdfcccacac58e0922c412824a50cf3e5" style="width: 100.0%; height: 100.0%;"><b>Juniper Close</b><br>Electors: 51<br>Reform Probability: 58%</div>`)[0];
+                popup_2dc5a5e16dcf64377a6fb0b8931878ce.setContent(html_bdfcccacac58e0922c412824a50cf3e5);
+            
+        
+
+        circle_marker_18a31cad5561529c507fb6bc45b2b596.bindPopup(popup_2dc5a5e16dcf64377a6fb0b8931878ce)
+        ;
+
+        
+    
+    
+            var circle_marker_7d1eb6d80721fda0f2ee079ce4025ec9 = L.circleMarker(
+                [51.160944, 0.258192],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_5802297ae7c14c5f9670c41ac51a4c71 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_61b0f519a6daefe0111b4addad567076 = $(`<div id="html_61b0f519a6daefe0111b4addad567076" style="width: 100.0%; height: 100.0%;"><b>Sheffield Road</b><br>Electors: 42<br>Reform Probability: 58%</div>`)[0];
+                popup_5802297ae7c14c5f9670c41ac51a4c71.setContent(html_61b0f519a6daefe0111b4addad567076);
+            
+        
+
+        circle_marker_7d1eb6d80721fda0f2ee079ce4025ec9.bindPopup(popup_5802297ae7c14c5f9670c41ac51a4c71)
+        ;
+
+        
+    
+    
+            var circle_marker_4d0087c3597e221182b6b3754d92ea60 = L.circleMarker(
+                [51.157559, 0.252806],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_830f21104e9624da54b50d2dfdafffa6 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_033f1c5dcd01769560f69d16655a1760 = $(`<div id="html_033f1c5dcd01769560f69d16655a1760" style="width: 100.0%; height: 100.0%;"><b>Prospect Park</b><br>Electors: 57<br>Reform Probability: 57%</div>`)[0];
+                popup_830f21104e9624da54b50d2dfdafffa6.setContent(html_033f1c5dcd01769560f69d16655a1760);
+            
+        
+
+        circle_marker_4d0087c3597e221182b6b3754d92ea60.bindPopup(popup_830f21104e9624da54b50d2dfdafffa6)
+        ;
+
+        
+    
+    
+            var circle_marker_78962312df6be7017cc7f3a30b6a3d19 = L.circleMarker(
+                [51.158154, 0.256897],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_67118619c42a6cfd1896cec2363bbdd6 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_be1c1ebdb010370a7886f85be42995a8 = $(`<div id="html_be1c1ebdb010370a7886f85be42995a8" style="width: 100.0%; height: 100.0%;"><b>Breedon Avenue</b><br>Electors: 16<br>Reform Probability: 57%</div>`)[0];
+                popup_67118619c42a6cfd1896cec2363bbdd6.setContent(html_be1c1ebdb010370a7886f85be42995a8);
+            
+        
+
+        circle_marker_78962312df6be7017cc7f3a30b6a3d19.bindPopup(popup_67118619c42a6cfd1896cec2363bbdd6)
+        ;
+
+        
+    
+    
+            var circle_marker_9736b98caa67ae283b53d0fc7e03e2ca = L.circleMarker(
+                [51.156185, 0.278667],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_c2e47db6b91c7ba7719c8987ac3e682d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_1ff43755d78af71a08e70d5fcacfb9ae = $(`<div id="html_1ff43755d78af71a08e70d5fcacfb9ae" style="width: 100.0%; height: 100.0%;"><b>Aspen Way</b><br>Electors: 48<br>Reform Probability: 57%</div>`)[0];
+                popup_c2e47db6b91c7ba7719c8987ac3e682d.setContent(html_1ff43755d78af71a08e70d5fcacfb9ae);
+            
+        
+
+        circle_marker_9736b98caa67ae283b53d0fc7e03e2ca.bindPopup(popup_c2e47db6b91c7ba7719c8987ac3e682d)
+        ;
+
+        
+    
+    
+            var circle_marker_bc22f35e00eee572dcd55d67a8511a18 = L.circleMarker(
+                [51.152325, 0.2597],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_d932041ea1e20de5c929512d91b47ad5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_3bd0e9f167364c8fd65b4fbf6a061262 = $(`<div id="html_3bd0e9f167364c8fd65b4fbf6a061262" style="width: 100.0%; height: 100.0%;"><b>Reynolds Lane</b><br>Electors: 101<br>Reform Probability: 57%</div>`)[0];
+                popup_d932041ea1e20de5c929512d91b47ad5.setContent(html_3bd0e9f167364c8fd65b4fbf6a061262);
+            
+        
+
+        circle_marker_bc22f35e00eee572dcd55d67a8511a18.bindPopup(popup_d932041ea1e20de5c929512d91b47ad5)
+        ;
+
+        
+    
+    
+            var circle_marker_58247ccd473d30b41800cc8dfabebfb1 = L.circleMarker(
+                [51.154893, 0.28082],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_9354b0d3aa51268a5e7c875a6581fbba = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_48b784d1e2a3a8fd2af6697e740e11be = $(`<div id="html_48b784d1e2a3a8fd2af6697e740e11be" style="width: 100.0%; height: 100.0%;"><b>Walnut Way</b><br>Electors: 68<br>Reform Probability: 56%</div>`)[0];
+                popup_9354b0d3aa51268a5e7c875a6581fbba.setContent(html_48b784d1e2a3a8fd2af6697e740e11be);
+            
+        
+
+        circle_marker_58247ccd473d30b41800cc8dfabebfb1.bindPopup(popup_9354b0d3aa51268a5e7c875a6581fbba)
+        ;
+
+        
+    
+    
+            var circle_marker_9e9975763e68d7e9b47537ebd4dbbc71 = L.circleMarker(
+                [51.154991, 0.268797],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_a165ef77e9e54bb568ac10276a7500d9 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_63107a66f0207c18c9a86f128acad825 = $(`<div id="html_63107a66f0207c18c9a86f128acad825" style="width: 100.0%; height: 100.0%;"><b>Brian Crescent</b><br>Electors: 63<br>Reform Probability: 56%</div>`)[0];
+                popup_a165ef77e9e54bb568ac10276a7500d9.setContent(html_63107a66f0207c18c9a86f128acad825);
+            
+        
+
+        circle_marker_9e9975763e68d7e9b47537ebd4dbbc71.bindPopup(popup_a165ef77e9e54bb568ac10276a7500d9)
+        ;
+
+        
+    
+    
+            var circle_marker_041e302b7051fb6aaa8220aeed4457da = L.circleMarker(
+                [51.161094, 0.257311],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_21ea9ad12f084f88fe1a46d7b473b02a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_85a577e0bed8ef0138f0e61e80dc0bdf = $(`<div id="html_85a577e0bed8ef0138f0e61e80dc0bdf" style="width: 100.0%; height: 100.0%;"><b>Draper Street</b><br>Electors: 28<br>Reform Probability: 56%</div>`)[0];
+                popup_21ea9ad12f084f88fe1a46d7b473b02a.setContent(html_85a577e0bed8ef0138f0e61e80dc0bdf);
+            
+        
+
+        circle_marker_041e302b7051fb6aaa8220aeed4457da.bindPopup(popup_21ea9ad12f084f88fe1a46d7b473b02a)
+        ;
+
+        
+    
+    
+            var circle_marker_565c85afd9657b1343248a29411b370b = L.circleMarker(
+                [51.156875, 0.25888],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_59cac491b15a1c7c633477fbf8114518 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_c7c82cf25067c061aa544fb2407a5a61 = $(`<div id="html_c7c82cf25067c061aa544fb2407a5a61" style="width: 100.0%; height: 100.0%;"><b>Bedford Road</b><br>Electors: 66<br>Reform Probability: 56%</div>`)[0];
+                popup_59cac491b15a1c7c633477fbf8114518.setContent(html_c7c82cf25067c061aa544fb2407a5a61);
+            
+        
+
+        circle_marker_565c85afd9657b1343248a29411b370b.bindPopup(popup_59cac491b15a1c7c633477fbf8114518)
+        ;
+
+        
+    
+    
+            var circle_marker_0aa0ae46a23815257c15f2248f7a6b21 = L.circleMarker(
+                [51.149415, 0.267924],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_b5fba9ff813b05f00466ffe8167b41b8 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ba076344f67b967fcfc3c18428df84fb = $(`<div id="html_ba076344f67b967fcfc3c18428df84fb" style="width: 100.0%; height: 100.0%;"><b>Cunningham Close</b><br>Electors: 24<br>Reform Probability: 56%</div>`)[0];
+                popup_b5fba9ff813b05f00466ffe8167b41b8.setContent(html_ba076344f67b967fcfc3c18428df84fb);
+            
+        
+
+        circle_marker_0aa0ae46a23815257c15f2248f7a6b21.bindPopup(popup_b5fba9ff813b05f00466ffe8167b41b8)
+        ;
+
+        
+    
+    
+            var circle_marker_2ab04a050248b1f73f760fc66a54a398 = L.circleMarker(
+                [51.159391, 0.259816],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_6e135db7e1bb58f5790490eae1e86e7a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_248f1d2bb4443923b06c937dd9bd85c8 = $(`<div id="html_248f1d2bb4443923b06c937dd9bd85c8" style="width: 100.0%; height: 100.0%;"><b>Garlinge Road</b><br>Electors: 41<br>Reform Probability: 55%</div>`)[0];
+                popup_6e135db7e1bb58f5790490eae1e86e7a.setContent(html_248f1d2bb4443923b06c937dd9bd85c8);
+            
+        
+
+        circle_marker_2ab04a050248b1f73f760fc66a54a398.bindPopup(popup_6e135db7e1bb58f5790490eae1e86e7a)
+        ;
+
+        
+    
+    
+            var circle_marker_a61d832b71504cc05e8a5e2b6e922517 = L.circleMarker(
+                [51.154708, 0.275077],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_9dcc24c902bc4c325f9ae1233033938d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_dfd23ca904a614fd0a593e2494fa5126 = $(`<div id="html_dfd23ca904a614fd0a593e2494fa5126" style="width: 100.0%; height: 100.0%;"><b>Barnetts Way</b><br>Electors: 61<br>Reform Probability: 54%</div>`)[0];
+                popup_9dcc24c902bc4c325f9ae1233033938d.setContent(html_dfd23ca904a614fd0a593e2494fa5126);
+            
+        
+
+        circle_marker_a61d832b71504cc05e8a5e2b6e922517.bindPopup(popup_9dcc24c902bc4c325f9ae1233033938d)
+        ;
+
+        
+    
+    
+            var circle_marker_56258942a44f9af84b8d8e238299f0c1 = L.circleMarker(
+                [51.155899, 0.24885],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_44e0f3fa7c0ab85fa735e3f2b5500823 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_783e21d742e5b59e63bde7ffab04f4cf = $(`<div id="html_783e21d742e5b59e63bde7ffab04f4cf" style="width: 100.0%; height: 100.0%;"><b>Sir Davids Park</b><br>Electors: 86<br>Reform Probability: 54%</div>`)[0];
+                popup_44e0f3fa7c0ab85fa735e3f2b5500823.setContent(html_783e21d742e5b59e63bde7ffab04f4cf);
+            
+        
+
+        circle_marker_56258942a44f9af84b8d8e238299f0c1.bindPopup(popup_44e0f3fa7c0ab85fa735e3f2b5500823)
+        ;
+
+        
+    
+    
+            var circle_marker_f93dbd24a19fa1872ca68a4c1feb5253 = L.circleMarker(
+                [51.150783, 0.264631],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_38702f8487da5c22c798276a2e1945b8 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_366e5119a753a18c67725ec7c4b25d77 = $(`<div id="html_366e5119a753a18c67725ec7c4b25d77" style="width: 100.0%; height: 100.0%;"><b>The Fairways</b><br>Electors: 18<br>Reform Probability: 54%</div>`)[0];
+                popup_38702f8487da5c22c798276a2e1945b8.setContent(html_366e5119a753a18c67725ec7c4b25d77);
+            
+        
+
+        circle_marker_f93dbd24a19fa1872ca68a4c1feb5253.bindPopup(popup_38702f8487da5c22c798276a2e1945b8)
+        ;
+
+        
+    
+    
+            var circle_marker_959a0f57049be482f8f19c21a235aae4 = L.circleMarker(
+                [51.15714, 0.260537],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_a511e8aa1f3c3258c1ce10ba679ec10e = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d0c930b0c798418d225f5b051f071865 = $(`<div id="html_d0c930b0c798418d225f5b051f071865" style="width: 100.0%; height: 100.0%;"><b>Hythe Close</b><br>Electors: 49<br>Reform Probability: 54%</div>`)[0];
+                popup_a511e8aa1f3c3258c1ce10ba679ec10e.setContent(html_d0c930b0c798418d225f5b051f071865);
+            
+        
+
+        circle_marker_959a0f57049be482f8f19c21a235aae4.bindPopup(popup_a511e8aa1f3c3258c1ce10ba679ec10e)
+        ;
+
+        
+    
+    
+            var circle_marker_2451a025df1e8a609bd0d0be8ed25c06 = L.circleMarker(
+                [51.15839, 0.25821],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_622112dfc85b474f12c89b4d03de8f63 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_1542dabd5fd08585922a87d215adc4c9 = $(`<div id="html_1542dabd5fd08585922a87d215adc4c9" style="width: 100.0%; height: 100.0%;"><b>West Park Avenue</b><br>Electors: 20<br>Reform Probability: 54%</div>`)[0];
+                popup_622112dfc85b474f12c89b4d03de8f63.setContent(html_1542dabd5fd08585922a87d215adc4c9);
+            
+        
+
+        circle_marker_2451a025df1e8a609bd0d0be8ed25c06.bindPopup(popup_622112dfc85b474f12c89b4d03de8f63)
+        ;
+
+        
+    
+    
+            var circle_marker_8970b4460a71eceaac2620203b37012e = L.circleMarker(
+                [51.162821, 0.257781],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_7ba32fcfb4e44235e97449256eff2cb5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_18dd47f84f3f98d54c74451d6f024bb8 = $(`<div id="html_18dd47f84f3f98d54c74451d6f024bb8" style="width: 100.0%; height: 100.0%;"><b>Vicarage Road</b><br>Electors: 49<br>Reform Probability: 53%</div>`)[0];
+                popup_7ba32fcfb4e44235e97449256eff2cb5.setContent(html_18dd47f84f3f98d54c74451d6f024bb8);
+            
+        
+
+        circle_marker_8970b4460a71eceaac2620203b37012e.bindPopup(popup_7ba32fcfb4e44235e97449256eff2cb5)
+        ;
+
+        
+    
+    
+            var circle_marker_9a150f01c7870403df60764b0b9b6d53 = L.circleMarker(
+                [51.156308, 0.280218],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_d0e666f82a2f370ed386690e978e5529 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_9a337add1fbb8d45dd05f5e9c772831c = $(`<div id="html_9a337add1fbb8d45dd05f5e9c772831c" style="width: 100.0%; height: 100.0%;"><b>Mulberry Close</b><br>Electors: 38<br>Reform Probability: 53%</div>`)[0];
+                popup_d0e666f82a2f370ed386690e978e5529.setContent(html_9a337add1fbb8d45dd05f5e9c772831c);
+            
+        
+
+        circle_marker_9a150f01c7870403df60764b0b9b6d53.bindPopup(popup_d0e666f82a2f370ed386690e978e5529)
+        ;
+
+        
+    
+    
+            var circle_marker_363220f0c51bd4f2299fa690e0ffb061 = L.circleMarker(
+                [51.15778, 0.261282],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_289b5b8e12a04f73291aa806ab2643f3 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ff190af4e4bbecc833d8e13feb863510 = $(`<div id="html_ff190af4e4bbecc833d8e13feb863510" style="width: 100.0%; height: 100.0%;"><b>St Andrews Park Road</b><br>Electors: 61<br>Reform Probability: 52%</div>`)[0];
+                popup_289b5b8e12a04f73291aa806ab2643f3.setContent(html_ff190af4e4bbecc833d8e13feb863510);
+            
+        
+
+        circle_marker_363220f0c51bd4f2299fa690e0ffb061.bindPopup(popup_289b5b8e12a04f73291aa806ab2643f3)
+        ;
+
+        
+    
+    
+            var circle_marker_a6a4a1ea0f9400405132842ff38b7a88 = L.circleMarker(
+                [51.15665, 0.257467],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_3cd3192278945c856012c6e3876f10c5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_de2c6407faa56b353a6d4f211f330137 = $(`<div id="html_de2c6407faa56b353a6d4f211f330137" style="width: 100.0%; height: 100.0%;"><b>Elm Road</b><br>Electors: 44<br>Reform Probability: 52%</div>`)[0];
+                popup_3cd3192278945c856012c6e3876f10c5.setContent(html_de2c6407faa56b353a6d4f211f330137);
+            
+        
+
+        circle_marker_a6a4a1ea0f9400405132842ff38b7a88.bindPopup(popup_3cd3192278945c856012c6e3876f10c5)
+        ;
+
+        
+    
+    
+            var circle_marker_153d70244af826f92f7f6d0f2378ce27 = L.circleMarker(
+                [51.16094, 0.263555],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_9074b9a120739d08a4b32990ddf4def4 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_c6070dc4de6eb35856cbc48a74f0e77e = $(`<div id="html_c6070dc4de6eb35856cbc48a74f0e77e" style="width: 100.0%; height: 100.0%;"><b>Colonels Way</b><br>Electors: 36<br>Reform Probability: 52%</div>`)[0];
+                popup_9074b9a120739d08a4b32990ddf4def4.setContent(html_c6070dc4de6eb35856cbc48a74f0e77e);
+            
+        
+
+        circle_marker_153d70244af826f92f7f6d0f2378ce27.bindPopup(popup_9074b9a120739d08a4b32990ddf4def4)
+        ;
+
+        
+    
+    
+            var circle_marker_9b471ffb588f8c60db2d242bb553c0b9 = L.circleMarker(
+                [51.14265, 0.271267],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_b20bb4157293333a8863e4f523e38e1e = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4d1872fb3680071af51a9b779e4c8dcd = $(`<div id="html_4d1872fb3680071af51a9b779e4c8dcd" style="width: 100.0%; height: 100.0%;"><b>Hasletts Close</b><br>Electors: 23<br>Reform Probability: 51%</div>`)[0];
+                popup_b20bb4157293333a8863e4f523e38e1e.setContent(html_4d1872fb3680071af51a9b779e4c8dcd);
+            
+        
+
+        circle_marker_9b471ffb588f8c60db2d242bb553c0b9.bindPopup(popup_b20bb4157293333a8863e4f523e38e1e)
+        ;
+
+        
+    
+    
+            var circle_marker_35b96033e5a7e0796b0f91753fe05094 = L.circleMarker(
+                [51.155914, 0.253212],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_4a9c4f523058e56c89a846162ccf2749 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8ac4640594c81cbb79b5fb23fede0374 = $(`<div id="html_8ac4640594c81cbb79b5fb23fede0374" style="width: 100.0%; height: 100.0%;"><b>Woolley Road</b><br>Electors: 109<br>Reform Probability: 51%</div>`)[0];
+                popup_4a9c4f523058e56c89a846162ccf2749.setContent(html_8ac4640594c81cbb79b5fb23fede0374);
+            
+        
+
+        circle_marker_35b96033e5a7e0796b0f91753fe05094.bindPopup(popup_4a9c4f523058e56c89a846162ccf2749)
+        ;
+
+        
+    
+    
+            var circle_marker_732a94ebc5bbd48e704ed5050e2c4fc4 = L.circleMarker(
+                [51.156531, 0.258432],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_90088ff8ce0be863ef528996b774d350 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_88f77fac9a03bbf2f1402b5ff2a67ff3 = $(`<div id="html_88f77fac9a03bbf2f1402b5ff2a67ff3" style="width: 100.0%; height: 100.0%;"><b>Norton Road</b><br>Electors: 51<br>Reform Probability: 50%</div>`)[0];
+                popup_90088ff8ce0be863ef528996b774d350.setContent(html_88f77fac9a03bbf2f1402b5ff2a67ff3);
+            
+        
+
+        circle_marker_732a94ebc5bbd48e704ed5050e2c4fc4.bindPopup(popup_90088ff8ce0be863ef528996b774d350)
+        ;
+
+        
+    
+    
+            var circle_marker_022d5bd5c3cc09aad220be5a361fbbca = L.circleMarker(
+                [51.150869, 0.271356],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_bfb89e0a67729a69f1ac53c22e516a99 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d58d8d803af9f2707f6e01fdd6a58ce3 = $(`<div id="html_d58d8d803af9f2707f6e01fdd6a58ce3" style="width: 100.0%; height: 100.0%;"><b>South View Road</b><br>Electors: 128<br>Reform Probability: 50%</div>`)[0];
+                popup_bfb89e0a67729a69f1ac53c22e516a99.setContent(html_d58d8d803af9f2707f6e01fdd6a58ce3);
+            
+        
+
+        circle_marker_022d5bd5c3cc09aad220be5a361fbbca.bindPopup(popup_bfb89e0a67729a69f1ac53c22e516a99)
+        ;
+
+        
+    
+    
+            var circle_marker_72a82804a3b5970d86dae38aeccc9e14 = L.circleMarker(
+                [51.158375, 0.254805],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_cda41fb95d417c1503e1fbaad061b94c = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_2d83d892aaaa03aa5629ccfe6ce2d2a3 = $(`<div id="html_2d83d892aaaa03aa5629ccfe6ce2d2a3" style="width: 100.0%; height: 100.0%;"><b>Summerhill Avenue</b><br>Electors: 25<br>Reform Probability: 50%</div>`)[0];
+                popup_cda41fb95d417c1503e1fbaad061b94c.setContent(html_2d83d892aaaa03aa5629ccfe6ce2d2a3);
+            
+        
+
+        circle_marker_72a82804a3b5970d86dae38aeccc9e14.bindPopup(popup_cda41fb95d417c1503e1fbaad061b94c)
+        ;
+
+        
+    
+    
+            var circle_marker_01f945150c6d7dae3fc9943f7bf063c7 = L.circleMarker(
+                [51.155695, 0.280316],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_4462a259f0408f1c851900dff01a78b8 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_52d4377b7892a4b044691541bd8ab863 = $(`<div id="html_52d4377b7892a4b044691541bd8ab863" style="width: 100.0%; height: 100.0%;"><b>Blackthorn Avenue</b><br>Electors: 120<br>Reform Probability: 49%</div>`)[0];
+                popup_4462a259f0408f1c851900dff01a78b8.setContent(html_52d4377b7892a4b044691541bd8ab863);
+            
+        
+
+        circle_marker_01f945150c6d7dae3fc9943f7bf063c7.bindPopup(popup_4462a259f0408f1c851900dff01a78b8)
+        ;
+
+        
+    
+    
+            var circle_marker_88006ad3fe15937c983f7b8265c95e9d = L.circleMarker(
+                [51.15581, 0.281752],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_ef25b9568133b041f6d796fa2564845d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_f693cc002af61d3ce0544d867e537dbd = $(`<div id="html_f693cc002af61d3ce0544d867e537dbd" style="width: 100.0%; height: 100.0%;"><b>Hornbeam Avenue</b><br>Electors: 73<br>Reform Probability: 49%</div>`)[0];
+                popup_ef25b9568133b041f6d796fa2564845d.setContent(html_f693cc002af61d3ce0544d867e537dbd);
+            
+        
+
+        circle_marker_88006ad3fe15937c983f7b8265c95e9d.bindPopup(popup_ef25b9568133b041f6d796fa2564845d)
+        ;
+
+        
+    
+    
+            var circle_marker_597a0fb4eed253efc5008a8416d6a436 = L.circleMarker(
+                [51.159301, 0.244968],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_79edf8e44ce21667998c713c9079c8e3 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d6262b49e90ef5e02244cc7cf812d00d = $(`<div id="html_d6262b49e90ef5e02244cc7cf812d00d" style="width: 100.0%; height: 100.0%;"><b>Modest Corner</b><br>Electors: 44<br>Reform Probability: 49%</div>`)[0];
+                popup_79edf8e44ce21667998c713c9079c8e3.setContent(html_d6262b49e90ef5e02244cc7cf812d00d);
+            
+        
+
+        circle_marker_597a0fb4eed253efc5008a8416d6a436.bindPopup(popup_79edf8e44ce21667998c713c9079c8e3)
+        ;
+
+        
+    
+    
+            var circle_marker_4b3af48bbabc4c2b32dc013f745a3c5d = L.circleMarker(
+                [51.160193, 0.261258],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_398d5d432cd5da9323d6c165f2b40b24 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_01fdd3f2dd522978a24d9571395da13d = $(`<div id="html_01fdd3f2dd522978a24d9571395da13d" style="width: 100.0%; height: 100.0%;"><b>Park House Gardens</b><br>Electors: 67<br>Reform Probability: 48%</div>`)[0];
+                popup_398d5d432cd5da9323d6c165f2b40b24.setContent(html_01fdd3f2dd522978a24d9571395da13d);
+            
+        
+
+        circle_marker_4b3af48bbabc4c2b32dc013f745a3c5d.bindPopup(popup_398d5d432cd5da9323d6c165f2b40b24)
+        ;
+
+        
+    
+    
+            var circle_marker_13c52093866d4096ce703552ee1abf63 = L.circleMarker(
+                [51.144118, 0.264705],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_e2eccc906a2d34219948c1d90e6d10b5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_221c8b4d096e94a67ab6eebad1dbc899 = $(`<div id="html_221c8b4d096e94a67ab6eebad1dbc899" style="width: 100.0%; height: 100.0%;"><b>Hopwood Gardens</b><br>Electors: 130<br>Reform Probability: 48%</div>`)[0];
+                popup_e2eccc906a2d34219948c1d90e6d10b5.setContent(html_221c8b4d096e94a67ab6eebad1dbc899);
+            
+        
+
+        circle_marker_13c52093866d4096ce703552ee1abf63.bindPopup(popup_e2eccc906a2d34219948c1d90e6d10b5)
+        ;
+
+        
+    
+    
+            var circle_marker_5361e75174a03f3576b73855975a189c = L.circleMarker(
+                [51.153054, 0.248009],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_58bad47976d71b0a2a2f5b720ea033db = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_27100b2a20290244003d1fe836f5356d = $(`<div id="html_27100b2a20290244003d1fe836f5356d" style="width: 100.0%; height: 100.0%;"><b>Trotting Hill Gardens</b><br>Electors: 20<br>Reform Probability: 47%</div>`)[0];
+                popup_58bad47976d71b0a2a2f5b720ea033db.setContent(html_27100b2a20290244003d1fe836f5356d);
+            
+        
+
+        circle_marker_5361e75174a03f3576b73855975a189c.bindPopup(popup_58bad47976d71b0a2a2f5b720ea033db)
+        ;
+
+        
+    
+    
+            var circle_marker_bbebc10d0a576ca7ee27ad311e4dff6b = L.circleMarker(
+                [51.155308, 0.27984],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_2a79eb8be5766620b8df9db272c5986c = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_1d2f2811286d0575ca4a9834da71f6cf = $(`<div id="html_1d2f2811286d0575ca4a9834da71f6cf" style="width: 100.0%; height: 100.0%;"><b>Lambersart Close</b><br>Electors: 21<br>Reform Probability: 47%</div>`)[0];
+                popup_2a79eb8be5766620b8df9db272c5986c.setContent(html_1d2f2811286d0575ca4a9834da71f6cf);
+            
+        
+
+        circle_marker_bbebc10d0a576ca7ee27ad311e4dff6b.bindPopup(popup_2a79eb8be5766620b8df9db272c5986c)
+        ;
+
+        
+    
+    
+            var circle_marker_5018da9901dbafde7703116b5cf991e0 = L.circleMarker(
+                [51.151412, 0.265148],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_5e555f2d71cc7baad1e00115d381dce3 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_66e9c271eba786844ab4799afc8c3086 = $(`<div id="html_66e9c271eba786844ab4799afc8c3086" style="width: 100.0%; height: 100.0%;"><b>Laurel Bank</b><br>Electors: 21<br>Reform Probability: 47%</div>`)[0];
+                popup_5e555f2d71cc7baad1e00115d381dce3.setContent(html_66e9c271eba786844ab4799afc8c3086);
+            
+        
+
+        circle_marker_5018da9901dbafde7703116b5cf991e0.bindPopup(popup_5e555f2d71cc7baad1e00115d381dce3)
+        ;
+
+        
+    
+    
+            var circle_marker_65dc49d3e844917553cbfc4c1da14347 = L.circleMarker(
+                [51.169349, 0.24946],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_5a128ddef3507b59091c35a19994492d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_5900b9b13d2be9d39012f3d48ee79f5e = $(`<div id="html_5900b9b13d2be9d39012f3d48ee79f5e" style="width: 100.0%; height: 100.0%;"><b>Darnley Drive</b><br>Electors: 60<br>Reform Probability: 46%</div>`)[0];
+                popup_5a128ddef3507b59091c35a19994492d.setContent(html_5900b9b13d2be9d39012f3d48ee79f5e);
+            
+        
+
+        circle_marker_65dc49d3e844917553cbfc4c1da14347.bindPopup(popup_5a128ddef3507b59091c35a19994492d)
+        ;
+
+        
+    
+    
+            var circle_marker_8c5aff1a08a76d661bf103c7506c7beb = L.circleMarker(
+                [51.144033, 0.263471],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_9ea949b2099be374db4067a4c4f73a44 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ae610a1d14cec0d4980a82e89c0d1a78 = $(`<div id="html_ae610a1d14cec0d4980a82e89c0d1a78" style="width: 100.0%; height: 100.0%;"><b>All Saints Rise</b><br>Electors: 24<br>Reform Probability: 46%</div>`)[0];
+                popup_9ea949b2099be374db4067a4c4f73a44.setContent(html_ae610a1d14cec0d4980a82e89c0d1a78);
+            
+        
+
+        circle_marker_8c5aff1a08a76d661bf103c7506c7beb.bindPopup(popup_9ea949b2099be374db4067a4c4f73a44)
+        ;
+
+        
+    
+    
+            var circle_marker_8945d434a7e58713543eb9467d7ffecf = L.circleMarker(
+                [51.168023, 0.247408],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_37a9e68a2b3a0b6192636c655ecb33cc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8dc6d925c48b6c58ec2a2a0c0e5fea27 = $(`<div id="html_8dc6d925c48b6c58ec2a2a0c0e5fea27" style="width: 100.0%; height: 100.0%;"><b>Bounds Oak Way</b><br>Electors: 111<br>Reform Probability: 45%</div>`)[0];
+                popup_37a9e68a2b3a0b6192636c655ecb33cc.setContent(html_8dc6d925c48b6c58ec2a2a0c0e5fea27);
+            
+        
+
+        circle_marker_8945d434a7e58713543eb9467d7ffecf.bindPopup(popup_37a9e68a2b3a0b6192636c655ecb33cc)
+        ;
+
+        
+    
+    
+            var circle_marker_c5cc62b406a836cf8e50430ab42aa4f6 = L.circleMarker(
+                [51.151371, 0.267233],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_bc018f355f9e76074858a2f87b8c7945 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4785edd1b1be1830e173c02fa579c061 = $(`<div id="html_4785edd1b1be1830e173c02fa579c061" style="width: 100.0%; height: 100.0%;"><b>Southfields Way</b><br>Electors: 75<br>Reform Probability: 45%</div>`)[0];
+                popup_bc018f355f9e76074858a2f87b8c7945.setContent(html_4785edd1b1be1830e173c02fa579c061);
+            
+        
+
+        circle_marker_c5cc62b406a836cf8e50430ab42aa4f6.bindPopup(popup_bc018f355f9e76074858a2f87b8c7945)
+        ;
+
+        
+    
+    
+            var circle_marker_d3e3df6dccf398f32bb642f5873c35e3 = L.circleMarker(
+                [51.156142, 0.279952],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_80fd9ce93ae9d6beec9339a7788639a5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_a176eac6441bbec33686d3877d7458f4 = $(`<div id="html_a176eac6441bbec33686d3877d7458f4" style="width: 100.0%; height: 100.0%;"><b>Alder Close</b><br>Electors: 29<br>Reform Probability: 44%</div>`)[0];
+                popup_80fd9ce93ae9d6beec9339a7788639a5.setContent(html_a176eac6441bbec33686d3877d7458f4);
+            
+        
+
+        circle_marker_d3e3df6dccf398f32bb642f5873c35e3.bindPopup(popup_80fd9ce93ae9d6beec9339a7788639a5)
+        ;
+
+        
+    
+    
+            var circle_marker_d86315ae8d66545cb1c65f2b20c0a4dd = L.circleMarker(
+                [51.151195, 0.271613],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_2421f3c7f658ee036761ced50d0e2665 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0df37d792c2908879e7bc671691671b7 = $(`<div id="html_0df37d792c2908879e7bc671691671b7" style="width: 100.0%; height: 100.0%;"><b>Nursery Road</b><br>Electors: 134<br>Reform Probability: 44%</div>`)[0];
+                popup_2421f3c7f658ee036761ced50d0e2665.setContent(html_0df37d792c2908879e7bc671691671b7);
+            
+        
+
+        circle_marker_d86315ae8d66545cb1c65f2b20c0a4dd.bindPopup(popup_2421f3c7f658ee036761ced50d0e2665)
+        ;
+
+        
+    
+    
+            var circle_marker_b038bedca7afa5a5cf028758f298ae65 = L.circleMarker(
+                [51.150244, 0.276173],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_a2e05fcb499933ced1a7349113f47c00 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_eb95d7c55968a134667bed591f2ccfd0 = $(`<div id="html_eb95d7c55968a134667bed591f2ccfd0" style="width: 100.0%; height: 100.0%;"><b>Highfield Road</b><br>Electors: 41<br>Reform Probability: 44%</div>`)[0];
+                popup_a2e05fcb499933ced1a7349113f47c00.setContent(html_eb95d7c55968a134667bed591f2ccfd0);
+            
+        
+
+        circle_marker_b038bedca7afa5a5cf028758f298ae65.bindPopup(popup_a2e05fcb499933ced1a7349113f47c00)
+        ;
+
+        
+    
+    
+            var circle_marker_8c9e7a92bd8f8b1eb6b6f86c9dc6312f = L.circleMarker(
+                [51.155241, 0.271713],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_fb4c483bcd34d3acb1f2462bdd266f0b = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_36888146986a5114f5e70fa4ed961925 = $(`<div id="html_36888146986a5114f5e70fa4ed961925" style="width: 100.0%; height: 100.0%;"><b>Horizon Close</b><br>Electors: 31<br>Reform Probability: 44%</div>`)[0];
+                popup_fb4c483bcd34d3acb1f2462bdd266f0b.setContent(html_36888146986a5114f5e70fa4ed961925);
+            
+        
+
+        circle_marker_8c9e7a92bd8f8b1eb6b6f86c9dc6312f.bindPopup(popup_fb4c483bcd34d3acb1f2462bdd266f0b)
+        ;
+
+        
+    
+    
+            var circle_marker_ae10e146f0a36efb7cdc5b6ba7af1052 = L.circleMarker(
+                [51.148887, 0.265953],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_18697b035fddd4da9e1da21d54b3adeb = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_697493201d0934157ec67e95c557f8e8 = $(`<div id="html_697493201d0934157ec67e95c557f8e8" style="width: 100.0%; height: 100.0%;"><b>Newlands Road</b><br>Electors: 232<br>Reform Probability: 43%</div>`)[0];
+                popup_18697b035fddd4da9e1da21d54b3adeb.setContent(html_697493201d0934157ec67e95c557f8e8);
+            
+        
+
+        circle_marker_ae10e146f0a36efb7cdc5b6ba7af1052.bindPopup(popup_18697b035fddd4da9e1da21d54b3adeb)
+        ;
+
+        
+    
+    
+            var circle_marker_058927899d9c048a145c30d8ad88a25e = L.circleMarker(
+                [51.147583, 0.26037],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_42ae2845dc69bf3e6a1e8b976e911997 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_52fd42729726849656de64f92b9ac927 = $(`<div id="html_52fd42729726849656de64f92b9ac927" style="width: 100.0%; height: 100.0%;"><b>Leighton Close</b><br>Electors: 26<br>Reform Probability: 43%</div>`)[0];
+                popup_42ae2845dc69bf3e6a1e8b976e911997.setContent(html_52fd42729726849656de64f92b9ac927);
+            
+        
+
+        circle_marker_058927899d9c048a145c30d8ad88a25e.bindPopup(popup_42ae2845dc69bf3e6a1e8b976e911997)
+        ;
+
+        
+    
+    
+            var circle_marker_698b7617c2a305ce3d28ad44f096f85e = L.circleMarker(
+                [51.159194, 0.255203],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_df67b0d0a2fc8ee93f2c8d68912679ab = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_61c946571806a47e1f0c8f1d6e4cfc39 = $(`<div id="html_61c946571806a47e1f0c8f1d6e4cfc39" style="width: 100.0%; height: 100.0%;"><b>Doric Close</b><br>Electors: 7<br>Reform Probability: 43%</div>`)[0];
+                popup_df67b0d0a2fc8ee93f2c8d68912679ab.setContent(html_61c946571806a47e1f0c8f1d6e4cfc39);
+            
+        
+
+        circle_marker_698b7617c2a305ce3d28ad44f096f85e.bindPopup(popup_df67b0d0a2fc8ee93f2c8d68912679ab)
+        ;
+
+        
+    
+    
+            var circle_marker_78a33c490ac3be437b9e32ab80b81fda = L.circleMarker(
+                [51.168315, 0.249511],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_6faabdc02c84bb18ff32d7350da60167 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_a4618d6c60d40660e2b05edfb211c21f = $(`<div id="html_a4618d6c60d40660e2b05edfb211c21f" style="width: 100.0%; height: 100.0%;"><b>Great Bounds Drive</b><br>Electors: 82<br>Reform Probability: 42%</div>`)[0];
+                popup_6faabdc02c84bb18ff32d7350da60167.setContent(html_a4618d6c60d40660e2b05edfb211c21f);
+            
+        
+
+        circle_marker_78a33c490ac3be437b9e32ab80b81fda.bindPopup(popup_6faabdc02c84bb18ff32d7350da60167)
+        ;
+
+        
+    
+    
+            var circle_marker_88ff53d95053c6659ff74fedce92c6b1 = L.circleMarker(
+                [51.153108, 0.272637],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_0eec38f60d380c1492fb06b6aa444ff0 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_e83a189ee89bcb878980bee50543f24a = $(`<div id="html_e83a189ee89bcb878980bee50543f24a" style="width: 100.0%; height: 100.0%;"><b>Weare Road</b><br>Electors: 68<br>Reform Probability: 42%</div>`)[0];
+                popup_0eec38f60d380c1492fb06b6aa444ff0.setContent(html_e83a189ee89bcb878980bee50543f24a);
+            
+        
+
+        circle_marker_88ff53d95053c6659ff74fedce92c6b1.bindPopup(popup_0eec38f60d380c1492fb06b6aa444ff0)
+        ;
+
+        
+    
+    
+            var circle_marker_1d08f5218a28bebe6655c76cb6174831 = L.circleMarker(
+                [51.150339, 0.263394],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_a8034e86ab112c0b963935a798b95274 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_b5b27c1069c667eef1ce4dc280b6a238 = $(`<div id="html_b5b27c1069c667eef1ce4dc280b6a238" style="width: 100.0%; height: 100.0%;"><b>Powder Mill Lane</b><br>Electors: 328<br>Reform Probability: 42%</div>`)[0];
+                popup_a8034e86ab112c0b963935a798b95274.setContent(html_b5b27c1069c667eef1ce4dc280b6a238);
+            
+        
+
+        circle_marker_1d08f5218a28bebe6655c76cb6174831.bindPopup(popup_a8034e86ab112c0b963935a798b95274)
+        ;
+
+        
+    
+    
+            var circle_marker_009c31c08175a289de421560e60319a7 = L.circleMarker(
+                [51.149235, 0.261466],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_61ff33b5295bfb957c6493c36acb5864 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_66bbe334889b78dd4ade8a918d2659d2 = $(`<div id="html_66bbe334889b78dd4ade8a918d2659d2" style="width: 100.0%; height: 100.0%;"><b>Floyd Close</b><br>Electors: 47<br>Reform Probability: 41%</div>`)[0];
+                popup_61ff33b5295bfb957c6493c36acb5864.setContent(html_66bbe334889b78dd4ade8a918d2659d2);
+            
+        
+
+        circle_marker_009c31c08175a289de421560e60319a7.bindPopup(popup_61ff33b5295bfb957c6493c36acb5864)
+        ;
+
+        
+    
+    
+            var circle_marker_0dae1d174bad40a87a2b8532cde10c7a = L.circleMarker(
+                [51.153055, 0.259236],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_2d3d8066b78761ff3df819ac4158a7df = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_7cf183e3067a2686106fced2a52f0a1e = $(`<div id="html_7cf183e3067a2686106fced2a52f0a1e" style="width: 100.0%; height: 100.0%;"><b>Whitegate Close</b><br>Electors: 41<br>Reform Probability: 41%</div>`)[0];
+                popup_2d3d8066b78761ff3df819ac4158a7df.setContent(html_7cf183e3067a2686106fced2a52f0a1e);
+            
+        
+
+        circle_marker_0dae1d174bad40a87a2b8532cde10c7a.bindPopup(popup_2d3d8066b78761ff3df819ac4158a7df)
+        ;
+
+        
+    
+    
+            var circle_marker_966bb1406db783290aa20f981fd88435 = L.circleMarker(
+                [51.160532, 0.265122],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_ddd6c288971f2ab13f754f1091490434 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_f095794611499bbd397566053cc2e3e1 = $(`<div id="html_f095794611499bbd397566053cc2e3e1" style="width: 100.0%; height: 100.0%;"><b>Valley View</b><br>Electors: 35<br>Reform Probability: 40%</div>`)[0];
+                popup_ddd6c288971f2ab13f754f1091490434.setContent(html_f095794611499bbd397566053cc2e3e1);
+            
+        
+
+        circle_marker_966bb1406db783290aa20f981fd88435.bindPopup(popup_ddd6c288971f2ab13f754f1091490434)
+        ;
+
+        
+    
+    
+            var circle_marker_5deb60b9fdacf5ec0f1a05ad68cda93f = L.circleMarker(
+                [51.157625, 0.25125],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_82c38cbafc2d624c67bdcdc8f9daa6d1 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8306b536ac33a30e76f0c85adc3be2ae = $(`<div id="html_8306b536ac33a30e76f0c85adc3be2ae" style="width: 100.0%; height: 100.0%;"><b>Holden Corner</b><br>Electors: 54<br>Reform Probability: 40%</div>`)[0];
+                popup_82c38cbafc2d624c67bdcdc8f9daa6d1.setContent(html_8306b536ac33a30e76f0c85adc3be2ae);
+            
+        
+
+        circle_marker_5deb60b9fdacf5ec0f1a05ad68cda93f.bindPopup(popup_82c38cbafc2d624c67bdcdc8f9daa6d1)
+        ;
+
+        
+    
+    
+            var circle_marker_0b147edfa268430d3c13e702b407eb3a = L.circleMarker(
+                [51.154814, 0.27471],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_1a28475d693fc6011449f8e5bca8e85a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_352c6d0f5bd931eb84e218793333e22d = $(`<div id="html_352c6d0f5bd931eb84e218793333e22d" style="width: 100.0%; height: 100.0%;"><b>Powder Mill Close</b><br>Electors: 42<br>Reform Probability: 40%</div>`)[0];
+                popup_1a28475d693fc6011449f8e5bca8e85a.setContent(html_352c6d0f5bd931eb84e218793333e22d);
+            
+        
+
+        circle_marker_0b147edfa268430d3c13e702b407eb3a.bindPopup(popup_1a28475d693fc6011449f8e5bca8e85a)
+        ;
+
+        
+    
+    
+            var circle_marker_fd258115332dc022474c4959c72d2c8b = L.circleMarker(
+                [51.147349, 0.272884],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_4afa23b69519bf2c13a3232d50c0f75b = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_615ccf5deb0e4001e549d710b878e8cf = $(`<div id="html_615ccf5deb0e4001e549d710b878e8cf" style="width: 100.0%; height: 100.0%;"><b>Denbigh Road</b><br>Electors: 49<br>Reform Probability: 40%</div>`)[0];
+                popup_4afa23b69519bf2c13a3232d50c0f75b.setContent(html_615ccf5deb0e4001e549d710b878e8cf);
+            
+        
+
+        circle_marker_fd258115332dc022474c4959c72d2c8b.bindPopup(popup_4afa23b69519bf2c13a3232d50c0f75b)
+        ;
+
+        
+    
+    
+            var circle_marker_d3271e538c17a2a2672408f50a6a9ad2 = L.circleMarker(
+                [51.148935, 0.267999],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_fa5e8336c4dd84400490665df8c90ef7 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_52246836a1bc73485cd5f86dcde672ee = $(`<div id="html_52246836a1bc73485cd5f86dcde672ee" style="width: 100.0%; height: 100.0%;"><b>Cunningham Road</b><br>Electors: 97<br>Reform Probability: 39%</div>`)[0];
+                popup_fa5e8336c4dd84400490665df8c90ef7.setContent(html_52246836a1bc73485cd5f86dcde672ee);
+            
+        
+
+        circle_marker_d3271e538c17a2a2672408f50a6a9ad2.bindPopup(popup_fa5e8336c4dd84400490665df8c90ef7)
+        ;
+
+        
+    
+    
+            var circle_marker_5c7d8f6679326521b3ee1834bbf72c4b = L.circleMarker(
+                [51.178069, 0.273465],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_7eb6afdde6f0c06b77cd40119fb651b5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_29afd2b76c55394ffdf0ddf7e488dff7 = $(`<div id="html_29afd2b76c55394ffdf0ddf7e488dff7" style="width: 100.0%; height: 100.0%;"><b>London Road</b><br>Electors: 467<br>Reform Probability: 39%</div>`)[0];
+                popup_7eb6afdde6f0c06b77cd40119fb651b5.setContent(html_29afd2b76c55394ffdf0ddf7e488dff7);
+            
+        
+
+        circle_marker_5c7d8f6679326521b3ee1834bbf72c4b.bindPopup(popup_7eb6afdde6f0c06b77cd40119fb651b5)
+        ;
+
+        
+    
+    
+            var circle_marker_177ccb1713357805a5993b3f6acbb0e7 = L.circleMarker(
+                [51.166839, 0.250541],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_d744a2b938f3089c064646287d0bbaff = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_b925295202c9e4c9decb9f3758ac8bc1 = $(`<div id="html_b925295202c9e4c9decb9f3758ac8bc1" style="width: 100.0%; height: 100.0%;"><b>Smythe Close</b><br>Electors: 25<br>Reform Probability: 39%</div>`)[0];
+                popup_d744a2b938f3089c064646287d0bbaff.setContent(html_b925295202c9e4c9decb9f3758ac8bc1);
+            
+        
+
+        circle_marker_177ccb1713357805a5993b3f6acbb0e7.bindPopup(popup_d744a2b938f3089c064646287d0bbaff)
+        ;
+
+        
+    
+    
+            var circle_marker_f070c1b4bf96945a77f867bf3e78ec0c = L.circleMarker(
+                [51.146385, 0.267432],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_bf1a0a7c812d9ee933b2044035b1190c = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_dffaeb3e1b0face7ea851bfe0bbc302b = $(`<div id="html_dffaeb3e1b0face7ea851bfe0bbc302b" style="width: 100.0%; height: 100.0%;"><b>St Michaels Road</b><br>Electors: 80<br>Reform Probability: 39%</div>`)[0];
+                popup_bf1a0a7c812d9ee933b2044035b1190c.setContent(html_dffaeb3e1b0face7ea851bfe0bbc302b);
+            
+        
+
+        circle_marker_f070c1b4bf96945a77f867bf3e78ec0c.bindPopup(popup_bf1a0a7c812d9ee933b2044035b1190c)
+        ;
+
+        
+    
+    
+            var circle_marker_aca747a4f057092aca53ca581092ee39 = L.circleMarker(
+                [51.150979, 0.265656],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_ee14c75fdf857463f9d5be09839ed153 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_75d8362dbf354e1d5fcf34f8e1996fce = $(`<div id="html_75d8362dbf354e1d5fcf34f8e1996fce" style="width: 100.0%; height: 100.0%;"><b>Norstead Gardens</b><br>Electors: 26<br>Reform Probability: 38%</div>`)[0];
+                popup_ee14c75fdf857463f9d5be09839ed153.setContent(html_75d8362dbf354e1d5fcf34f8e1996fce);
+            
+        
+
+        circle_marker_aca747a4f057092aca53ca581092ee39.bindPopup(popup_ee14c75fdf857463f9d5be09839ed153)
+        ;
+
+        
+    
+    
+            var circle_marker_3e89a7aa2542c755b58c16e142ed9ca3 = L.circleMarker(
+                [51.148071, 0.273678],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_2fca50a0c071e09d64a7b500cca95123 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_c0fd887d671d8382d562a02904894eaa = $(`<div id="html_c0fd887d671d8382d562a02904894eaa" style="width: 100.0%; height: 100.0%;"><b>Cambrian Road</b><br>Electors: 116<br>Reform Probability: 38%</div>`)[0];
+                popup_2fca50a0c071e09d64a7b500cca95123.setContent(html_c0fd887d671d8382d562a02904894eaa);
+            
+        
+
+        circle_marker_3e89a7aa2542c755b58c16e142ed9ca3.bindPopup(popup_2fca50a0c071e09d64a7b500cca95123)
+        ;
+
+        
+    
+    
+            var circle_marker_dae7f8ba7d240c3abc3a8f6079bb407c = L.circleMarker(
+                [51.164924, 0.249001],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_a6fb4061f7e82da5e5c480a3fda13a7a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_5baab697f874180aac762fede4a04b36 = $(`<div id="html_5baab697f874180aac762fede4a04b36" style="width: 100.0%; height: 100.0%;"><b>Birchwood Avenue</b><br>Electors: 48<br>Reform Probability: 37%</div>`)[0];
+                popup_a6fb4061f7e82da5e5c480a3fda13a7a.setContent(html_5baab697f874180aac762fede4a04b36);
+            
+        
+
+        circle_marker_dae7f8ba7d240c3abc3a8f6079bb407c.bindPopup(popup_a6fb4061f7e82da5e5c480a3fda13a7a)
+        ;
+
+        
+    
+    
+            var circle_marker_3144acebf2eed5e7a33eff52aa48e5d2 = L.circleMarker(
+                [51.155696, 0.253316],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_8c6aba9839e245cb506a4d721b69078a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4a9b98479395a53765579d5184789ca7 = $(`<div id="html_4a9b98479395a53765579d5184789ca7" style="width: 100.0%; height: 100.0%;"><b>Woolley Close</b><br>Electors: 7<br>Reform Probability: 37%</div>`)[0];
+                popup_8c6aba9839e245cb506a4d721b69078a.setContent(html_4a9b98479395a53765579d5184789ca7);
+            
+        
+
+        circle_marker_3144acebf2eed5e7a33eff52aa48e5d2.bindPopup(popup_8c6aba9839e245cb506a4d721b69078a)
+        ;
+
+        
+    
+    
+            var circle_marker_7afc5c1eed6cf0cc73f3b9d1236b6cc1 = L.circleMarker(
+                [51.156018, 0.263214],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_39f132c2a7803b6c75cc6725f80f4077 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_00c0dc68c9eeb5030f0888fccd4386b6 = $(`<div id="html_00c0dc68c9eeb5030f0888fccd4386b6" style="width: 100.0%; height: 100.0%;"><b>Bondfield Close</b><br>Electors: 42<br>Reform Probability: 37%</div>`)[0];
+                popup_39f132c2a7803b6c75cc6725f80f4077.setContent(html_00c0dc68c9eeb5030f0888fccd4386b6);
+            
+        
+
+        circle_marker_7afc5c1eed6cf0cc73f3b9d1236b6cc1.bindPopup(popup_39f132c2a7803b6c75cc6725f80f4077)
+        ;
+
+        
+    
+    
+            var circle_marker_09454b8f55ea4c7c1c17fca1beadc298 = L.circleMarker(
+                [51.167533, 0.256997],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_e11e155e89b92bb59296058a2bb95e09 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_1a7b022bd07714b6a449c6bd6e1c8077 = $(`<div id="html_1a7b022bd07714b6a449c6bd6e1c8077" style="width: 100.0%; height: 100.0%;"><b>Vauxhall Lane</b><br>Electors: 48<br>Reform Probability: 37%</div>`)[0];
+                popup_e11e155e89b92bb59296058a2bb95e09.setContent(html_1a7b022bd07714b6a449c6bd6e1c8077);
+            
+        
+
+        circle_marker_09454b8f55ea4c7c1c17fca1beadc298.bindPopup(popup_e11e155e89b92bb59296058a2bb95e09)
+        ;
+
+        
+    
+    
+            var circle_marker_2272dad76a65c374b0217260b882929b = L.circleMarker(
+                [51.16151, 0.255815],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_cc0ad7f487b74195e500a3acc41b6cbc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_71b18bffc2f1d328de056b610ec6fde7 = $(`<div id="html_71b18bffc2f1d328de056b610ec6fde7" style="width: 100.0%; height: 100.0%;"><b>Still Lane</b><br>Electors: 11<br>Reform Probability: 37%</div>`)[0];
+                popup_cc0ad7f487b74195e500a3acc41b6cbc.setContent(html_71b18bffc2f1d328de056b610ec6fde7);
+            
+        
+
+        circle_marker_2272dad76a65c374b0217260b882929b.bindPopup(popup_cc0ad7f487b74195e500a3acc41b6cbc)
+        ;
+
+        
+    
+    
+            var circle_marker_2de6c2048dab8062a70b710fb2b7a64a = L.circleMarker(
+                [51.14755, 0.274065],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_284cfe21c4bb1c8e4e83eff7b0fb87ca = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_6467782335f3b30d8cb5f1ca67035d43 = $(`<div id="html_6467782335f3b30d8cb5f1ca67035d43" style="width: 100.0%; height: 100.0%;"><b>Dynevor Road</b><br>Electors: 77<br>Reform Probability: 36%</div>`)[0];
+                popup_284cfe21c4bb1c8e4e83eff7b0fb87ca.setContent(html_6467782335f3b30d8cb5f1ca67035d43);
+            
+        
+
+        circle_marker_2de6c2048dab8062a70b710fb2b7a64a.bindPopup(popup_284cfe21c4bb1c8e4e83eff7b0fb87ca)
+        ;
+
+        
+    
+    
+            var circle_marker_93e2ba4cd5874baa23a0aea10331933d = L.circleMarker(
+                [51.148173, 0.27587],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_0917afa1904cbacbf4c4e4526d778fe6 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_cfcb93716ae1cfda7f2fa7e4cbdc72a9 = $(`<div id="html_cfcb93716ae1cfda7f2fa7e4cbdc72a9" style="width: 100.0%; height: 100.0%;"><b>Upper Grosvenor Road</b><br>Electors: 28<br>Reform Probability: 36%</div>`)[0];
+                popup_0917afa1904cbacbf4c4e4526d778fe6.setContent(html_cfcb93716ae1cfda7f2fa7e4cbdc72a9);
+            
+        
+
+        circle_marker_93e2ba4cd5874baa23a0aea10331933d.bindPopup(popup_0917afa1904cbacbf4c4e4526d778fe6)
+        ;
+
+        
+    
+    
+            var circle_marker_3f8016599cc44ed211dd97ba7f74f75d = L.circleMarker(
+                [51.166546, 0.246135],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_403d099bee1e33437799d7fea734e6a6 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_fed46499c72f634b7a0638a5a11095a2 = $(`<div id="html_fed46499c72f634b7a0638a5a11095a2" style="width: 100.0%; height: 100.0%;"><b>Hardinge Avenue</b><br>Electors: 60<br>Reform Probability: 36%</div>`)[0];
+                popup_403d099bee1e33437799d7fea734e6a6.setContent(html_fed46499c72f634b7a0638a5a11095a2);
+            
+        
+
+        circle_marker_3f8016599cc44ed211dd97ba7f74f75d.bindPopup(popup_403d099bee1e33437799d7fea734e6a6)
+        ;
+
+        
+    
+    
+            var circle_marker_eb9bad2fe2b21063d3373f0b4268b701 = L.circleMarker(
+                [51.150811, 0.263174],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_6251e779d565a4f73a92bc6c60308a7b = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0eb7b57370d2adbcf50ca50388e1f50b = $(`<div id="html_0eb7b57370d2adbcf50ca50388e1f50b" style="width: 100.0%; height: 100.0%;"><b>Hillgarth</b><br>Electors: 16<br>Reform Probability: 36%</div>`)[0];
+                popup_6251e779d565a4f73a92bc6c60308a7b.setContent(html_0eb7b57370d2adbcf50ca50388e1f50b);
+            
+        
+
+        circle_marker_eb9bad2fe2b21063d3373f0b4268b701.bindPopup(popup_6251e779d565a4f73a92bc6c60308a7b)
+        ;
+
+        
+    
+    
+            var circle_marker_9bebeadd02d2c225eeed041ca43fcc42 = L.circleMarker(
+                [51.16196, 0.253934],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_7e4ee32db72398bcefbaf21a20804a3e = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d6bf963f0f51e0b58cff7aad16f8df62 = $(`<div id="html_d6bf963f0f51e0b58cff7aad16f8df62" style="width: 100.0%; height: 100.0%;"><b>The Common</b><br>Electors: 9<br>Reform Probability: 36%</div>`)[0];
+                popup_7e4ee32db72398bcefbaf21a20804a3e.setContent(html_d6bf963f0f51e0b58cff7aad16f8df62);
+            
+        
+
+        circle_marker_9bebeadd02d2c225eeed041ca43fcc42.bindPopup(popup_7e4ee32db72398bcefbaf21a20804a3e)
+        ;
+
+        
+    
+    
+            var circle_marker_411cceebd2e6b8e832cc079738cc73f2 = L.circleMarker(
+                [51.160762, 0.262531],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_6f95949ac3186c6bb7aec89cf268be99 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ddc8280c8a6f28c7bf71ac05546344d5 = $(`<div id="html_ddc8280c8a6f28c7bf71ac05546344d5" style="width: 100.0%; height: 100.0%;"><b>Oak End Close</b><br>Electors: 34<br>Reform Probability: 36%</div>`)[0];
+                popup_6f95949ac3186c6bb7aec89cf268be99.setContent(html_ddc8280c8a6f28c7bf71ac05546344d5);
+            
+        
+
+        circle_marker_411cceebd2e6b8e832cc079738cc73f2.bindPopup(popup_6f95949ac3186c6bb7aec89cf268be99)
+        ;
+
+        
+    
+    
+            var circle_marker_8b53a9da3d79a677043134879937c2c0 = L.circleMarker(
+                [51.14436, 0.270205],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_cbbad6fecee72e5c1147406aef8fffbc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_10c6d7c29d330eaca1549ee09e6b101f = $(`<div id="html_10c6d7c29d330eaca1549ee09e6b101f" style="width: 100.0%; height: 100.0%;"><b>Silverdale Road</b><br>Electors: 321<br>Reform Probability: 35%</div>`)[0];
+                popup_cbbad6fecee72e5c1147406aef8fffbc.setContent(html_10c6d7c29d330eaca1549ee09e6b101f);
+            
+        
+
+        circle_marker_8b53a9da3d79a677043134879937c2c0.bindPopup(popup_cbbad6fecee72e5c1147406aef8fffbc)
+        ;
+
+        
+    
+    
+            var circle_marker_a8d355a1de718c121990bb7f2cf36dc0 = L.circleMarker(
+                [51.155645, 0.251755],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_65a3cc87fad1f740c6bfaf5b2e69f85a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_a4127266e145648802fa48e6f7afcfd9 = $(`<div id="html_a4127266e145648802fa48e6f7afcfd9" style="width: 100.0%; height: 100.0%;"><b>Woolley Grove</b><br>Electors: 13<br>Reform Probability: 34%</div>`)[0];
+                popup_65a3cc87fad1f740c6bfaf5b2e69f85a.setContent(html_a4127266e145648802fa48e6f7afcfd9);
+            
+        
+
+        circle_marker_a8d355a1de718c121990bb7f2cf36dc0.bindPopup(popup_65a3cc87fad1f740c6bfaf5b2e69f85a)
+        ;
+
+        
+    
+    
+            var circle_marker_2e31a95dc0b33aa2500b0791c9c5fa63 = L.circleMarker(
+                [51.148003, 0.271186],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_2b46e6307d76c2fb38e37f3cc7b151d8 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_5dd2c1d0af5fed9f2644b90aa62997ec = $(`<div id="html_5dd2c1d0af5fed9f2644b90aa62997ec" style="width: 100.0%; height: 100.0%;"><b>Merrion Close</b><br>Electors: 74<br>Reform Probability: 34%</div>`)[0];
+                popup_2b46e6307d76c2fb38e37f3cc7b151d8.setContent(html_5dd2c1d0af5fed9f2644b90aa62997ec);
+            
+        
+
+        circle_marker_2e31a95dc0b33aa2500b0791c9c5fa63.bindPopup(popup_2b46e6307d76c2fb38e37f3cc7b151d8)
+        ;
+
+        
+    
+    
+            var circle_marker_df5bd107a8309e5e8fcc812daeb1209d = L.circleMarker(
+                [51.14751, 0.27202],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_94247247ff05405ef6b4d921575c1eab = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_dc9a18fe25fc15f9055e50391686990e = $(`<div id="html_dc9a18fe25fc15f9055e50391686990e" style="width: 100.0%; height: 100.0%;"><b>Woodland Road</b><br>Electors: 104<br>Reform Probability: 34%</div>`)[0];
+                popup_94247247ff05405ef6b4d921575c1eab.setContent(html_dc9a18fe25fc15f9055e50391686990e);
+            
+        
+
+        circle_marker_df5bd107a8309e5e8fcc812daeb1209d.bindPopup(popup_94247247ff05405ef6b4d921575c1eab)
+        ;
+
+        
+    
+    
+            var circle_marker_d13d5354114d5628420e2f71a0ce8731 = L.circleMarker(
+                [51.142565, 0.268217],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_b5c3bb1daf58cbbee3d42442a5326146 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0bcf3495d139adb2695f5db813af061c = $(`<div id="html_0bcf3495d139adb2695f5db813af061c" style="width: 100.0%; height: 100.0%;"><b>Dunstan Road</b><br>Electors: 70<br>Reform Probability: 33%</div>`)[0];
+                popup_b5c3bb1daf58cbbee3d42442a5326146.setContent(html_0bcf3495d139adb2695f5db813af061c);
+            
+        
+
+        circle_marker_d13d5354114d5628420e2f71a0ce8731.bindPopup(popup_b5c3bb1daf58cbbee3d42442a5326146)
+        ;
+
+        
+    
+    
+            var circle_marker_1fb59540e6de293383b64a10a5f68d64 = L.circleMarker(
+                [51.15216, 0.269245],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_55cab6fc0c0a52c1f79616b812b3a1be = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_5c4cdd952d2dcd7a2c75fce27da4dc98 = $(`<div id="html_5c4cdd952d2dcd7a2c75fce27da4dc98" style="width: 100.0%; height: 100.0%;"><b>Chestnut Close</b><br>Electors: 5<br>Reform Probability: 33%</div>`)[0];
+                popup_55cab6fc0c0a52c1f79616b812b3a1be.setContent(html_5c4cdd952d2dcd7a2c75fce27da4dc98);
+            
+        
+
+        circle_marker_1fb59540e6de293383b64a10a5f68d64.bindPopup(popup_55cab6fc0c0a52c1f79616b812b3a1be)
+        ;
+
+        
+    
+    
+            var circle_marker_b5f51799acbcd9005d166e0a17f1e6da = L.circleMarker(
+                [51.152347, 0.272928],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_a8a7ff86ebf418b301f5d761626880f6 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_6242faf2af53d489dec2887d04b5baed = $(`<div id="html_6242faf2af53d489dec2887d04b5baed" style="width: 100.0%; height: 100.0%;"><b>Great Brooms Road</b><br>Electors: 117<br>Reform Probability: 33%</div>`)[0];
+                popup_a8a7ff86ebf418b301f5d761626880f6.setContent(html_6242faf2af53d489dec2887d04b5baed);
+            
+        
+
+        circle_marker_b5f51799acbcd9005d166e0a17f1e6da.bindPopup(popup_a8a7ff86ebf418b301f5d761626880f6)
+        ;
+
+        
+    
+    
+            var circle_marker_779faa21656916d7c22831c508a3cd70 = L.circleMarker(
+                [51.153455, 0.274758],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_9765a44c090cc320742de80695a75a65 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ffd93b5f82fd89c02c037a66108646da = $(`<div id="html_ffd93b5f82fd89c02c037a66108646da" style="width: 100.0%; height: 100.0%;"><b>Lott Close</b><br>Electors: 17<br>Reform Probability: 32%</div>`)[0];
+                popup_9765a44c090cc320742de80695a75a65.setContent(html_ffd93b5f82fd89c02c037a66108646da);
+            
+        
+
+        circle_marker_779faa21656916d7c22831c508a3cd70.bindPopup(popup_9765a44c090cc320742de80695a75a65)
+        ;
+
+        
+    
+    
+            var circle_marker_5e399b824fb251fb8c7b176dd584842c = L.circleMarker(
+                [51.155751, 0.276057],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_fd427a9eae59fa60b535fddf813ab73b = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_edc2b5cd36d3b9c5b6ae86564b0d7573 = $(`<div id="html_edc2b5cd36d3b9c5b6ae86564b0d7573" style="width: 100.0%; height: 100.0%;"><b>Barnetts Close</b><br>Electors: 28<br>Reform Probability: 32%</div>`)[0];
+                popup_fd427a9eae59fa60b535fddf813ab73b.setContent(html_edc2b5cd36d3b9c5b6ae86564b0d7573);
+            
+        
+
+        circle_marker_5e399b824fb251fb8c7b176dd584842c.bindPopup(popup_fd427a9eae59fa60b535fddf813ab73b)
+        ;
+
+        
+    
+    
+            var circle_marker_e395f1a44f9c6207f82988044c058d69 = L.circleMarker(
+                [51.153168, 0.274198],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_178a290f2d1c1624eba9b55a3b5b8d23 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_887e188fe9728aeff08da12a2cd07353 = $(`<div id="html_887e188fe9728aeff08da12a2cd07353" style="width: 100.0%; height: 100.0%;"><b>Andrew Road</b><br>Electors: 91<br>Reform Probability: 31%</div>`)[0];
+                popup_178a290f2d1c1624eba9b55a3b5b8d23.setContent(html_887e188fe9728aeff08da12a2cd07353);
+            
+        
+
+        circle_marker_e395f1a44f9c6207f82988044c058d69.bindPopup(popup_178a290f2d1c1624eba9b55a3b5b8d23)
+        ;
+
+        
+    
+    
+            var circle_marker_50e233118f301958241a76de280a238f = L.circleMarker(
+                [51.156188, 0.257659],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_45d94296b4c037e9879b272b073232a4 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_98c22a4ffc24b371d50308f08a2b8d45 = $(`<div id="html_98c22a4ffc24b371d50308f08a2b8d45" style="width: 100.0%; height: 100.0%;"><b>Western Road</b><br>Electors: 51<br>Reform Probability: 31%</div>`)[0];
+                popup_45d94296b4c037e9879b272b073232a4.setContent(html_98c22a4ffc24b371d50308f08a2b8d45);
+            
+        
+
+        circle_marker_50e233118f301958241a76de280a238f.bindPopup(popup_45d94296b4c037e9879b272b073232a4)
+        ;
+
+        
+    
+    
+            var circle_marker_c2aa8974b39abee640a361cc7e66df35 = L.circleMarker(
+                [51.150131, 0.269902],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_bc4af189c076715b4290a63b80d0fb86 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_6a21b1670680b82fa90f927a3adee7ac = $(`<div id="html_6a21b1670680b82fa90f927a3adee7ac" style="width: 100.0%; height: 100.0%;"><b>Montgomery Road</b><br>Electors: 140<br>Reform Probability: 30%</div>`)[0];
+                popup_bc4af189c076715b4290a63b80d0fb86.setContent(html_6a21b1670680b82fa90f927a3adee7ac);
+            
+        
+
+        circle_marker_c2aa8974b39abee640a361cc7e66df35.bindPopup(popup_bc4af189c076715b4290a63b80d0fb86)
+        ;
+
+        
+    
+    
+            var circle_marker_f8ef5c6be764afff47d52d22ebc35a50 = L.circleMarker(
+                [51.148854, 0.269956],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_432240f87e029a399bec49948789ca4b = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_88ed0eca0082d0fb71e066f924853455 = $(`<div id="html_88ed0eca0082d0fb71e066f924853455" style="width: 100.0%; height: 100.0%;"><b>Tedder Road</b><br>Electors: 60<br>Reform Probability: 30%</div>`)[0];
+                popup_432240f87e029a399bec49948789ca4b.setContent(html_88ed0eca0082d0fb71e066f924853455);
+            
+        
+
+        circle_marker_f8ef5c6be764afff47d52d22ebc35a50.bindPopup(popup_432240f87e029a399bec49948789ca4b)
+        ;
+
+        
+    
+    
+            var circle_marker_219a8451e110749aed89d1fbdac0ddf9 = L.circleMarker(
+                [51.149653, 0.276958],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_b5b5e85b516eca428fc91dabbaa57289 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_de32bff4ab14de747a50edb0fbdc3dcc = $(`<div id="html_de32bff4ab14de747a50edb0fbdc3dcc" style="width: 100.0%; height: 100.0%;"><b>North Farm Road</b><br>Electors: 133<br>Reform Probability: 29%</div>`)[0];
+                popup_b5b5e85b516eca428fc91dabbaa57289.setContent(html_de32bff4ab14de747a50edb0fbdc3dcc);
+            
+        
+
+        circle_marker_219a8451e110749aed89d1fbdac0ddf9.bindPopup(popup_b5b5e85b516eca428fc91dabbaa57289)
+        ;
+
+        
+    
+    
+            var circle_marker_d95f418e4e2742ac71bf2764897a67a4 = L.circleMarker(
+                [51.146939, 0.268989],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_c397860a936e46eafbc5ac4f15fe9be5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_06ce8ceebce8a6521ee7fbeb843e4048 = $(`<div id="html_06ce8ceebce8a6521ee7fbeb843e4048" style="width: 100.0%; height: 100.0%;"><b>Lakeman Way</b><br>Electors: 47<br>Reform Probability: 27%</div>`)[0];
+                popup_c397860a936e46eafbc5ac4f15fe9be5.setContent(html_06ce8ceebce8a6521ee7fbeb843e4048);
+            
+        
+
+        circle_marker_d95f418e4e2742ac71bf2764897a67a4.bindPopup(popup_c397860a936e46eafbc5ac4f15fe9be5)
+        ;
+
+        
+    
+    
+            var circle_marker_aaf83bc32a8755d8ca6a30527249d6b6 = L.circleMarker(
+                [51.145527, 0.269935],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_6e5a6a1b7de908cb16283e8f07316201 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_fa1a9fcabc26ca3dde91f7c5dc9c6126 = $(`<div id="html_fa1a9fcabc26ca3dde91f7c5dc9c6126" style="width: 100.0%; height: 100.0%;"><b>St Lukes Road</b><br>Electors: 105<br>Reform Probability: 27%</div>`)[0];
+                popup_6e5a6a1b7de908cb16283e8f07316201.setContent(html_fa1a9fcabc26ca3dde91f7c5dc9c6126);
+            
+        
+
+        circle_marker_aaf83bc32a8755d8ca6a30527249d6b6.bindPopup(popup_6e5a6a1b7de908cb16283e8f07316201)
+        ;
+
+        
+    
+    
+            var circle_marker_650c8856a611f2c6f0b049fa9ecfd225 = L.circleMarker(
+                [51.162441, 0.254718],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_8bc4d3815c1108311113e5f4f4a3106e = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_6fec05625cbea43d5c8ddb0d1908552c = $(`<div id="html_6fec05625cbea43d5c8ddb0d1908552c" style="width: 100.0%; height: 100.0%;"><b>Church Road</b><br>Electors: 46<br>Reform Probability: 27%</div>`)[0];
+                popup_8bc4d3815c1108311113e5f4f4a3106e.setContent(html_6fec05625cbea43d5c8ddb0d1908552c);
+            
+        
+
+        circle_marker_650c8856a611f2c6f0b049fa9ecfd225.bindPopup(popup_8bc4d3815c1108311113e5f4f4a3106e)
+        ;
+
+        
+    
+    
+            var circle_marker_57dc1e4604788556c2179cda8e381901 = L.circleMarker(
+                [51.150927, 0.276104],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_f9166428562986e0465b935cb296eaf4 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_44dac4663d4fe5fd065609fefee70add = $(`<div id="html_44dac4663d4fe5fd065609fefee70add" style="width: 100.0%; height: 100.0%;"><b>Welbeck Avenue</b><br>Electors: 97<br>Reform Probability: 26%</div>`)[0];
+                popup_f9166428562986e0465b935cb296eaf4.setContent(html_44dac4663d4fe5fd065609fefee70add);
+            
+        
+
+        circle_marker_57dc1e4604788556c2179cda8e381901.bindPopup(popup_f9166428562986e0465b935cb296eaf4)
+        ;
+
+        
+    
+    
+            var circle_marker_0faa06cc086fcb58f30620b3ea92b2d6 = L.circleMarker(
+                [51.165749, 0.24827],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_a3ca5384cb37c3cb9dc9995bcb69ffa3 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_e015d02752a389a80d79a273eab72c26 = $(`<div id="html_e015d02752a389a80d79a273eab72c26" style="width: 100.0%; height: 100.0%;"><b>Brookhurst Gardens</b><br>Electors: 13<br>Reform Probability: 26%</div>`)[0];
+                popup_a3ca5384cb37c3cb9dc9995bcb69ffa3.setContent(html_e015d02752a389a80d79a273eab72c26);
+            
+        
+
+        circle_marker_0faa06cc086fcb58f30620b3ea92b2d6.bindPopup(popup_a3ca5384cb37c3cb9dc9995bcb69ffa3)
+        ;
+
+        
+    
+    
+            var circle_marker_5cc0809700378f298b0a838f3573fbab = L.circleMarker(
+                [51.166121, 0.253637],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_d486c2a348b81e05573cf654b1edddcc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_a8e29719f14497fd31085faa9eff00c3 = $(`<div id="html_a8e29719f14497fd31085faa9eff00c3" style="width: 100.0%; height: 100.0%;"><b>Rocks Hollow Gardens</b><br>Electors: 20<br>Reform Probability: 26%</div>`)[0];
+                popup_d486c2a348b81e05573cf654b1edddcc.setContent(html_a8e29719f14497fd31085faa9eff00c3);
+            
+        
+
+        circle_marker_5cc0809700378f298b0a838f3573fbab.bindPopup(popup_d486c2a348b81e05573cf654b1edddcc)
+        ;
+
+        
+    
+    
+            var circle_marker_ac63b74354470291e34276dde9127c72 = L.circleMarker(
+                [51.162825, 0.262702],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_1c0be44c884332d7ecd6f0bd0b0f86cc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_5fed6542e9a4a9b0ba4e130d87311c61 = $(`<div id="html_5fed6542e9a4a9b0ba4e130d87311c61" style="width: 100.0%; height: 100.0%;"><b>Doon Brae</b><br>Electors: 12<br>Reform Probability: 25%</div>`)[0];
+                popup_1c0be44c884332d7ecd6f0bd0b0f86cc.setContent(html_5fed6542e9a4a9b0ba4e130d87311c61);
+            
+        
+
+        circle_marker_ac63b74354470291e34276dde9127c72.bindPopup(popup_1c0be44c884332d7ecd6f0bd0b0f86cc)
+        ;
+
+        
+    
+    
+            var circle_marker_2e97f30a77be34bfd6d0f2235199c449 = L.circleMarker(
+                [51.162093, 0.265655],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_b783edd05f311991e8c089bd50ea94a3 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_3f3b8ddcaf22f2b05e955bbd36409ddf = $(`<div id="html_3f3b8ddcaf22f2b05e955bbd36409ddf" style="width: 100.0%; height: 100.0%;"><b>Argyle Road</b><br>Electors: 40<br>Reform Probability: 25%</div>`)[0];
+                popup_b783edd05f311991e8c089bd50ea94a3.setContent(html_3f3b8ddcaf22f2b05e955bbd36409ddf);
+            
+        
+
+        circle_marker_2e97f30a77be34bfd6d0f2235199c449.bindPopup(popup_b783edd05f311991e8c089bd50ea94a3)
+        ;
+
+        
+    
+    
+            var circle_marker_f3daa5b8b3abaa81c45ead36d72124ef = L.circleMarker(
+                [51.146088, 0.269218],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_1011f883ec606cbb4e54db886c3e37b5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_79fece6b5271152f8f5bbbdad0884bb5 = $(`<div id="html_79fece6b5271152f8f5bbbdad0884bb5" style="width: 100.0%; height: 100.0%;"><b>St Davids Road</b><br>Electors: 39<br>Reform Probability: 24%</div>`)[0];
+                popup_1011f883ec606cbb4e54db886c3e37b5.setContent(html_79fece6b5271152f8f5bbbdad0884bb5);
+            
+        
+
+        circle_marker_f3daa5b8b3abaa81c45ead36d72124ef.bindPopup(popup_1011f883ec606cbb4e54db886c3e37b5)
+        ;
+
+        
+    
+    
+            var circle_marker_cda2baba4d697d5682b770f018e449f5 = L.circleMarker(
+                [51.143807, 0.26067],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_6d9bd3a9951cb6c931eba1751a4b2b03 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_9645edee961739658e78506eb0470e47 = $(`<div id="html_9645edee961739658e78506eb0470e47" style="width: 100.0%; height: 100.0%;"><b>St Johns Road</b><br>Electors: 467<br>Reform Probability: 23%</div>`)[0];
+                popup_6d9bd3a9951cb6c931eba1751a4b2b03.setContent(html_9645edee961739658e78506eb0470e47);
+            
+        
+
+        circle_marker_cda2baba4d697d5682b770f018e449f5.bindPopup(popup_6d9bd3a9951cb6c931eba1751a4b2b03)
+        ;
+
+        
+    
+    
+            var circle_marker_a028aecc07bcc711eae0341b2c494f24 = L.circleMarker(
+                [51.153256, 0.273475],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_86805b6b5d9dc3b022b63fcc6173d37e = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_9127a201e1d97fb4c0198eebf8a00990 = $(`<div id="html_9127a201e1d97fb4c0198eebf8a00990" style="width: 100.0%; height: 100.0%;"><b>Salisbury Road</b><br>Electors: 35<br>Reform Probability: 23%</div>`)[0];
+                popup_86805b6b5d9dc3b022b63fcc6173d37e.setContent(html_9127a201e1d97fb4c0198eebf8a00990);
+            
+        
+
+        circle_marker_a028aecc07bcc711eae0341b2c494f24.bindPopup(popup_86805b6b5d9dc3b022b63fcc6173d37e)
+        ;
+
+        
+    
+    
+            var circle_marker_bd82eb775ac8946042aaf4ef1d9753be = L.circleMarker(
+                [51.144797, 0.267211],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_d3ec6bb6ca557fd4a64f741cff51ce73 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4779e30c2f866c688913d1035466f567 = $(`<div id="html_4779e30c2f866c688913d1035466f567" style="width: 100.0%; height: 100.0%;"><b>Impala Gardens</b><br>Electors: 42<br>Reform Probability: 20%</div>`)[0];
+                popup_d3ec6bb6ca557fd4a64f741cff51ce73.setContent(html_4779e30c2f866c688913d1035466f567);
+            
+        
+
+        circle_marker_bd82eb775ac8946042aaf4ef1d9753be.bindPopup(popup_d3ec6bb6ca557fd4a64f741cff51ce73)
+        ;
+
+        
+    
+    
+            var circle_marker_24419db9ed7eada9f7dd66cf3cd115ce = L.circleMarker(
+                [51.147161, 0.270988],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_2d66117b5d252e1ab1984206f299dd92 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_5c1ae8a6af7f6177e2a61cc23b974c59 = $(`<div id="html_5c1ae8a6af7f6177e2a61cc23b974c59" style="width: 100.0%; height: 100.0%;"><b>Merrion Way</b><br>Electors: 27<br>Reform Probability: 20%</div>`)[0];
+                popup_2d66117b5d252e1ab1984206f299dd92.setContent(html_5c1ae8a6af7f6177e2a61cc23b974c59);
+            
+        
+
+        circle_marker_24419db9ed7eada9f7dd66cf3cd115ce.bindPopup(popup_2d66117b5d252e1ab1984206f299dd92)
+        ;
+
+        
+    
+    
+            var circle_marker_3b76a091e09256b224c51779de0afbdb = L.circleMarker(
+                [51.146646, 0.262784],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_3ee1c033989acf417feae924e4e32971 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_dcb7519248a32e025ab1fc19a5bc33b6 = $(`<div id="html_dcb7519248a32e025ab1fc19a5bc33b6" style="width: 100.0%; height: 100.0%;"><b>New England Road</b><br>Electors: 18<br>Reform Probability: 19%</div>`)[0];
+                popup_3ee1c033989acf417feae924e4e32971.setContent(html_dcb7519248a32e025ab1fc19a5bc33b6);
+            
+        
+
+        circle_marker_3b76a091e09256b224c51779de0afbdb.bindPopup(popup_3ee1c033989acf417feae924e4e32971)
+        ;
+
+        
+    
+    
+            var circle_marker_b49e5a4a9429d4bc93fc66c6250dd0e5 = L.circleMarker(
+                [51.142829, 0.262867],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_40321e7f986866c31a032041515a4893 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_70541d3d5b98ec15220d1ae9b160d4fe = $(`<div id="html_70541d3d5b98ec15220d1ae9b160d4fe" style="width: 100.0%; height: 100.0%;"><b>Somerset Road</b><br>Electors: 65<br>Reform Probability: 18%</div>`)[0];
+                popup_40321e7f986866c31a032041515a4893.setContent(html_70541d3d5b98ec15220d1ae9b160d4fe);
+            
+        
+
+        circle_marker_b49e5a4a9429d4bc93fc66c6250dd0e5.bindPopup(popup_40321e7f986866c31a032041515a4893)
+        ;
+
+        
+    
+    
+            var circle_marker_3333347b834e919045471461d1c957e5 = L.circleMarker(
+                [51.155727, 0.282733],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_6a4492da4c0634a829754a86150fc508 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_b4cce6165a2a21d94b549dd71355bd03 = $(`<div id="html_b4cce6165a2a21d94b549dd71355bd03" style="width: 100.0%; height: 100.0%;"><b>Holly Tree Close</b><br>Electors: 22<br>Reform Probability: 18%</div>`)[0];
+                popup_6a4492da4c0634a829754a86150fc508.setContent(html_b4cce6165a2a21d94b549dd71355bd03);
+            
+        
+
+        circle_marker_3333347b834e919045471461d1c957e5.bindPopup(popup_6a4492da4c0634a829754a86150fc508)
+        ;
+
+        
+    
+    
+            var circle_marker_eb253df32f621f33c80709297c6e4445 = L.circleMarker(
+                [51.151759, 0.260203],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_c4ca0259299310075e7c30838c70f099 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_38c7dc59af6102e2216c7c9346d0546b = $(`<div id="html_38c7dc59af6102e2216c7c9346d0546b" style="width: 100.0%; height: 100.0%;"><b>St Johns Park</b><br>Electors: 25<br>Reform Probability: 17%</div>`)[0];
+                popup_c4ca0259299310075e7c30838c70f099.setContent(html_38c7dc59af6102e2216c7c9346d0546b);
+            
+        
+
+        circle_marker_eb253df32f621f33c80709297c6e4445.bindPopup(popup_c4ca0259299310075e7c30838c70f099)
+        ;
+
+        
+    
+    
+            var circle_marker_4e940677a07c0a8d6eef35176bbc7b5e = L.circleMarker(
+                [51.147318, 0.264674],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_a94c0e259aeece24d735a6a60060e21d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_c5451fb4ca95bfefce138cb5d4391c5c = $(`<div id="html_c5451fb4ca95bfefce138cb5d4391c5c" style="width: 100.0%; height: 100.0%;"><b>Newlands Way</b><br>Electors: 6<br>Reform Probability: 16%</div>`)[0];
+                popup_a94c0e259aeece24d735a6a60060e21d.setContent(html_c5451fb4ca95bfefce138cb5d4391c5c);
+            
+        
+
+        circle_marker_4e940677a07c0a8d6eef35176bbc7b5e.bindPopup(popup_a94c0e259aeece24d735a6a60060e21d)
+        ;
+
+        
+    
+    
+            var circle_marker_71e254b3a5b6deef751cee2bd9e46548 = L.circleMarker(
+                [51.14581, 0.262684],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_2e2e47d4d7798e8872c8bcba9436d8ff = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_9a284bb74d38dc61e23b310c9c0cf4a7 = $(`<div id="html_9a284bb74d38dc61e23b310c9c0cf4a7" style="width: 100.0%; height: 100.0%;"><b>Riddlesdale Avenue</b><br>Electors: 63<br>Reform Probability: 16%</div>`)[0];
+                popup_2e2e47d4d7798e8872c8bcba9436d8ff.setContent(html_9a284bb74d38dc61e23b310c9c0cf4a7);
+            
+        
+
+        circle_marker_71e254b3a5b6deef751cee2bd9e46548.bindPopup(popup_2e2e47d4d7798e8872c8bcba9436d8ff)
+        ;
+
+        
+    
+    
+            var circle_marker_d84c6a85f712b94d171c8110597c6d19 = L.circleMarker(
+                [51.143949, 0.268285],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_0da63680205bcffb0d514b0abfa228bc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_15989489bcc46ae64df14e86447172ba = $(`<div id="html_15989489bcc46ae64df14e86447172ba" style="width: 100.0%; height: 100.0%;"><b>Stephens Road</b><br>Electors: 316<br>Reform Probability: 16%</div>`)[0];
+                popup_0da63680205bcffb0d514b0abfa228bc.setContent(html_15989489bcc46ae64df14e86447172ba);
+            
+        
+
+        circle_marker_d84c6a85f712b94d171c8110597c6d19.bindPopup(popup_0da63680205bcffb0d514b0abfa228bc)
+        ;
+
+        
+    
+    
+            var circle_marker_e01feeeb0dc81b726e5bb954b6d912cf = L.circleMarker(
+                [51.143396, 0.262838],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_9e5f89fe2416fd397ccb40c9aecbb42a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_2274ebfb7b154e7bb09189977efdac69 = $(`<div id="html_2274ebfb7b154e7bb09189977efdac69" style="width: 100.0%; height: 100.0%;"><b>& 8C Somerset Road</b><br>Electors: 2<br>Reform Probability: 15%</div>`)[0];
+                popup_9e5f89fe2416fd397ccb40c9aecbb42a.setContent(html_2274ebfb7b154e7bb09189977efdac69);
+            
+        
+
+        circle_marker_e01feeeb0dc81b726e5bb954b6d912cf.bindPopup(popup_9e5f89fe2416fd397ccb40c9aecbb42a)
+        ;
+
+        
+    
+    
+            var circle_marker_9db3e842245d4920c6322d158dc6fcbc = L.circleMarker(
+                [51.141889, 0.251085],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_658d71a76d0466f5cda737668fb735c8 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_38e01935d7867f898a00f552e57d7e87 = $(`<div id="html_38e01935d7867f898a00f552e57d7e87" style="width: 100.0%; height: 100.0%;"><b>Huntleys Park</b><br>Electors: 92<br>Reform Probability: 13%</div>`)[0];
+                popup_658d71a76d0466f5cda737668fb735c8.setContent(html_38e01935d7867f898a00f552e57d7e87);
+            
+        
+
+        circle_marker_9db3e842245d4920c6322d158dc6fcbc.bindPopup(popup_658d71a76d0466f5cda737668fb735c8)
+        ;
+
+        
+    
+    
+            var circle_marker_4aa9d13aae1c25e2acded43605495722 = L.circleMarker(
+                [51.162583, 0.264521],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_6d3addf2d561baf450d656be0ea94169 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_362ff98086f444e1e9ad3219d8cfe5cb = $(`<div id="html_362ff98086f444e1e9ad3219d8cfe5cb" style="width: 100.0%; height: 100.0%;"><b>Fairlight Close</b><br>Electors: 8<br>Reform Probability: 13%</div>`)[0];
+                popup_6d3addf2d561baf450d656be0ea94169.setContent(html_362ff98086f444e1e9ad3219d8cfe5cb);
+            
+        
+
+        circle_marker_4aa9d13aae1c25e2acded43605495722.bindPopup(popup_6d3addf2d561baf450d656be0ea94169)
+        ;
+
+        
+    
+    
+            var circle_marker_29277f674171af6dc7ac3f2552435a8e = L.circleMarker(
+                [51.16909, 0.251795],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_b43a491f10171cc1a162f593200cb1a4 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_a65c3a1718d0a9c1f8974bbbeb086798 = $(`<div id="html_a65c3a1718d0a9c1f8974bbbeb086798" style="width: 100.0%; height: 100.0%;"><b>Harland Way</b><br>Electors: 39<br>Reform Probability: 13%</div>`)[0];
+                popup_b43a491f10171cc1a162f593200cb1a4.setContent(html_a65c3a1718d0a9c1f8974bbbeb086798);
+            
+        
+
+        circle_marker_29277f674171af6dc7ac3f2552435a8e.bindPopup(popup_b43a491f10171cc1a162f593200cb1a4)
+        ;
+
+        
+    
+    
+            var circle_marker_575fa3f7ec2cb2e60f4c3fd9105fa249 = L.circleMarker(
+                [51.144068, 0.262629],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_b0bb249db6f6fb464f67c8c223d7c911 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_63278ea49eb9a95c711629157300baf8 = $(`<div id="html_63278ea49eb9a95c711629157300baf8" style="width: 100.0%; height: 100.0%;"><b>Southwood Avenue</b><br>Electors: 54<br>Reform Probability: 12%</div>`)[0];
+                popup_b0bb249db6f6fb464f67c8c223d7c911.setContent(html_63278ea49eb9a95c711629157300baf8);
+            
+        
+
+        circle_marker_575fa3f7ec2cb2e60f4c3fd9105fa249.bindPopup(popup_b0bb249db6f6fb464f67c8c223d7c911)
+        ;
+
+        
+    
+    
+            var circle_marker_97113c755f4b888899d5adf9ce74203d = L.circleMarker(
+                [51.142867, 0.257193],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_cf3e7a99deaeeb86582940343eb628f7 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_2cf9348547bf3a60d3f610dd269dd506 = $(`<div id="html_2cf9348547bf3a60d3f610dd269dd506" style="width: 100.0%; height: 100.0%;"><b>Culverden Avenue</b><br>Electors: 83<br>Reform Probability: 11%</div>`)[0];
+                popup_cf3e7a99deaeeb86582940343eb628f7.setContent(html_2cf9348547bf3a60d3f610dd269dd506);
+            
+        
+
+        circle_marker_97113c755f4b888899d5adf9ce74203d.bindPopup(popup_cf3e7a99deaeeb86582940343eb628f7)
+        ;
+
+        
+    
+    
+            var circle_marker_ef048c30d785894c6f18761873233ca7 = L.circleMarker(
+                [51.144047, 0.261754],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_6ff02e817a18b3b8700106b28ce8d2a6 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ac68c69e2710bb7b37e402f329da984b = $(`<div id="html_ac68c69e2710bb7b37e402f329da984b" style="width: 100.0%; height: 100.0%;"><b>Mereworth Road</b><br>Electors: 111<br>Reform Probability: 11%</div>`)[0];
+                popup_6ff02e817a18b3b8700106b28ce8d2a6.setContent(html_ac68c69e2710bb7b37e402f329da984b);
+            
+        
+
+        circle_marker_ef048c30d785894c6f18761873233ca7.bindPopup(popup_6ff02e817a18b3b8700106b28ce8d2a6)
+        ;
+
+        
+    
+    
+            var circle_marker_5cfb8fd1df9a3bdd922b1b1e83279876 = L.circleMarker(
+                [51.165622, 0.247392],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_9f03aa3d4e8542e8e3c785c38b61d9d5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_e7008f9ce0e51039305118dab1788cd3 = $(`<div id="html_e7008f9ce0e51039305118dab1788cd3" style="width: 100.0%; height: 100.0%;"><b>Dower House Crescent</b><br>Electors: 55<br>Reform Probability: 11%</div>`)[0];
+                popup_9f03aa3d4e8542e8e3c785c38b61d9d5.setContent(html_e7008f9ce0e51039305118dab1788cd3);
+            
+        
+
+        circle_marker_5cfb8fd1df9a3bdd922b1b1e83279876.bindPopup(popup_9f03aa3d4e8542e8e3c785c38b61d9d5)
+        ;
+
+        
+    
+    
+            var circle_marker_a6d95ad410ec599c960fd0ae13c55da4 = L.circleMarker(
+                [51.143473, 0.266759],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_80aac0eaa7d73a8031d7f7dab239f698 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_7a0618e17b38fc868d974697f90c67e3 = $(`<div id="html_7a0618e17b38fc868d974697f90c67e3" style="width: 100.0%; height: 100.0%;"><b>Upper Dunstan Road</b><br>Electors: 4<br>Reform Probability: 10%</div>`)[0];
+                popup_80aac0eaa7d73a8031d7f7dab239f698.setContent(html_7a0618e17b38fc868d974697f90c67e3);
+            
+        
+
+        circle_marker_a6d95ad410ec599c960fd0ae13c55da4.bindPopup(popup_80aac0eaa7d73a8031d7f7dab239f698)
+        ;
+
+        
+    
+    
+            var circle_marker_ce10db229107278759ab47ed6361a780 = L.circleMarker(
+                [51.142961, 0.258457],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_71df755d15e8f6d4791970ab862f31ad = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_485387acc104aaf2610bacdb3260fed5 = $(`<div id="html_485387acc104aaf2610bacdb3260fed5" style="width: 100.0%; height: 100.0%;"><b>Road</b><br>Electors: 24<br>Reform Probability: 10%</div>`)[0];
+                popup_71df755d15e8f6d4791970ab862f31ad.setContent(html_485387acc104aaf2610bacdb3260fed5);
+            
+        
+
+        circle_marker_ce10db229107278759ab47ed6361a780.bindPopup(popup_71df755d15e8f6d4791970ab862f31ad)
+        ;
+
+        
+    
+    
+            var circle_marker_c98f756d5e1312bba1ffabbc720828a5 = L.circleMarker(
+                [51.14586, 0.263432],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_15eea63691948f1bd2f55a85772fb66d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_421c8de52fb6904f0ae03bf854e7fc52 = $(`<div id="html_421c8de52fb6904f0ae03bf854e7fc52" style="width: 100.0%; height: 100.0%;"><b>East Cliff Road</b><br>Electors: 108<br>Reform Probability: 10%</div>`)[0];
+                popup_15eea63691948f1bd2f55a85772fb66d.setContent(html_421c8de52fb6904f0ae03bf854e7fc52);
+            
+        
+
+        circle_marker_c98f756d5e1312bba1ffabbc720828a5.bindPopup(popup_15eea63691948f1bd2f55a85772fb66d)
+        ;
+
+        
+    
+    
+            var circle_marker_6cbaf9019f227b6069fdb9e0c00ce4cc = L.circleMarker(
+                [51.144652, 0.259369],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_61084ff34a2060c0fe0a2eed6174c86d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8a6279fc481871d2c920e10e94e28af4 = $(`<div id="html_8a6279fc481871d2c920e10e94e28af4" style="width: 100.0%; height: 100.0%;"><b>Southfield Road</b><br>Electors: 63<br>Reform Probability: 9%</div>`)[0];
+                popup_61084ff34a2060c0fe0a2eed6174c86d.setContent(html_8a6279fc481871d2c920e10e94e28af4);
+            
+        
+
+        circle_marker_6cbaf9019f227b6069fdb9e0c00ce4cc.bindPopup(popup_61084ff34a2060c0fe0a2eed6174c86d)
+        ;
+
+        
+    
+    
+            var circle_marker_f558c5a79069c6fe0a9e6b795836b703 = L.circleMarker(
+                [51.142733, 0.254886],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_199340f660cfb2bbb3b7bdc0f33d34dc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_57b6b8a7c120f566ad8ef53ece9f775f = $(`<div id="html_57b6b8a7c120f566ad8ef53ece9f775f" style="width: 100.0%; height: 100.0%;"><b>Hadley Court</b><br>Electors: 18<br>Reform Probability: 8%</div>`)[0];
+                popup_199340f660cfb2bbb3b7bdc0f33d34dc.setContent(html_57b6b8a7c120f566ad8ef53ece9f775f);
+            
+        
+
+        circle_marker_f558c5a79069c6fe0a9e6b795836b703.bindPopup(popup_199340f660cfb2bbb3b7bdc0f33d34dc)
+        ;
+
+        
+    
+    
+            var circle_marker_95a32462c3590b736b40ca4e86ddffbe = L.circleMarker(
+                [51.143729, 0.259151],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_9ae2c9e129b6233d3b937860d372f991 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d0b8170e59959656ed178bce749ea6a7 = $(`<div id="html_d0b8170e59959656ed178bce749ea6a7" style="width: 100.0%; height: 100.0%;"><b>Beltring Road</b><br>Electors: 57<br>Reform Probability: 8%</div>`)[0];
+                popup_9ae2c9e129b6233d3b937860d372f991.setContent(html_d0b8170e59959656ed178bce749ea6a7);
+            
+        
+
+        circle_marker_95a32462c3590b736b40ca4e86ddffbe.bindPopup(popup_9ae2c9e129b6233d3b937860d372f991)
+        ;
+
+        
+    
+    
+            var circle_marker_b405d5543e9cbe60be2197909958b983 = L.circleMarker(
+                [51.143098, 0.259206],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_6f0805a952ce2688d4b651e9b7c0d1c9 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d104f91f7cf58ba21b3f25e667a40e28 = $(`<div id="html_d104f91f7cf58ba21b3f25e667a40e28" style="width: 100.0%; height: 100.0%;"><b>Whitefield Road</b><br>Electors: 109<br>Reform Probability: 8%</div>`)[0];
+                popup_6f0805a952ce2688d4b651e9b7c0d1c9.setContent(html_d104f91f7cf58ba21b3f25e667a40e28);
+            
+        
+
+        circle_marker_b405d5543e9cbe60be2197909958b983.bindPopup(popup_6f0805a952ce2688d4b651e9b7c0d1c9)
+        ;
+
+        
+    
+    
+            var circle_marker_07b1d870ad907593c27d8609f5e95aec = L.circleMarker(
+                [51.141534, 0.26159],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_fcff9b6d2809175e290fa4c3f45afca3 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4172fdd655bf22fb6efff2c4e4982d12 = $(`<div id="html_4172fdd655bf22fb6efff2c4e4982d12" style="width: 100.0%; height: 100.0%;"><b>Newcomen Road</b><br>Electors: 66<br>Reform Probability: 6%</div>`)[0];
+                popup_fcff9b6d2809175e290fa4c3f45afca3.setContent(html_4172fdd655bf22fb6efff2c4e4982d12);
+            
+        
+
+        circle_marker_07b1d870ad907593c27d8609f5e95aec.bindPopup(popup_fcff9b6d2809175e290fa4c3f45afca3)
+        ;
+
+        
+    
+    
+            var circle_marker_d2da9ee5867df5d86eaf21731397f035 = L.circleMarker(
+                [51.145191, 0.263983],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_a29270021c98ccd9a646828a45572ec7 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_f47479e63f273f3a2b557c6f69a4bcbb = $(`<div id="html_f47479e63f273f3a2b557c6f69a4bcbb" style="width: 100.0%; height: 100.0%;"><b>Newlands Rise</b><br>Electors: 3<br>Reform Probability: 5%</div>`)[0];
+                popup_a29270021c98ccd9a646828a45572ec7.setContent(html_f47479e63f273f3a2b557c6f69a4bcbb);
+            
+        
+
+        circle_marker_d2da9ee5867df5d86eaf21731397f035.bindPopup(popup_a29270021c98ccd9a646828a45572ec7)
+        ;
+
+        
+    
+    
+            var circle_marker_eedc9fdff265b63535942ad009aba5c9 = L.circleMarker(
+                [51.141824, 0.261817],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_5e0424ee21965d11decf2ee9ef290b77 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_16dd577a7e21e8ced79209bdc6a18ed6 = $(`<div id="html_16dd577a7e21e8ced79209bdc6a18ed6" style="width: 100.0%; height: 100.0%;"><b>Richardson Road</b><br>Electors: 19<br>Reform Probability: 5%</div>`)[0];
+                popup_5e0424ee21965d11decf2ee9ef290b77.setContent(html_16dd577a7e21e8ced79209bdc6a18ed6);
+            
+        
+
+        circle_marker_eedc9fdff265b63535942ad009aba5c9.bindPopup(popup_5e0424ee21965d11decf2ee9ef290b77)
+        ;
+
+        
+    
+    
+            var circle_marker_efa5ad93965dd738dde938c2dd6bf355 = L.circleMarker(
+                [51.146745, 0.270565],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_ee1a0eb24fcf987f90c83a858e7964f1 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_e658991118c60e61f4da9b7e6d82ff4f = $(`<div id="html_e658991118c60e61f4da9b7e6d82ff4f" style="width: 100.0%; height: 100.0%;"><b>Silverdale Mews</b><br>Electors: 6<br>Reform Probability: 4%</div>`)[0];
+                popup_ee1a0eb24fcf987f90c83a858e7964f1.setContent(html_e658991118c60e61f4da9b7e6d82ff4f);
+            
+        
+
+        circle_marker_efa5ad93965dd738dde938c2dd6bf355.bindPopup(popup_ee1a0eb24fcf987f90c83a858e7964f1)
+        ;
+
+        
+    
+    
+            var circle_marker_633c712c8ca62ae8c8be8be88495173e = L.circleMarker(
+                [51.143067, 0.258119],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_4659e635841f5d56225a98478cfcf2a9 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_aa8d6e59765ca62e6cc6602888ff3115 = $(`<div id="html_aa8d6e59765ca62e6cc6602888ff3115" style="width: 100.0%; height: 100.0%;"><b>Campbell Road</b><br>Electors: 17<br>Reform Probability: 4%</div>`)[0];
+                popup_4659e635841f5d56225a98478cfcf2a9.setContent(html_aa8d6e59765ca62e6cc6602888ff3115);
+            
+        
+
+        circle_marker_633c712c8ca62ae8c8be8be88495173e.bindPopup(popup_4659e635841f5d56225a98478cfcf2a9)
+        ;
+
+        
+    
+    
+            var circle_marker_b1bd31e39dbd40d2aeef3acf0eb0dad4 = L.circleMarker(
+                [51.142013, 0.262843],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_58b03cc2472f059cd239deca7d9a6b6e = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_560ae409f31df7b76225b3540454edd6 = $(`<div id="html_560ae409f31df7b76225b3540454edd6" style="width: 100.0%; height: 100.0%;"><b>Currie Road</b><br>Electors: 29<br>Reform Probability: 4%</div>`)[0];
+                popup_58b03cc2472f059cd239deca7d9a6b6e.setContent(html_560ae409f31df7b76225b3540454edd6);
+            
+        
+
+        circle_marker_b1bd31e39dbd40d2aeef3acf0eb0dad4.bindPopup(popup_58b03cc2472f059cd239deca7d9a6b6e)
+        ;
+
+        
+    
+    
+            var circle_marker_a5b02bf509572e1affd8d69656aebb98 = L.circleMarker(
+                [51.141615, 0.261006],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_ca2043fca2a146b42cb1adac43a1f58f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_de36b7e43878215550c2a220cd716f2e = $(`<div id="html_de36b7e43878215550c2a220cd716f2e" style="width: 100.0%; height: 100.0%;"><b>Shaftesbury Road</b><br>Electors: 20<br>Reform Probability: 3%</div>`)[0];
+                popup_ca2043fca2a146b42cb1adac43a1f58f.setContent(html_de36b7e43878215550c2a220cd716f2e);
+            
+        
+
+        circle_marker_a5b02bf509572e1affd8d69656aebb98.bindPopup(popup_ca2043fca2a146b42cb1adac43a1f58f)
+        ;
+
+        
+    
+    
+            var circle_marker_12c3f5de23a6a3c8f4c6594e161311dd = L.circleMarker(
+                [51.146124, 0.271609],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.9, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_ad5af5fed3113f970ea5d7d197e2c93f);
+        
+    
+        var popup_f16c39a6980c95dd2ffb9c7b74fe3624 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_e90aa9b7d1e4319578fb8bf03dd7dbe9 = $(`<div id="html_e90aa9b7d1e4319578fb8bf03dd7dbe9" style="width: 100.0%; height: 100.0%;"><b>Silverdale Lane</b><br>Electors: 5<br>Reform Probability: 3%</div>`)[0];
+                popup_f16c39a6980c95dd2ffb9c7b74fe3624.setContent(html_e90aa9b7d1e4319578fb8bf03dd7dbe9);
+            
+        
+
+        circle_marker_12c3f5de23a6a3c8f4c6594e161311dd.bindPopup(popup_f16c39a6980c95dd2ffb9c7b74fe3624)
+        ;
+
+        
+    
+</script>
+</html>

@@ -1,0 +1,340 @@
+KCCDistrict,Town,Village,StreetName,Avg_Reform_Prob,Success_Category,ElectorCount,Latitude,Longitude
+Cranbrook,Cranbrook,Hawkhurst,Rye Road,0.7002663,Very Good,454,51.041611,0.531828
+Cranbrook,Cranbrook,,Turner Avenue,0.66678816,Very Good,144,51.090919,0.536692
+Cranbrook,,Hawkhurst,Stream Lane,0.6397772,Very Good,79,51.036151,0.511888
+Cranbrook,Cranbrook,,Goudhurst Road,0.6373953,Very Good,130,51.113054,0.522087
+Cranbrook,Cranbrook,,Dorothy Avenue,0.63009375,Very Good,107,51.092945,0.541074
+Cranbrook,Cranbrook,Sandhurst,Linkhill,0.6207544,Very Good,36,51.023013,0.583508
+Cranbrook,,Hawkhurst,Queens Road,0.6112717,Very Good,54,51.048631,0.512792
+Cranbrook,Cranbrook,Sandhurst,Ringle Green,0.60914785,Very Good,19,51.024501,0.571497
+Cranbrook,,Hawkhurst,Horns Hill,0.5906458,Good,38,51.038066,0.477812
+Cranbrook,Cranbrook,Sandhurst,Crouch Lane,0.59008753,Good,40,51.026712,0.577625
+Cranbrook,Cranbrook,Sandhurst,Bourne Lane,0.5885257,Good,12,51.021544,0.543098
+Cranbrook,Cranbrook,Sissinghurst,The Common,0.585438,Good,129,51.113704,0.553028
+Cranbrook,Cranbrook,,Ropewalk,0.5846664,Good,98,51.097518,0.533039
+Cranbrook,Cranbrook,Hartley,Hartley Court Gardens,0.5722606,Good,55,51.087544,0.51263
+Cranbrook,Cranbrook,Sissinghurst,Golford,0.5681094,Good,114,51.10252,0.587582
+Cranbrook,Cranbrook,Benenden,The Street,0.5622578,Good,253,51.06756,0.579451
+Cranbrook,,Hawkhurst,Delmonden Lane,0.56050736,Good,45,51.046046,0.474728
+Cranbrook,Cranbrook,,Tippens Close,0.5533017,Good,8,51.094525,0.539189
+Cranbrook,Cranbrook,,St Dunstans Walk,0.5521648,Good,14,51.093406,0.535214
+Cranbrook,,Hawkhurst,Hensill Lane,0.54176235,Good,32,51.039212,0.501598
+Cranbrook,Cranbrook,,Tilsden Lane,0.5379846,Good,34,51.090476,0.545065
+Cranbrook,,Hawkhurst,Fieldways,0.536168,Good,30,51.044025,0.513341
+Cranbrook,Cranbrook,Sandhurst,Poundfield Road,0.5359917,Good,36,51.026772,0.560655
+Cranbrook,Cranbrook,,Winch Close,0.53257465,Good,7,51.090443,0.537894
+Cranbrook,Cranbrook,,Hartley Road,0.53188664,Good,94,51.089586,0.517154
+Cranbrook,,Hawkhurst,Woodbury Road,0.53008515,Good,68,51.050793,0.510226
+Cranbrook,,Hawkhurst,Woodham Close,0.5288987,Good,26,51.045641,0.515884
+Cranbrook,Cranbrook,,Frythe Walk,0.5265421,Good,25,51.092194,0.534649
+Cranbrook,Cranbrook,Benenden,Iden Green,0.5260166,Good,99,51.057635,0.574719
+Cranbrook,Cranbrook,Benenden,Goddards Green,0.5257697,Good,59,51.081951,0.597231
+Cranbrook,Cranbrook,Bakers Cross,Little Bakers Cross,0.525745,Good,4,51.094101,0.541652
+Cranbrook,Cranbrook,Bakers Cross,Sheafes House,0.525745,Good,2,51.094101,0.541652
+Cranbrook,Cranbrook,,The Hill,0.5253469,Good,88,51.095031,0.539088
+Cranbrook,,Hawkhurst,Park Cottages,0.51689166,Good,111,51.048914,0.513948
+Cranbrook,,Hawkhurst,Water Lane,0.51597404,Good,119,51.07073,0.519443
+Cranbrook,Cranbrook,Frittenden,Bubhurst Lane,0.5155848,Good,25,51.144148,0.611701
+Cranbrook,Cranbrook,Benenden,Golford Road,0.51261204,Good,109,51.094346,0.547391
+Cranbrook,Cranbrook,Benenden,New Pond Road,0.5085172,Good,98,51.075568,0.584208
+Cranbrook,Cranbrook,Sandhurst,Sponden Lane,0.50527513,Good,57,51.033945,0.557072
+Cranbrook,Cranbrook,,Pear Tree Close,0.5046063,Good,29,51.090843,0.538515
+Cranbrook,Cranbrook,Benenden,Cranbrook Road,0.5007548,Good,702,51.071159,0.56222
+Cranbrook,Cranbrook,,The Tanyard,0.49890044,Good,28,51.095218,0.5366
+Cranbrook,Cranbrook,Frittenden,Mill Lane,0.49654403,Good,70,51.109965,0.553337
+Cranbrook,Cranbrook,,Farmstead Way,0.4938635,Good,35,51.089271,0.521336
+Cranbrook,Cranbrook,Benenden,Dingleden,0.49104798,Good,50,51.050335,0.590907
+Cranbrook,Cranbrook,,Norman Rise,0.4876204,Good,27,51.091718,0.536721
+Cranbrook,Cranbrook,,Pennyfields,0.48749912,Good,36,51.091719,0.538335
+Cranbrook,Cranbrook,Goudhurst,Park Lane,0.48683426,Good,33,51.074088,0.493859
+Cranbrook,,Hawkhurst,Wellington Cottages,0.48467782,Good,62,51.059229,0.502676
+Cranbrook,Cranbrook,,Frythe Close,0.48318136,Good,26,51.09287,0.539184
+Cranbrook,Cranbrook,,Town Meadow,0.4797032,Good,14,51.093358,0.538268
+Cranbrook,Cranbrook,Sandhurst,Back Road,0.47883517,Good,39,51.025745,0.565234
+Cranbrook,,Hawkhurst,Birchfield Grove,0.47285667,Good,42,51.04654,0.517573
+Cranbrook,,Hawkhurst,Tongswood Drive,0.47254768,Good,17,51.045438,0.529554
+Cranbrook,Cranbrook,Hawkhurst,Norris Close,0.46997732,Good,45,51.048131,0.51188
+Cranbrook,Cranbrook,Hartley,Hawkhurst Road,0.46943256,Good,107,51.07974,0.509979
+Cranbrook,Cranbrook,,Rectory Lane,0.46845815,Good,13,51.097157,0.534776
+Cranbrook,Cranbrook,,Stone Street,0.4652451,Good,68,51.096317,0.536616
+Cranbrook,Cranbrook,,Horseshoe Lane,0.46520674,Good,6,51.089907,0.521056
+Cranbrook,Cranbrook,Sissinghurst,Starvenden Lane,0.46398944,Good,42,51.120975,0.54707
+Cranbrook,Cranbrook,,Campion Crescent,0.45926422,Good,57,51.086778,0.512303
+Cranbrook,Cranbrook,,Greenway,0.45739502,Good,13,51.093536,0.524223
+Cranbrook,Cranbrook,Sissinghurst,Hovendens,0.45723805,Good,46,51.110535,0.559699
+Cranbrook,,Hawkhurst,Oakfield,0.45665222,Good,68,51.050256,0.507129
+Cranbrook,Cranbrook,,Quaker Drive,0.45375738,Good,43,51.103069,0.538357
+Cranbrook,Cranbrook,Frittenden,Sinkhurst Green,0.45326254,Good,23,51.150787,0.583704
+Cranbrook,Cranbrook,,Waterloo Road,0.45178658,Good,104,51.098295,0.539054
+Cranbrook,,Hawkhurst,The Moor,0.44989234,Good,81,51.03988,0.50363
+Cranbrook,Cranbrook,Sandhurst,Stream Pit Lane,0.44951317,Good,61,51.027605,0.559175
+Cranbrook,Cranbrook,Benenden,Stepneyford Lane,0.44915628,Good,14,51.069268,0.616304
+Cranbrook,Cranbrook,,Bramley Drive,0.44822466,Good,32,51.093315,0.535666
+Cranbrook,Cranbrook,Sandhurst,Bodiam Road,0.4467521,Good,158,51.026486,0.561795
+Cranbrook,Cranbrook,Hartley,Tiverton Cottage,0.4466215,Good,4,51.088802,0.515155
+Cranbrook,Cranbrook,,Glassenbury Road,0.44419274,Good,54,51.10108,0.489951
+Cranbrook,Cranbrook,Benenden,Beacon Hill,0.44365898,Good,14,51.061708,0.598807
+Cranbrook,Cranbrook,Frittenden,Sand Lane,0.4413888,Good,37,51.134593,0.598939
+Cranbrook,Cranbrook,Sandhurst,Marsh Quarter,0.4376222,Good,13,51.014152,0.568116
+Cranbrook,Cranbrook,Goudhurst,Curtisden Green,0.43605563,Good,72,51.137398,0.486101
+Cranbrook,Cranbrook,,Swattenden Lane,0.43414083,Good,73,51.08245,0.530302
+Cranbrook,Cranbrook,,Orchard Way,0.4322263,Good,19,51.092089,0.52126
+Cranbrook,Cranbrook,,Turnden Road,0.4322263,Good,10,51.091567,0.516276
+Cranbrook,Cranbrook,,Coursehorn Lane,0.42740548,Good,46,51.092537,0.557332
+Cranbrook,Cranbrook,Benenden,Mill Street,0.41151127,Good,78,51.054188,0.570746
+Cranbrook,Cranbrook,Sissinghurst,Church Mews,0.40859374,Good,14,51.10931,0.563145
+Cranbrook,Cranbrook,Hartley,Beulah,0.40768206,Good,3,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,Bramwell,0.40768206,Good,3,51.086802,0.512762
+Cranbrook,Cranbrook,Hartley,Clannalan,0.40768206,Good,1,51.086802,0.512762
+Cranbrook,Cranbrook,Hartley,Craigdene,0.40768206,Good,1,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,Fair View,0.40768206,Good,2,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,Glenn House,0.40768206,Good,3,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,Goodwood,0.40768206,Good,2,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,Hadleigh,0.40768206,Good,2,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,Hartley Gate Farmhouse,0.40768206,Good,2,51.085009,0.510879
+Cranbrook,Cranbrook,Hartley,Hawthorn,0.40768206,Good,2,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,Hillcroft,0.40768206,Good,5,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,Hillside,0.40768206,Good,2,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,Peel House,0.40768206,Good,3,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,The Heathers,0.40768206,Good,10,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,Wayfarers,0.40768206,Good,2,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,Westward House,0.40768206,Good,5,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,Wingate,0.40768206,Good,4,51.088802,0.515155
+Cranbrook,Cranbrook,Sandhurst,Queen Street,0.40756282,Good,82,51.02729,0.562039
+Cranbrook,Cranbrook,Hawkhurst,Manton Crescent,0.40641528,Good,44,51.050845,0.514411
+Cranbrook,Ashford,Biddenden,Ayleswade Lane,0.40556988,Good,22,51.143559,0.632757
+Cranbrook,,Hawkhurst,Conghurst Lane,0.4036769,Good,89,51.026281,0.519968
+Cranbrook,Cranbrook,Sissinghurst,Wilsley Pound,0.40363103,Good,54,51.109336,0.546701
+Cranbrook,,Hawkhurst,Winchester Road,0.40220255,Good,58,51.050133,0.510789
+Cranbrook,Cranbrook,Goudhurst,Summerhill,0.3999541,Moderate,50,51.137131,0.47109
+Cranbrook,Cranbrook,Hawkhurst,Herschel Place,0.3997891,Moderate,89,51.046265,0.507357
+Cranbrook,Cranbrook,,Brick Kiln Avenue,0.39860913,Moderate,3,51.092619,0.524589
+Cranbrook,Cranbrook,Sissinghurst,Bramling Gardens,0.39731267,Moderate,96,51.112612,0.557699
+Cranbrook,Cranbrook,,Joyce Close,0.3958903,Moderate,90,51.096479,0.529526
+Cranbrook,Cranbrook,,Bishops Lane,0.39452574,Moderate,13,51.08401,0.502143
+Cranbrook,,Hawkhurst,Horns Corner,0.39416298,Moderate,13,51.038066,0.477812
+Cranbrook,Cranbrook,Sissinghurst,Spongs Lane,0.39003342,Moderate,27,51.116606,0.561349
+Cranbrook,Cranbrook,Sandhurst,Tanyard,0.38974443,Moderate,51,51.026643,0.559964
+Cranbrook,Ashford,Biddenden,Bettenham Lane,0.38748348,Moderate,23,51.120904,0.603746
+Cranbrook,,Hawkhurst,Northgrove Road,0.38743424,Moderate,57,51.048068,0.509765
+Cranbrook,Cranbrook,,Horsley Place,0.38583198,Moderate,23,51.095238,0.528245
+Cranbrook,,Hawkhurst,Highgate Hill,0.38498458,Moderate,133,51.044697,0.508342
+Cranbrook,,Hawkhurst,Cowden Lane,0.38241187,Moderate,15,51.036914,0.499775
+Cranbrook,Cranbrook,Sandhurst,Ethnam Lane,0.3823276,Moderate,34,51.019845,0.582405
+Cranbrook,Cranbrook,Sandhurst,Millers Meadow,0.38136214,Moderate,26,51.024126,0.570465
+Cranbrook,Cranbrook,,Colliers Green,0.37967893,Moderate,56,51.125272,0.514335
+Cranbrook,Cranbrook,Benenden,Rothermere Close,0.3787013,Moderate,35,51.066955,0.583671
+Cranbrook,Cranbrook,Goudhurst,Mary Days,0.37610486,Moderate,26,51.111043,0.458582
+Cranbrook,Cranbrook,,Hendley Drive,0.3747047,Moderate,81,51.097654,0.531747
+Cranbrook,Cranbrook,,Brickenden Road,0.37328473,Moderate,40,51.094633,0.535867
+Cranbrook,Cranbrook,,The Meads,0.37293202,Moderate,16,51.08175,0.510231
+Cranbrook,Cranbrook,Bakers Cross,Adeena,0.3722782,Moderate,2,51.094518,0.541988
+Cranbrook,Cranbrook,Bakers Cross,Almyr,0.3722782,Moderate,1,51.094518,0.541988
+Cranbrook,Cranbrook,Bakers Cross,Cedar Crest,0.3722782,Moderate,2,51.094518,0.541988
+Cranbrook,Cranbrook,Bakers Cross,Claremont,0.3722782,Moderate,2,51.094518,0.541988
+Cranbrook,Cranbrook,Bakers Cross,Little Croft,0.3722782,Moderate,3,51.094518,0.541988
+Cranbrook,Cranbrook,Bakers Cross,Scotney,0.3722782,Moderate,2,51.094518,0.541988
+Cranbrook,Cranbrook,Bakers Cross,Scott House Cranbrook School,0.3722782,Moderate,3,51.094989,0.541014
+Cranbrook,Cranbrook,Bakers Cross,Scott House Garden Cottage,0.3722782,Moderate,2,51.094799,0.540232
+Cranbrook,Cranbrook,Bakers Cross,Wynchfield,0.3722782,Moderate,2,51.094518,0.541988
+Cranbrook,,Hawkhurst,Fox Hole Lane,0.37191266,Moderate,27,51.040767,0.534692
+Cranbrook,,Hawkhurst,Gills Green,0.3704339,Moderate,93,51.059547,0.504107
+Cranbrook,Cranbrook,Goudhurst,Lurkins Rise,0.3688372,Moderate,93,51.109598,0.455905
+Cranbrook,,Hawkhurst,Moor Hill,0.3676289,Moderate,75,51.040825,0.505707
+Cranbrook,,Hawkhurst,Ockley Road,0.36516327,Moderate,64,51.048313,0.510919
+Cranbrook,Cranbrook,Frittenden,Pound Hill,0.3641955,Moderate,40,51.13802,0.598903
+Cranbrook,,Goudhurst,Culpepers,0.36191076,Moderate,75,51.109948,0.458425
+Cranbrook,Cranbrook,,Chalk Lane,0.36097944,Moderate,9,51.109052,0.507383
+Cranbrook,Cranbrook,,Trenley Lane,0.36097944,Moderate,10,51.068307,0.499084
+Cranbrook,Cranbrook,,St Davids Bridge,0.3592908,Moderate,26,51.095671,0.537766
+Cranbrook,Cranbrook,,Wheatfield Close,0.34844583,Moderate,34,51.097374,0.529346
+Cranbrook,Cranbrook,,Paley Lane,0.34200984,Moderate,29,51.129536,0.534748
+Cranbrook,Cranbrook,Benenden,Halden Lane,0.34175402,Moderate,12,51.079521,0.626749
+Cranbrook,Cranbrook,Sissinghurst,Skinner Gardens,0.34035516,Moderate,29,51.111295,0.556668
+Cranbrook,Cranbrook,Hawkhurst,Hastings Road,0.33410642,Moderate,88,51.03381,0.503946
+Cranbrook,Cranbrook,,Angley Road,0.33294973,Moderate,222,51.102422,0.532522
+Cranbrook,Cranbrook,Sissinghurst,Cramptons,0.332186,Moderate,27,51.110267,0.551439
+Cranbrook,Cranbrook,Benenden,Pullington Cottages,0.33125556,Moderate,44,51.065064,0.586577
+Cranbrook,Cranbrook,Benenden,Wood Lane,0.33123434,Moderate,17,51.088331,0.618468
+Cranbrook,Cranbrook,Sissinghurst,Cleavers Close,0.33072016,Moderate,10,51.110623,0.555759
+Cranbrook,Cranbrook,Goudhurst,Jarvis Lane,0.32834873,Moderate,54,51.119258,0.480912
+Cranbrook,Cranbrook,Sandhurst,Lower Green,0.32657376,Moderate,25,51.02622,0.566544
+Cranbrook,Cranbrook,Sandhurst,Lomas Lane,0.32478422,Moderate,49,51.025138,0.590714
+Cranbrook,Cranbrook,Hartley,Invicta,0.32327342,Moderate,2,51.088802,0.515155
+Cranbrook,Cranbrook,Goudhurst,Ladham Road,0.32006863,Moderate,52,51.127192,0.476677
+Cranbrook,Cranbrook,Kilndown,Church Road,0.31971717,Moderate,173,51.11434,0.46303
+Cranbrook,Cranbrook,Benenden,Rolvenden Road,0.31924883,Moderate,50,51.061708,0.588674
+Cranbrook,,Hawkhurst,Heartenoak Road,0.31897962,Moderate,107,51.057206,0.510187
+Cranbrook,Cranbrook,Hawkhurst,Cowden Close,0.3179626,Moderate,13,51.038001,0.497751
+Cranbrook,Cranbrook,Goudhurst,Kilndown,0.3161118,Moderate,29,51.086192,0.447068
+Cranbrook,,Hawkhurst,Red Oak,0.31455836,Moderate,60,51.039027,0.500118
+Cranbrook,Cranbrook,Sissinghurst,Common Road,0.31400505,Moderate,20,51.109421,0.558025
+Cranbrook,Cranbrook,,Friezley Lane,0.31193137,Moderate,45,51.119621,0.535749
+Cranbrook,Cranbrook,,Swifts View,0.31101945,Moderate,25,51.102911,0.53895
+Cranbrook,Cranbrook,Benenden,Standen Street,0.3100987,Moderate,117,51.05421,0.572658
+Cranbrook,Cranbrook,,Jockey Lane,0.30862275,Moderate,5,51.099237,0.536248
+Cranbrook,,Hawkhurst,Copthall Avenue,0.308184,Moderate,61,51.044544,0.510958
+Cranbrook,Cranbrook,,Freight Lane,0.30666888,Moderate,18,51.089314,0.531463
+Cranbrook,Cranbrook,Hartley,House,0.30666888,Moderate,2,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,Turnden Cottages,0.30666888,Moderate,4,51.091259,0.519659
+Cranbrook,Cranbrook,Hartley,Westcroft,0.30666888,Moderate,2,51.088802,0.515155
+Cranbrook,Cranbrook,Hartley,Westerley,0.30666888,Moderate,2,51.088802,0.515155
+Cranbrook,Cranbrook,Sandhurst,The Ropewalk,0.30607927,Moderate,30,51.026848,0.564967
+Cranbrook,Cranbrook,Sandhurst,Oaks Forstal,0.3021138,Moderate,13,51.024953,0.566916
+Cranbrook,,Flimwell,East,0.3004137,Moderate,19,51.059599,0.447749
+Cranbrook,Cranbrook,,Woodlands,0.3003917,Moderate,11,51.103683,0.537833
+Cranbrook,Cranbrook,Frittenden,Staplehurst Road,0.29828382,Poor,15,51.151293,0.590069
+Cranbrook,Cranbrook,Frittenden,The Limes,0.29827765,Poor,16,51.13944,0.592463
+Cranbrook,Cranbrook,Sandhurst,Burnt House Close,0.29658568,Poor,5,51.024503,0.569372
+Cranbrook,Cranbrook,Frittenden,Grandshore Lane,0.2945809,Poor,14,51.133547,0.567303
+Cranbrook,Cranbrook,Benenden,Harmsworth Court,0.29423,Poor,23,51.066787,0.584318
+Cranbrook,,Hawkhurst,Western Road,0.2938059,Poor,56,51.049724,0.508799
+Cranbrook,Cranbrook,,Angley Walk,0.2937719,Poor,22,51.103091,0.537372
+Cranbrook,,Hawkhurst,Highfield Close,0.29129964,Poor,12,51.046174,0.511618
+Cranbrook,Cranbrook,Sandhurst,Sharps Hill,0.2903193,Poor,8,51.028522,0.56001
+Cranbrook,Cranbrook,Goudhurst,Winchet Hill,0.29017672,Poor,35,51.138416,0.478323
+Cranbrook,Cranbrook,Sissinghurst,Cobnut Close,0.289158,Poor,17,51.111362,0.557287
+Cranbrook,Cranbrook,Sandhurst,Old Orchard,0.28824523,Poor,61,51.026582,0.558564
+Cranbrook,Cranbrook,Benenden,Woodcock Lane,0.2881626,Poor,33,51.052965,0.576913
+Cranbrook,,Hawkhurst,Fairview,0.28596893,Poor,44,51.047379,0.508372
+Cranbrook,Cranbrook,Sissinghurst,Chapel Lane,0.28552824,Poor,30,51.107796,0.561646
+Cranbrook,Cranbrook,Benenden,Nineveh Lane,0.28480312,Poor,35,51.063846,0.544574
+Cranbrook,Cranbrook,Benenden,Frogs Hole Lane,0.28480184,Poor,14,51.084019,0.626318
+Cranbrook,Cranbrook,Goudhurst,Balcombes Hill,0.28333214,Poor,35,51.111692,0.45896
+Cranbrook,Cranbrook,Sissinghurst,Hop Pocket Close,0.28121218,Poor,22,51.109472,0.55861
+Cranbrook,Cranbrook,Sandhurst,Stone Pit Lane,0.28076008,Poor,9,51.024202,0.58182
+Cranbrook,Cranbrook,Benenden,Pullington,0.27848282,Poor,18,51.06402,0.588674
+Cranbrook,Cranbrook,Goudhurst,Gore Lane,0.27778095,Poor,21,51.129595,0.462955
+Cranbrook,Ashford,Headcorn,Waterman Quarter,0.2717958,Poor,3,51.152002,0.624028
+Cranbrook,Cranbrook,Sissinghurst,Broadview,0.27085662,Poor,14,51.10954,0.559214
+Cranbrook,Cranbrook,Hartley,Honiton,0.27010125,Poor,2,51.088802,0.515155
+Cranbrook,Cranbrook,Benenden,Coldharbour Road,0.2697618,Poor,36,51.060478,0.562802
+Cranbrook,Cranbrook,Frittenden,Green Lane,0.26950872,Poor,25,51.152009,0.598745
+Cranbrook,Cranbrook,Goudhurst,Bluecoats Lane,0.26799297,Poor,17,51.10669,0.443965
+Cranbrook,Cranbrook,Frittenden,Biddenden Road,0.26712847,Poor,139,51.137543,0.615405
+Cranbrook,Cranbrook,Sissinghurst,Sissinghurst Road,0.267023,Poor,58,51.108693,0.555967
+Cranbrook,Cranbrook,Benenden,Mockbeggar Lane,0.2669823,Poor,6,51.089621,0.617967
+Cranbrook,Cranbrook,Benenden,Ramsden Lane,0.26659465,Poor,11,51.058972,0.594458
+Cranbrook,Ashford,Biddenden,Bishopsden Road,0.26571473,Poor,20,51.085303,0.635987
+Cranbrook,,Hawkhurst,Western Avenue,0.26490694,Poor,32,51.048736,0.508816
+Cranbrook,Cranbrook,Frittenden,Chestnut Close,0.26423842,Poor,22,51.138458,0.589292
+Cranbrook,Cranbrook,,Wheatfield Lea,0.26364368,Poor,32,51.098151,0.530388
+Cranbrook,,Hawkhurst,Whites Lane,0.26354128,Poor,34,51.050035,0.514066
+Cranbrook,Cranbrook,Frittenden,Headcorn Road,0.2619775,Poor,46,51.14208,0.594313
+Cranbrook,Cranbrook,Benenden,Walkhurst Road,0.2573746,Poor,61,51.06832,0.584946
+Cranbrook,,Hawkhurst,Slip Mill Road,0.2573452,Poor,84,51.061115,0.501964
+Cranbrook,Cranbrook,Benenden,The Green,0.25691158,Poor,41,51.065662,0.578576
+Cranbrook,Cranbrook,Benenden,Benenden School,0.25578177,Poor,43,51.076703,0.575492
+Cranbrook,,Benenden,Fuggles Court,0.2547848,Poor,7,51.066889,0.579244
+Cranbrook,Cranbrook,Sandhurst,Risden Lane,0.25463647,Poor,19,51.036221,0.535173
+Cranbrook,,Hawkhurst,Vale Road,0.25329393,Poor,20,51.051506,0.509665
+Cranbrook,Tonbridge,Staplehurst,Hartsheath,0.25318673,Poor,8,51.141772,0.501992
+Cranbrook,Cranbrook,Benenden,Vere Meadows,0.25318027,Poor,18,51.06787,0.583295
+Cranbrook,Cranbrook,,Rolvenden,0.2526434,Poor,1,51.062897,0.61202
+Cranbrook,Cranbrook,Sissinghurst,Cleavers,0.25016984,Poor,43,51.110589,0.557286
+Cranbrook,,Hawkhurst,School Terrace,0.24982072,Poor,29,51.049061,0.509205
+Cranbrook,Cranbrook,,Crane Lane,0.24939191,Poor,3,51.095858,0.534962
+Cranbrook,Cranbrook,Benenden,Goddards Green Road,0.24930024,Poor,28,51.078462,0.579829
+Cranbrook,Cranbrook,Sissinghurst,Milkhouse Cottages,0.24613588,Poor,41,51.110278,0.558355
+Cranbrook,Cranbrook,Goudhurst,Ballards Hill,0.240914,Poor,14,51.131469,0.457266
+Cranbrook,,Hawkhurst,Gunther Close,0.23942876,Poor,29,51.051465,0.513259
+Cranbrook,Cranbrook,Benenden,Hinksden Road,0.23708023,Poor,32,51.05745,0.551589
+Cranbrook,Cranbrook,Goudhurst,Horden,0.23405725,Poor,37,51.133751,0.50233
+Cranbrook,Cranbrook,,Causton Road,0.23349051,Poor,50,51.096686,0.531608
+Cranbrook,Cranbrook,Bakers Cross,Shrewsbury Cottage,0.23127584,Poor,2,51.094518,0.541988
+Cranbrook,Cranbrook,Sandhurst,Field Green,0.22687434,Poor,14,51.038809,0.545299
+Cranbrook,Cranbrook,,Folly Hill,0.22583067,Poor,2,51.132707,0.536566
+Cranbrook,,Hawkhurst,Murton Neale Close,0.22040257,Poor,14,51.050104,0.512571
+Cranbrook,Cranbrook,,Oaklands,0.22035494,Poor,11,51.09325,0.536619
+Cranbrook,Cranbrook,Hawkhurst,Attwaters Lane,0.21840966,Poor,20,51.068042,0.521109
+Cranbrook,,Hawkhurst,Oaklands Road,0.21812437,Poor,22,51.045271,0.510513
+Cranbrook,Cranbrook,Hartley,Foxgloves,0.21594425,Poor,2,51.088802,0.515155
+Cranbrook,Cranbrook,Goudhurst,Chequers Road,0.21501052,Poor,68,51.115192,0.469991
+Cranbrook,Cranbrook,Benenden,Cherryfields,0.21282083,Poor,19,51.067322,0.577225
+Cranbrook,Cranbrook,Hawkhurst,Highgate Mews,0.2106956,Poor,8,51.046795,0.509995
+Cranbrook,Cranbrook,Benenden,Babbes Lane,0.2101631,Poor,4,51.067455,0.555123
+Cranbrook,Cranbrook,Benenden,Mount-Le-Hoe,0.2101631,Poor,2,51.07422,0.609148
+Cranbrook,Cranbrook,Benenden,Walkhurst Lane,0.2101631,Poor,3,51.075568,0.584208
+Cranbrook,Cranbrook,Goudhurst,Ladham Lane,0.20833506,Poor,14,51.128103,0.484616
+Cranbrook,Cranbrook,Goudhurst,Tattlebury Lane,0.20816267,Poor,13,51.115748,0.467906
+Cranbrook,Cranbrook,Sissinghurst,Frittenden Road,0.20774457,Poor,13,51.116947,0.562626
+Cranbrook,Ashford,Biddenden,Bounds Cross,0.20742114,Poor,3,51.136842,0.637396
+Cranbrook,Cranbrook,Sandhurst,Silverden Lane,0.20275526,Poor,22,51.021125,0.547852
+Cranbrook,,Hawkhurst,Theobalds,0.20190111,Poor,33,51.047735,0.505924
+Cranbrook,Cranbrook,Sissinghurst,Camden Hill,0.19894958,Poor,35,51.123258,0.558245
+Cranbrook,Cranbrook,Frittenden,Dig Dog Lane,0.19894958,Poor,18,51.128342,0.580664
+Cranbrook,Cranbrook,Frittenden,Rocks Hill,0.19894958,Poor,8,51.129568,0.561681
+Cranbrook,Cranbrook,Hawkhurst,Pipers Lane,0.19690865,Poor,1,51.038311,0.502589
+Cranbrook,Ashford,Headcorn,Coldharbour Lane,0.19300783,Poor,2,51.148672,0.62976
+Cranbrook,Cranbrook,Goudhurst,Beresford Road,0.18823442,Poor,40,51.115142,0.468945
+Cranbrook,Cranbrook,Sandhurst,Megrims Hill,0.18340756,Poor,2,51.035658,0.547922
+Cranbrook,Cranbrook,Goudhurst,Ranters Lane,0.18124294,Poor,54,51.108621,0.448424
+Cranbrook,Cranbrook,Kilndown,Rogers Rough Road,0.18113756,Poor,49,51.090731,0.428228
+Cranbrook,Cranbrook,Goudhurst,Beaman Close,0.17972833,Poor,17,51.114075,0.46836
+Cranbrook,Cranbrook,Sissinghurst,Carpenters Meadow,0.17963222,Poor,11,51.112981,0.55479
+Cranbrook,Cranbrook,,Sheafe Drive,0.17716378,Poor,22,51.098636,0.527902
+Cranbrook,Cranbrook,,Quaker Lane,0.17300159,Poor,27,51.102915,0.536763
+Cranbrook,Cranbrook,,Wheatfield Drive,0.17242725,Poor,64,51.09611,0.527449
+Cranbrook,Cranbrook,Goudhurst,Round Green Lane,0.17101437,Poor,13,51.129764,0.50746
+Cranbrook,Ashford,Biddenden,Bell Lane,0.16949297,Poor,6,51.141647,0.642116
+Cranbrook,Ashford,Biddenden,Hareplain Road,0.16723771,Poor,6,51.120686,0.609879
+Cranbrook,Cranbrook,Benenden,Weavers Lane,0.16152592,Poor,1,51.054188,0.570746
+Cranbrook,Cranbrook,Goudhurst,Swan Lane,0.15638916,Poor,5,51.127862,0.467537
+Cranbrook,,Hawkhurst,Barretts Road,0.15421996,Poor,19,51.049396,0.511107
+Cranbrook,Cranbrook,Goudhurst,Combourne,0.15401815,Poor,7,51.130816,0.489365
+Cranbrook,Cranbrook,Goudhurst,Smiths Lane,0.15202568,Poor,19,51.114401,0.449859
+Cranbrook,,Flimwell,London Road,0.14855197,Poor,67,51.076589,0.418792
+Cranbrook,,Hawkhurst,Ockley Lane,0.14783785,Poor,46,51.051092,0.51127
+Cranbrook,Cranbrook,Goudhurst,Bankfield Way,0.14562897,Poor,45,51.110403,0.456505
+Cranbrook,,Hawkhurst,Mercers,0.13905402,Poor,21,51.046222,0.510278
+Cranbrook,Cranbrook,Goudhurst,Iden Green Road,0.13709599,Poor,9,51.110091,0.494179
+Cranbrook,Cranbrook,Goudhurst,High Ridge,0.13618557,Poor,32,51.110909,0.456832
+Cranbrook,Cranbrook,Goudhurst,Rope Walk,0.13618557,Poor,7,51.114724,0.461064
+Cranbrook,Cranbrook,,Tattlebury Road,0.13618557,Poor,6,51.115748,0.467906
+Cranbrook,,Hawkhurst,Tates,0.13617884,Poor,13,51.045059,0.509104
+Cranbrook,Cranbrook,Goudhurst,Gore Court,0.1354951,Poor,4,51.128518,0.461127
+Cranbrook,Cranbrook,Sissinghurst,London Lane,0.13021843,Poor,15,51.12145,0.559529
+Cranbrook,,Hawkhurst,The Chestnuts,0.12489965,Poor,30,51.039531,0.501899
+Cranbrook,,Hawkhurst,North Hill Road,0.12176066,Poor,10,51.047826,0.490004
+Cranbrook,Cranbrook,Kilndown,Bedgebury Road,0.12003719,Poor,160,51.080549,0.448055
+Cranbrook,Cranbrook,Goudhurst,Lovers Lane,0.11950419,Poor,5,51.118499,0.462879
+Cranbrook,Cranbrook,Goudhurst,Mile Lane,0.11950419,Poor,18,51.112753,0.484422
+Cranbrook,,Goudhurst,Old Park Wood,0.11950419,Poor,4,51.116242,0.492967
+Cranbrook,Cranbrook,Goudhurst,Tattlebury Corner,0.115815446,Poor,9,51.114884,0.466688
+Cranbrook,Cranbrook,Goudhurst,Riseden,0.113473654,Poor,38,51.102191,0.427272
+Cranbrook,Cranbrook,Frittenden,Weald View,0.110351264,Poor,14,51.137771,0.589482
+Cranbrook,Cranbrook,Wilsley Green,Wilsley Green,0.10891931,Poor,4,51.105557,0.540608
+Cranbrook,,Hawkhurst,Slip Mill Lane,0.1085299,Poor,28,51.049869,0.50043
+Cranbrook,Cranbrook,Goudhurst,The Plain,0.106986426,Poor,8,51.112746,0.459301
+Cranbrook,,Hawkhurst,Gingerbread Lane,0.10344339,Poor,9,51.052101,0.464377
+Cranbrook,Cranbrook,Goudhurst,Lidwells Lane,0.10118913,Poor,71,51.119439,0.459243
+Cranbrook,Cranbrook,Goudhurst,Riseden Lane,0.096009135,Poor,24,51.094572,0.428586
+Cranbrook,Cranbrook,Goudhurst,Bedgebury,0.09465252,Poor,14,51.095309,0.464275
+Cranbrook,Cranbrook,Goudhurst,Marden Road,0.093492046,Poor,40,51.118097,0.522604
+Cranbrook,Cranbrook,Kilndown,Beresford Close,0.09293501,Poor,49,51.088793,0.425399
+Cranbrook,,Hawkhurst,Potters Lane,0.089045614,Poor,9,51.06792,0.513008
+Cranbrook,Cranbrook,Benenden,Leybourne Dell,0.08538594,Poor,30,51.066009,0.584862
+Cranbrook,,Hawkhurst,Sopers Lane,0.07913643,Poor,15,51.058589,0.489612
+Cranbrook,Cranbrook,Kilndown,Chicks Lane,0.07424779,Poor,44,51.088167,0.424709
+Cranbrook,Cranbrook,,Whitewell,0.07236587,Poor,23,51.112709,0.534727
+Cranbrook,Cranbrook,Kilndown,Twyssenden,0.06849414,Poor,4,51.089197,0.446584
+Cranbrook,Cranbrook,Goudhurst,Market Place Close,0.06665484,Poor,11,51.108215,0.440703
+Cranbrook,Cranbrook,,Whitewell Lane,0.06381856,Poor,9,51.103892,0.537289
+Cranbrook,Cranbrook,Goudhurst,Peasley Lane,0.06261813,Poor,16,51.104921,0.446829
+Cranbrook,Cranbrook,Wilsley Green,Beryl Cottage,0.05248294,Poor,4,51.105557,0.540608
+Cranbrook,Cranbrook,,Colliers Green Road,0.05248294,Poor,5,51.118097,0.522604
+Cranbrook,Cranbrook,Wilsley Green,Guernsey Cottage,0.05248294,Poor,1,51.105557,0.540608
+Cranbrook,Cranbrook,Wilsley Green,Lavender Cottage,0.05248294,Poor,1,51.105557,0.540608
+Cranbrook,Cranbrook,Wilsley Green,Middle House,0.05248294,Poor,2,51.105557,0.540608
+Cranbrook,Cranbrook,Wilsley Green,Oak Cottage,0.05248294,Poor,1,51.105557,0.540608
+Cranbrook,Cranbrook,Wilsley Green,Rose Cottage,0.05248294,Poor,1,51.105557,0.540608
+Cranbrook,Cranbrook,,Willesley Gardens,0.05248294,Poor,7,51.10356,0.539784
+Cranbrook,,Flimwell,Rosemary Lane,0.050653346,Poor,5,51.060903,0.418792
+Cranbrook,Cranbrook,Goudhurst,Back Lane,0.04191376,Poor,18,51.112785,0.460418
+Cranbrook,,Flimwell,Kilndown Road,0.04191376,Poor,2,51.082414,0.419896
+Cranbrook,Cranbrook,Goudhurst,Maypole Lane,0.04191376,Poor,12,51.110804,0.461384
+Cranbrook,Cranbrook,Wilsley Green,Mercers Cottage,0.04068455,Poor,1,51.105557,0.540608
+Cranbrook,Cranbrook,Wilsley Green,Mockbeggar House,0.033659585,Poor,2,51.105557,0.540608
+Cranbrook,Cranbrook,Goudhurst,Tiddymotts Lane,0.033463784,Poor,7,51.111521,0.460651
+Cranbrook,,Flimwell,Lady Oak Lane,0.022857867,Poor,6,51.06637,0.440955
+Cranbrook,Cranbrook,Goudhurst,Blind Lane,0.012438204,Poor,5,51.117828,0.458358

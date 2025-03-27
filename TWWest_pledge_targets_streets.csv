@@ -1,0 +1,214 @@
+KCCDistrict,Town,Village,StreetName,Avg_Reform_Prob,Success_Category,ElectorCount,Latitude,Longitude
+TWWest,TW,Rusthall,Shirley Grove,0.71357113,Very Good,61,51.13832,0.235456
+TWWest,TW,Langton Green,Longmeads,0.71027887,Very Good,135,51.133855,0.224391
+TWWest,TW,,Standen Street,0.7012003,Very Good,76,51.140919,0.257571
+TWWest,TW,Rusthall,Shirley Gardens,0.6711656,Very Good,163,51.138958,0.233688
+TWWest,TW,Rusthall,Westwood Road,0.65950805,Very Good,123,51.139755,0.22918
+TWWest,TW,,Huntingdon Avenue,0.6576901,Very Good,57,51.13743,0.259301
+TWWest,TW,Rusthall,Southwood Road,0.643022,Very Good,270,51.140227,0.229431
+TWWest,TW,Rusthall,Hill View Road,0.64189965,Very Good,114,51.136342,0.229859
+TWWest,TW,,Woodbury Park Road,0.6379353,Very Good,255,51.141013,0.266183
+TWWest,TW,Langton Green,Colbran Way,0.6260473,Very Good,29,51.132576,0.228334
+TWWest,TW,Rusthall,Parsonage Road,0.621285,Very Good,95,51.138283,0.227964
+TWWest,TW,,Woodbury Park Gardens,0.6162403,Very Good,23,51.140056,0.265921
+TWWest,TW,,William Street,0.60988885,Very Good,60,51.141298,0.258419
+TWWest,TW,,Royal Chase,0.609324,Very Good,99,51.136492,0.256255
+TWWest,TW,Langton Green,Langholm Road,0.6085536,Very Good,38,51.134059,0.208951
+TWWest,TW,,Oakdale Road,0.5983361,Good,44,51.136042,0.253045
+TWWest,TW,,Mayfield Road,0.58978033,Good,29,51.135095,0.254114
+TWWest,TW,,Grosvenor Park,0.57822496,Good,115,51.137644,0.263143
+TWWest,TW,,Clarence Row,0.575769,Good,9,51.133059,0.260819
+TWWest,TW,Rusthall,Ashley Gardens,0.57480395,Good,57,51.137835,0.229772
+TWWest,TW,Rusthall,Edward Street,0.573489,Good,90,51.134611,0.228587
+TWWest,TW,,King Charles Square,0.56843734,Good,27,51.136386,0.259836
+TWWest,TW,Rusthall,Meadow Road,0.56794214,Good,80,51.136369,0.229417
+TWWest,TW,Rusthall,Ashley Park,0.5646059,Good,20,51.138175,0.231377
+TWWest,TW,,Upper Grosvenor Road,0.5636329,Good,941,51.138527,0.265373
+TWWest,TW,,King Edward Gardens,0.56240207,Good,39,51.136888,0.259432
+TWWest,TW,Langton Green,Speldhurst Road,0.5556629,Good,86,51.134134,0.205009
+TWWest,TW,,Park Road,0.549065,Good,111,51.139507,0.264536
+TWWest,TW,,Culverden Park,0.5475711,Good,169,51.139233,0.256832
+TWWest,TW,,Culverden Park Road,0.54205817,Good,488,51.138681,0.260765
+TWWest,TW,Rusthall,Valley Road,0.5404936,Good,115,51.13753,0.235977
+TWWest,TW,Ashurst,Station Road,0.5396331,Good,4,51.127079,0.154094
+TWWest,TW,,Kings Avenue,0.53887284,Good,24,51.136436,0.258623
+TWWest,TW,Rusthall,Rustwick,0.5364881,Good,62,51.135006,0.240973
+TWWest,TW,Groombridge,The Walks,0.53293794,Good,14,51.118357,0.184996
+TWWest,TW,Langton Green,First Street,0.52818817,Good,60,51.131848,0.208888
+TWWest,TW,,Bishops Down Road,0.52702814,Good,120,51.131807,0.250166
+TWWest,TW,,Ashdown Close,0.52643967,Good,44,51.134679,0.251449
+TWWest,TW,Rusthall,Erskine Park Road,0.52574563,Good,164,51.136556,0.22854
+TWWest,TW,,Sovereign Place,0.52342176,Good,74,51.137163,0.26056
+TWWest,TW,Rusthall,Nellington Road,0.520701,Good,78,51.137443,0.222977
+TWWest,TW,Groombridge,Groombridge Hill,0.5156096,Good,52,51.123731,0.19098
+TWWest,TW,Rusthall,Tristan Gardens,0.5132464,Good,38,51.135771,0.235292
+TWWest,TW,,Amherst Road,0.51217204,Good,63,51.14032,0.262031
+TWWest,TW,Speldhurst,Barden Road,0.51166344,Good,178,51.153611,0.218465
+TWWest,TW,Langton Green,The Grange,0.50645477,Good,31,51.131211,0.209772
+TWWest,TW,Rusthall,Salomons Road,0.5047281,Good,19,51.135691,0.233728
+TWWest,TW,Langton Green,Hazelbank,0.50276893,Good,16,51.131536,0.213476
+TWWest,TW,Rusthall,Apsley Street,0.50243515,Good,54,51.13463,0.238039
+TWWest,TW,Groombridge,Groombridge Road,0.5015866,Good,12,51.126,0.175322
+TWWest,TW,Langton Green,Homewood Road,0.49935502,Good,23,51.132144,0.209903
+TWWest,TW,Langton Green,Salisbury Road,0.49820653,Good,48,51.131619,0.208032
+TWWest,TW,,Rock Villa Road,0.49742514,Good,37,51.13568,0.261533
+TWWest,TW,Langton Green,Stonewall Park Road,0.49662527,Good,112,51.132312,0.211011
+TWWest,TW,,Culverden Square,0.4964675,Good,29,51.13831,0.262734
+TWWest,TW,,Thomas Street,0.49571463,Good,46,51.140145,0.258534
+TWWest,TW,Rusthall,Grange Road,0.49135378,Good,246,51.137467,0.239234
+TWWest,TW,Langton Green,Little Footway,0.49079698,Good,39,51.13278,0.212892
+TWWest,TW,Langton Green,Farnham Close,0.48970023,Good,28,51.132553,0.215382
+TWWest,TW,Rusthall,Rusthall High Street,0.48813888,Good,109,51.136003,0.22824
+TWWest,TW,Rusthall,Burdett Road,0.48760092,Good,45,51.134555,0.2274
+TWWest,TW,Bidborough,High Street,0.48285207,Good,123,51.16851,0.236574
+TWWest,TW,Rusthall,Woodside Road,0.48033375,Good,109,51.13538,0.238702
+TWWest,TW,Langton Green,Leggs Lane,0.47991198,Good,27,51.138596,0.200988
+TWWest,TW,Groombridge,Bird In Hand Street,0.47880992,Good,29,51.11838,0.184282
+TWWest,TW,,Chilston Road,0.47603798,Good,62,51.140384,0.263378
+TWWest,TW,Rusthall,Allan Close,0.4754746,Good,57,51.137479,0.234301
+TWWest,TW,Langton Green,Gibbetts,0.4663953,Good,23,51.132739,0.21359
+TWWest,TW,Ashurst,Ashurst Road,0.45721003,Good,86,51.130759,0.157867
+TWWest,TW,Rusthall,Bowen Road,0.4570735,Good,80,51.138284,0.226048
+TWWest,TW,Rusthall,Fremlin Close,0.4562439,Good,117,51.136904,0.225898
+TWWest,TW,Speldhurst,Lower Green Road,0.4560477,Good,176,51.147076,0.229161
+TWWest,TW,Rusthall,Tuxford Road,0.4490148,Good,15,51.13916,0.226421
+TWWest,TW,Langton Green,Kirby Court,0.44258302,Good,24,51.130811,0.2171
+TWWest,TW,,Mount Ephraim,0.44227576,Good,397,51.13225,0.254631
+TWWest,TW,,St Johns Close,0.4421003,Good,69,51.139745,0.259615
+TWWest,TW,Rusthall,Redland Avenue,0.40928245,Good,45,51.133714,0.229046
+TWWest,TW,,Twining Close,0.40849492,Good,63,51.136033,0.259462
+TWWest,TW,,London Road,0.4077759,Good,295,51.13101,0.259259
+TWWest,TW,,Grosvenor Walk,0.4037574,Good,7,51.136961,0.263581
+TWWest,TW,,John Street,0.39493993,Moderate,58,51.140676,0.258416
+TWWest,TW,Langton Green,Farnham Lane,0.38844758,Moderate,69,51.133568,0.214945
+TWWest,TW,,Hanover Road,0.38583314,Moderate,8,51.135392,0.261991
+TWWest,TW,Langton Green,Langton Road,0.3820231,Moderate,246,51.149451,0.219666
+TWWest,TW,Rusthall,Parsonage Close,0.3810335,Moderate,32,51.138994,0.228514
+TWWest,TW,Bidborough,Franks Hollow Road,0.3803902,Moderate,43,51.165612,0.236205
+TWWest,TW,Rusthall,Ashley Park Close,0.37554348,Moderate,45,51.138689,0.228928
+TWWest,TW,Rusthall,Bretland Road,0.3748343,Moderate,82,51.136044,0.236535
+TWWest,TW,Bidborough,Mill Court,0.3734279,Moderate,17,51.169163,0.231912
+TWWest,TW,Speldhurst,Northfields,0.36566556,Moderate,57,51.15257,0.218315
+TWWest,TW,Rusthall,Sunnyside Road,0.363839,Moderate,46,51.1353,0.23404
+TWWest,TW,Langton Green,Upton Quarry,0.36361656,Moderate,21,51.133586,0.207799
+TWWest,TW,Rusthall,Upper Street,0.35882464,Moderate,55,51.134224,0.239077
+TWWest,TW,Groombridge,Burrswood,0.35594332,Moderate,22,51.118825,0.169912
+TWWest,TW,,Broomhill Road,0.35328636,Moderate,10,51.14344,0.235877
+TWWest,TW,Langton Green,Widbury,0.3459116,Moderate,10,51.133365,0.21049
+TWWest,TW,Speldhurst,St Marys Lane,0.34370732,Moderate,31,51.152706,0.216834
+TWWest,TW,Bidborough,Woodland Way,0.34216487,Moderate,110,51.168909,0.239684
+TWWest,TW,Speldhurst,Speldhurst Hill,0.340839,Moderate,59,51.152931,0.225737
+TWWest,TW,Bidborough,Penshurst Road,0.34024727,Moderate,202,51.167634,0.192116
+TWWest,Tonbridge,Penshurst,Poundsbridge Lane,0.33832562,Moderate,24,51.165555,0.196008
+TWWest,TW,,Molyneux Park Gardens,0.33743525,Moderate,7,51.133738,0.255906
+TWWest,TW,Ashurst,Ashurst Hill,0.33524346,Moderate,18,51.130222,0.153209
+TWWest,TW,,Mount Ephraim Road,0.33204123,Moderate,47,51.134506,0.262632
+TWWest,TW,Langton Green,Speeds Farm Place,0.3288329,Moderate,16,51.134353,0.213766
+TWWest,TW,,Grosvenor Road,0.32263833,Moderate,103,51.136411,0.262128
+TWWest,TW,,Woodbury Close,0.31391594,Moderate,31,51.139726,0.262503
+TWWest,TW,,Chilston Close,0.30741137,Moderate,23,51.140755,0.264197
+TWWest,TW,,Lonsdale Gardens,0.3040235,Moderate,38,51.130917,0.261728
+TWWest,TW,Rusthall,Greenfield Close,0.30318522,Moderate,15,51.13951,0.230726
+TWWest,TW,Speldhurst,Stockland Green Road,0.30296883,Moderate,120,51.155666,0.228529
+TWWest,TW,Bidborough,The Glebe,0.3028481,Moderate,32,51.16882,0.23772
+TWWest,TW,,Molyneux Park Road,0.30003247,Moderate,281,51.13434,0.254535
+TWWest,TW,Langton Green,Great Footway,0.29788706,Poor,76,51.133741,0.212438
+TWWest,TW,Speldhurst,Bullingstone Lane,0.29529378,Poor,32,51.148102,0.207777
+TWWest,TW,Rusthall,Wickham Gardens,0.29198605,Poor,16,51.138101,0.236176
+TWWest,TW,Speldhurst,Ferbies,0.28911474,Poor,40,51.147513,0.217529
+TWWest,TW,,Dunstan Grove,0.2866023,Poor,28,51.141984,0.267574
+TWWest,TW,Speldhurst,Mill Farm Close,0.28591567,Poor,16,51.149903,0.237846
+TWWest,TW,,Boyne Park,0.28043318,Poor,130,51.135137,0.257046
+TWWest,TW,Langton Green,The Green,0.2784234,Poor,44,51.131707,0.204465
+TWWest,TW,Bidborough,Wheelers Yard,0.27709782,Poor,18,51.168895,0.230884
+TWWest,TW,Langton Green,Broom Park,0.2734281,Poor,16,51.129595,0.206279
+TWWest,TW,,Culverden Down,0.27229118,Poor,252,51.143116,0.253145
+TWWest,TW,,Clarence Road,0.26986066,Poor,103,51.130877,0.260525
+TWWest,Tonbridge,,Lower Haysden Lane,0.26735514,Poor,13,51.182167,0.235847
+TWWest,TW,Rusthall,Vermont Road,0.26732615,Poor,13,51.134853,0.230144
+TWWest,TW,Rusthall,Cottington Drive,0.2664586,Poor,24,51.134059,0.228419
+TWWest,TW,Speldhurst,Cobhams,0.26559687,Poor,39,51.152735,0.220053
+TWWest,TW,Langton Green,Gipps Cross Lane,0.26473746,Poor,26,51.132096,0.213388
+TWWest,TW,Bidborough,Bidborough Ridge,0.26013663,Poor,178,51.169737,0.234917
+TWWest,TW,Langton Green,Broom Lane,0.25926042,Poor,30,51.128636,0.204661
+TWWest,TW,Langton Green,Ryders,0.25881115,Poor,43,51.131932,0.215882
+TWWest,TW,Ashurst,Stone Cross,0.2546575,Poor,2,51.1307,0.174673
+TWWest,TW,Langton Green,Old House Lane,0.24972339,Poor,4,51.135543,0.193081
+TWWest,TW,Langton Green,Barrow Lane,0.24615003,Poor,23,51.125838,0.216633
+TWWest,TW,Speldhurst,Roopers,0.24539523,Poor,67,51.150064,0.217222
+TWWest,TW,Langton Green,South Farm Lane,0.2436995,Poor,4,51.116138,0.204894
+TWWest,TW,,Rosehill Walk,0.24351753,Poor,24,51.131352,0.259778
+TWWest,TW,Langton Green,Winstone Scott Avenue,0.238434,Poor,17,51.13458,0.204687
+TWWest,TW,,York Road,0.23756728,Poor,149,51.133507,0.261268
+TWWest,TW,Ashurst,Claytons Lane,0.2355195,Poor,13,51.128577,0.158179
+TWWest,TW,,Church Road,0.23341088,Poor,96,51.1323,0.259994
+TWWest,TW,Langton Green,Third Street,0.23082466,Poor,21,51.131858,0.207388
+TWWest,TW,Bidborough,Glebelands,0.22982478,Poor,60,51.167061,0.23566
+TWWest,TW,Langton Green,Hither Chantlers,0.22609243,Poor,92,51.125571,0.220178
+TWWest,TW,,Rusthall Park,0.22391155,Poor,22,51.133944,0.241951
+TWWest,TW,Speldhurst,Etherington Hill,0.22323759,Poor,28,51.153805,0.235191
+TWWest,TW,,Rydal Drive,0.2225157,Poor,55,51.138615,0.244593
+TWWest,TW,,Connaught Way,0.22181395,Poor,101,51.140442,0.252902
+TWWest,TW,Langton Green,Knowle Close,0.21986237,Poor,24,51.131734,0.206338
+TWWest,TW,Ashurst,Mill Stream Close,0.21919821,Poor,15,51.12982,0.152735
+TWWest,TW,Langton Green,Holmewood Ridge,0.21516256,Poor,100,51.130246,0.209296
+TWWest,TW,Langton Green,Burnt House Lane,0.21503536,Poor,21,51.141067,0.212557
+TWWest,TW,,Dudley Road,0.21307512,Poor,181,51.133827,0.261941
+TWWest,TW,Speldhurst,Ferbies Close,0.2116079,Poor,35,51.149011,0.215384
+TWWest,TW,Langton Green,Newlands,0.2091799,Poor,71,51.133203,0.218544
+TWWest,TW,Rusthall,Gladstone Road,0.20590068,Poor,26,51.135077,0.228297
+TWWest,Tonbridge,,Hayesden Lane,0.1994258,Poor,27,51.179703,0.23195
+TWWest,TW,Langton Green,Lampington Row,0.19822608,Poor,44,51.134148,0.203766
+TWWest,Tonbridge,,Upper Hayesden Lane,0.19448999,Poor,16,51.183991,0.249487
+TWWest,TW,,Somerville Gardens,0.19215485,Poor,36,51.134152,0.256827
+TWWest,TW,Rusthall,Rusthall Grange,0.19201893,Poor,32,51.135745,0.237578
+TWWest,TW,Fordcombe,Fordcombe Road,0.18907742,Poor,15,51.134513,0.188146
+TWWest,TW,,Culverden Street,0.18839811,Poor,2,51.136352,0.26205
+TWWest,TW,,Derwent Drive,0.18396686,Poor,54,51.140566,0.248717
+TWWest,TW,Langton Green,Ashurst Place,0.17546394,Poor,10,51.134148,0.203766
+TWWest,TW,Rusthall,Grange Gardens,0.17444168,Poor,30,51.136321,0.237461
+TWWest,TW,Bidborough,Spring Lane,0.16652404,Poor,35,51.166293,0.239171
+TWWest,TW,Speldhurst,Southfields,0.1656615,Poor,42,51.151156,0.215573
+TWWest,TW,,Hurstwood Lane,0.16332379,Poor,37,51.1333,0.250153
+TWWest,TW,Speldhurst,Dene Way,0.15382722,Poor,26,51.14855,0.216921
+TWWest,TW,Langton Green,Birchetts Avenue,0.15215363,Poor,22,51.131824,0.205857
+TWWest,TW,,Byng Road,0.14244255,Poor,84,51.137951,0.250677
+TWWest,TW,Langton Green,Rushetts,0.14154428,Poor,11,51.135022,0.208939
+TWWest,TW,Bidborough,St Lawrence Avenue,0.13989903,Poor,79,51.169195,0.243503
+TWWest,TW,,Manor Close,0.13255501,Poor,48,51.133203,0.248233
+TWWest,TW,,Court Road,0.12493706,Poor,122,51.137291,0.250776
+TWWest,TW,,Knightsbridge Close,0.12176742,Poor,12,51.139717,0.254125
+TWWest,TW,Langton Green,The Boundary,0.12152601,Poor,129,51.13246,0.226856
+TWWest,TW,,Lime Hill Road,0.12032389,Poor,135,51.134249,0.261563
+TWWest,TW,Speldhurst,Ewehurst Lane,0.114726484,Poor,29,51.14613,0.211257
+TWWest,TW,,Warberry Park Gardens,0.11059098,Poor,51,51.137622,0.248533
+TWWest,TW,Langton Green,Bushy Gill,0.10818332,Poor,22,51.132427,0.217235
+TWWest,TW,Langton Green,Ox Lea,0.10671776,Poor,25,51.131746,0.219961
+TWWest,TW,,Coniston Avenue,0.10605807,Poor,98,51.138676,0.247498
+TWWest,TW,Speldhurst,Furzefield Avenue,0.105865955,Poor,128,51.1553,0.215199
+TWWest,TW,,Kendal Park,0.10510706,Poor,31,51.139065,0.245959
+TWWest,TW,Langton Green,Long Slip,0.10416204,Poor,7,51.130732,0.218454
+TWWest,TW,,Civic Way,0.10165653,Poor,1,51.132585,0.263926
+TWWest,TW,,Earls Road,0.1002523,Poor,82,51.136286,0.252426
+TWWest,TW,Langton Green,Little Mallett,0.09542606,Poor,17,51.131143,0.20671
+TWWest,TW,Bidborough,The Mount,0.09318878,Poor,7,51.169121,0.237033
+TWWest,TW,Bidborough,Rectory Drive,0.09133041,Poor,21,51.168288,0.238738
+TWWest,TW,Bidborough,Gate Farm Road,0.08779869,Poor,2,51.171877,0.235893
+TWWest,Tonbridge,Penshurst,Marlpit Corner,0.08779869,Poor,3,51.166251,0.197243
+TWWest,Tonbridge,Penshurst,Rogues Hill,0.08779869,Poor,2,51.168648,0.190646
+TWWest,TW,,Bishops Down Park Road,0.083157785,Poor,117,51.134786,0.248667
+TWWest,TW,Langton Green,Great Courtlands,0.08132867,Poor,37,51.133499,0.216214
+TWWest,TW,,Thirlmere Road,0.077662215,Poor,69,51.138536,0.243045
+TWWest,TW,Langton Green,Ironstones,0.074879274,Poor,27,51.132319,0.225204
+TWWest,TW,,Clanricarde Gardens,0.06330216,Poor,12,51.131707,0.261868
+TWWest,TW,Langton Green,Asher Reeds,0.04931218,Poor,125,51.13544,0.218694
+TWWest,TW,,Lake Road,0.04787041,Poor,24,51.137488,0.246582
+TWWest,TW,,Hurstwood Park,0.044065777,Poor,22,51.13315,0.251418
+TWWest,TW,Langton Green,Upper Profit,0.040238615,Poor,34,51.131263,0.216906
+TWWest,TW,Langton Green,Forstall,0.036244866,Poor,15,51.135232,0.220171
+TWWest,TW,,Manor Park,0.032623973,Poor,31,51.132218,0.247513
+TWWest,TW,Langton Green,Upper Stephens,0.031455602,Poor,10,51.130782,0.220057
+TWWest,TW,Langton Green,Mercers,0.030364035,Poor,16,51.13356,0.217275
+TWWest,TW,Langton Green,Langton Ridge,0.02935336,Poor,10,51.130242,0.22199
+TWWest,TW,Langton Green,Upper Nellington,0.026818631,Poor,16,51.135389,0.222794
+TWWest,TW,,Rydal Close,0.025879325,Poor,5,51.139258,0.245267
