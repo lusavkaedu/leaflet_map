@@ -1,0 +1,355 @@
+KCCDistrict,Town,Village,StreetName,Avg_Reform_Prob,Success_Category,ElectorCount,Latitude,Longitude
+ARWest,Ashford,Charing,Alderbed Close,0.3550832,Moderate,55,51.207229,0.796939
+ARWest,Ashford,Kennington,Alderney Way,0.5083752,Good,51,51.171222,0.874607
+ARWest,Ashford,Kennington,Angus Drive,0.54577726,Good,47,51.171961,0.875238
+ARWest,Ashford,Smarden,Ashenden,0.17431389,Poor,43,51.151482,0.682617
+ARWest,Faversham,Badlesmere,Ashford Road,0.26580405,Poor,824,51.239935,0.876999
+ARWest,Ashford,Kennington,Aylesbury Road,0.4213767,Good,107,51.17255,0.871397
+ARWest,Ashford,Kennington,Ayrshire Close,0.409022,Good,34,51.17091,0.876302
+ARWest,Ashford,Singleton,Badgers Oak,0.34735918,Moderate,14,51.141747,0.840359
+ARWest,Ashford,Egerton,Barhams Mill Road,0.0896754,Poor,14,51.193824,0.703026
+ARWest,Ashford,Charing Heath,Barnfield Road,0.26587164,Poor,30,51.195622,0.752388
+ARWest,Ashford,Chilmington Green,Bartlets Lane,0.30944082,Moderate,29,51.125109,0.826948
+ARWest,Ashford,Chilmington Green,Bayside,0.32833445,Moderate,12,51.134999,0.820376
+ARWest,Ashford,Great Chart,Bean Close,0.37802953,Moderate,54,51.142832,0.834935
+ARWest,Ashford,Bethersden,Bears Lane,0.3348651,Moderate,13,51.15363,0.80189
+ARWest,Ashford,Egerton,Bedlam Lane,0.36622873,Moderate,72,51.178152,0.691878
+ARWest,Ashford,Hothfield,Beech Drive,0.49037272,Good,77,51.170696,0.818589
+ARWest,Ashford,Smarden,Bell Lane,0.40736568,Good,55,51.157086,0.676694
+ARWest,Ashford,Smarden,Bethersden Road,0.22632338,Poor,90,51.14415,0.685452
+ARWest,Ashford,Smarden,Beult Meadow,0.35142368,Moderate,26,51.148225,0.687362
+ARWest,Ashford,Smarden,Biddenden Road,0.28068388,Poor,40,51.144899,0.681006
+ARWest,Ashford,Charing,Blackberry Lane,0.27688792,Poor,18,51.206643,0.79099
+ARWest,Ashford,Challock,Blind Lane,0.24995603,Poor,48,51.218953,0.877937
+ARWest,Ashford,Singleton,Blue Field,0.12733647,Poor,73,51.138856,0.834991
+ARWest,Ashford,Charing,Bowl Road,0.38543454,Moderate,61,51.219648,0.799652
+ARWest,Ashford,Charing,Brenchley Mews,0.24093135,Poor,22,51.211538,0.794279
+ARWest,Ashford,Bethersden,Brissenden Green Lane,0.33029103,Moderate,60,51.118496,0.765792
+ARWest,Ashford,Challock,Buck Street,0.29231426,Poor,101,51.21716,0.885446
+ARWest,Ashford,Singleton,Bucksford Lane,0.48595455,Good,68,51.142069,0.842666
+ARWest,Ashford,Smarden,Buffalo Lane,0.20340076,Poor,7,51.142357,0.688322
+ARWest,Ashford,Chilmington Green,Bull Bridge Way,0.3900805,Moderate,43,51.126144,0.825411
+ARWest,Ashford,Bethersden,Bull Lane,0.44693202,Good,35,51.125866,0.744967
+ARWest,Ashford,Charing,Burleigh Road,0.38618937,Moderate,43,51.207845,0.792235
+ARWest,Ashford,Egerton,Burnt Mill Road,0.11746171,Poor,5,51.209341,0.736183
+ARWest,Ashford,Smarden,Burnthouse Lane,0.2932812,Poor,12,51.146938,0.671674
+ARWest,Ashford,Smarden,Cage Lane,0.32692972,Moderate,27,51.148667,0.686544
+ARWest,Ashford,Little Chart,Calehill Park,0.18573749,Poor,19,51.190252,0.77789
+ARWest,Ashford,Little Chart,Calehill Road,0.19218758,Poor,6,51.187671,0.785835
+ARWest,Ashford,Challock,Canterbury Road,0.38811436,Moderate,377,51.220146,0.874876
+ARWest,Ashford,Charing,Centenary Close,0.3215084,Moderate,42,51.213399,0.79469
+ARWest,Ashford,Pluckley,Chambers Green Road,0.29282144,Poor,27,51.161551,0.739831
+ARWest,Ashford,Challock,Chambers Lane,0.21355204,Poor,2,51.226116,0.865721
+ARWest,Ashford,Egerton,Chantlers Meadow,0.17598686,Poor,11,51.185026,0.705445
+ARWest,Ashford,Egerton,Chapel Lane,0.24920873,Poor,30,51.188126,0.703594
+ARWest,Ashford,Hothfield,Chapel Road,0.28685972,Poor,57,51.182797,0.815451
+ARWest,Ashford,Hothfield,Chapel Row,0.34513715,Moderate,6,51.184391,0.816491
+ARWest,Ashford,Challock,Chapmans Close,0.37463614,Moderate,32,51.219618,0.877964
+ARWest,Ashford,Charing,Charing Heath Road,0.3558354,Moderate,69,51.207076,0.768993
+ARWest,Ashford,Charing,Charing Hill,0.5287193,Good,128,51.218394,0.811821
+ARWest,Ashford,Pluckley,Charing Road,0.26875588,Poor,17,51.181261,0.762193
+ARWest,Ashford,Great Chart,Chart Road,0.2519581,Poor,53,51.134105,0.833185
+ARWest,Ashford,Singleton,Chater Close,0.15009172,Poor,19,51.139944,0.830898
+ARWest,Ashford,Bethersden,Chequer Tree Lane,0.33136508,Moderate,10,51.112518,0.745416
+ARWest,Ashford,Charing Heath,Cherry Tree Road,0.17769033,Poor,61,51.211366,0.763279
+ARWest,Ashford,Smarden,Chessenden Lane,0.32979733,Moderate,31,51.149562,0.69336
+ARWest,Ashford,Bethersden,Chester Avenue,0.39044386,Moderate,90,51.127262,0.753737
+ARWest,Ashford,Chilmington Green,Chilmington Avenue,0.3604786,Moderate,14,51.13569,0.823062
+ARWest,Ashford,Chilmington Green,Chilmington Crescent,0.2635579,Poor,35,51.137065,0.824204
+ARWest,Ashford,Great Chart,Chilmington Green Lane,0.2674704,Poor,24,51.127951,0.82882
+ARWest,Ashford,Great Chart,Chilmington Green Road,0.35918355,Moderate,14,51.12636,0.82282
+ARWest,Ashford,Charing Heath,Church Hill,0.31908005,Moderate,45,51.210941,0.75422
+ARWest,Ashford,Challock,Church Lane,0.3121569,Moderate,143,51.218826,0.874692
+ARWest,Ashford,Charing,Clearmount Drive,0.40557444,Good,42,51.213041,0.796888
+ARWest,Ashford,Hothfield,Coach Drive,0.37353933,Moderate,50,51.170771,0.819967
+ARWest,Ashford,Egerton,Coach Road,0.3728868,Moderate,32,51.204943,0.721903
+ARWest,Ashford,Egerton,Coldbridge Lane,0.34412244,Moderate,5,51.199634,0.698728
+ARWest,Ashford,Hothfield,Common Way,0.47895786,Good,29,51.172505,0.81857
+ARWest,Ashford,Chilmington Green,Coppice Drive,0.25896397,Poor,25,51.126668,0.839436
+ARWest,Ashford,Great Chart,Coronation Drive,0.4324591,Good,48,51.143393,0.834068
+ARWest,Ashford,,Cowslip Court,0.41751078,Good,22,51.12609,0.825807
+ARWest,Ashford,Egerton,Crockenhill Road,0.31321797,Moderate,35,51.186351,0.713839
+ARWest,Ashford,Smarden,Dadson Court,0.29585916,Poor,20,51.148992,0.69427
+ARWest,Ashford,Great Chart,Daniels Water,0.19762956,Poor,12,51.137572,0.795682
+ARWest,Ashford,Kennington,Dexter Close,0.40454477,Good,76,51.174267,0.877656
+ARWest,Ashford,Singleton,Deyley Way,0.29344067,Poor,73,51.139368,0.833507
+ARWest,Ashford,Kingsnorth,Discovery Drive,0.181859,Poor,51,51.126041,0.840055
+ARWest,Ashford,Smarden,Dorking Lane,0.18654867,Poor,2,51.152926,0.712006
+ARWest,Ashford,Pluckley,Dowle Street Road,0.28249848,Poor,27,51.160037,0.760183
+ARWest,Ashford,Charing,Downs Close,0.29198936,Poor,19,51.21214,0.795802
+ARWest,Ashford,Charing,Downs Way,0.30908042,Moderate,106,51.213449,0.795595
+ARWest,Ashford,Singleton,Dragonfly Close,0.35429502,Moderate,29,51.141103,0.837989
+ARWest,Ashford,Kennington,Dunnock Road,0.4468453,Good,104,51.172883,0.873964
+ARWest,Ashford,Boughton Aluph,Eastwell Grange,0.40265307,Good,17,51.176151,0.879691
+ARWest,Ashford,Westwell,Eastwell Lane,0.30003718,Moderate,30,51.191036,0.847414
+ARWest,Ashford,,Eastwell Park,0.21515377,Poor,4,51.190476,0.883833
+ARWest,Ashford,Egerton,Egerton House Road,0.28669667,Poor,32,51.199141,0.720015
+ARWest,Ashford,Pluckley,Egerton Road,0.3782803,Moderate,97,51.208894,0.754468
+ARWest,Ashford,Charing,Ellen Close,0.2795211,Poor,38,51.209609,0.789549
+ARWest,Ashford,Egerton,Elm Close,0.2797816,Poor,25,51.19314,0.728593
+ARWest,Ashford,Pluckley,Elvey Lane,0.2823479,Poor,8,51.179006,0.738764
+ARWest,Ashford,Bethersden,Etchden Road,0.2624304,Poor,41,51.151439,0.802141
+ARWest,Faversham,Throwley,Faversham Road,0.41251183,Good,296,51.229589,0.839509
+ARWest,,Chilmington Green,Fenland Way,0.041310154,Poor,24,51.126016,0.842583
+ARWest,Ashford,Egerton,Field Mill Road,0.05929338,Poor,18,51.202257,0.741402
+ARWest,Ashford,Challock,Forest Cottages,0.20735943,Poor,20,51.21716,0.885446
+ARWest,Ashford,Bethersden,Forge Hill,0.28096366,Poor,85,51.127748,0.758297
+ARWest,Ashford,Egerton,Forge Lane,0.23578124,Poor,30,51.184976,0.707948
+ARWest,Ashford,Bethersden,Forgefield,0.26495248,Poor,51,51.128001,0.754439
+ARWest,Ashford,Egerton,Forstal Road,0.22000353,Poor,83,51.18611,0.708328
+ARWest,Ashford,Kennington,Freathy Lane,0.40477714,Good,118,51.175057,0.878807
+ARWest,Ashford,Bethersden,Fridd Lane,0.21010028,Poor,27,51.131871,0.750755
+ARWest,Ashford,Kennington,Friesian Way,0.47599617,Good,62,51.173312,0.879171
+ARWest,Ashford,Smarden,Gain Bridge Drive,0.29108614,Poor,32,51.150152,0.695813
+ARWest,Ashford,Kennington,Galloway Drive,0.54736555,Good,108,51.173506,0.876435
+ARWest,Ashford,Singleton,Garton Way,0.26984918,Poor,35,51.137854,0.833629
+ARWest,Ashford,Bethersden,George Grove,0.27482444,Poor,10,51.12843,0.75455
+ARWest,Ashford,Smarden,Gilham Barn,0.19565098,Poor,2,51.13823,0.676862
+ARWest,Ashford,Smarden,Gilham Farm,0.20086564,Poor,3,51.13823,0.676862
+ARWest,Ashford,Smarden,Glebe Close,0.34763154,Moderate,50,51.15153,0.693846
+ARWest,Ashford,Egerton,Glebeland,0.21471378,Poor,21,51.195322,0.72835
+ARWest,Ashford,Kingsnorth,Glen View,0.09787245,Poor,12,51.12694,0.838609
+ARWest,Ashford,Kennington,Goat Lees Lane,0.35859957,Moderate,12,51.173192,0.881867
+ARWest,Ashford,Great Chart,Godinton Lane,0.25123227,Poor,19,51.159649,0.833179
+ARWest,Ashford,Hothfield,Godinton Park,0.26300293,Poor,1,51.159649,0.833179
+ARWest,Ashford,Westwell,Gold Hill,0.3194208,Moderate,34,51.193271,0.846834
+ARWest,Ashford,Great Chart,Goldwell Lane,0.29475302,Poor,16,51.140081,0.815193
+ARWest,Ashford,Kennington,Goteley Mere,0.36752552,Moderate,78,51.172872,0.879901
+ARWest,Ashford,Singleton,Gravelly Field,0.37992206,Moderate,90,51.13936,0.836052
+ARWest,Ashford,Singleton,Great Fishers,0.24343516,Poor,35,51.136778,0.832033
+ARWest,Ashford,Smarden,Great Omenden Bungalow,0.091378815,Poor,2,51.131059,0.67623
+ARWest,Ashford,Smarden,Great Omenden Cottages,0.20806198,Poor,3,51.131059,0.67623
+ARWest,Ashford,Egerton,Green Hill Lane,0.30262506,Moderate,37,51.180401,0.730247
+ARWest,Ashford,Challock,Green Lane,0.32683662,Moderate,129,51.220099,0.867956
+ARWest,Ashford,Chilmington Green,Green Mews,0.12369514,Poor,13,51.137528,0.824776
+ARWest,Ashford,Singleton,Grenadier Way,0.2615947,Poor,49,51.138544,0.831126
+ARWest,Ashford,Singleton,Grey Willow Gardens,0.34311485,Moderate,71,51.141254,0.836954
+ARWest,Ashford,Singleton,Griffin Close,0.22720248,Poor,27,51.138742,0.833726
+ARWest,Ashford,Smarden,Grigsby Lane,0.19565098,Poor,2,51.144254,0.675792
+ARWest,Ashford,Kennington,Grosvenor Road,0.4504438,Good,97,51.170218,0.879566
+ARWest,Ashford,Kennington,Guernsey Way,0.3979834,Moderate,344,51.171947,0.877626
+ARWest,Ashford,Charing,Haffenden Meadow,0.34975818,Moderate,25,51.212154,0.791464
+ARWest,Ashford,Smarden,Hares View,0.19565098,Poor,1,51.13823,0.676862
+ARWest,Ashford,Egerton,Harmers Way,0.27259558,Poor,43,51.192551,0.729961
+ARWest,Ashford,Charing,Hart Hill,0.3819082,Moderate,15,51.221544,0.777108
+ARWest,Ashford,Boughton Aluph,Harville Road,0.32328233,Moderate,23,51.182636,0.912067
+ARWest,Ashford,Smarden,Haslewood Close,0.36368114,Moderate,19,51.151664,0.694626
+ARWest,Ashford,Singleton,Haymakers Lane,0.47635156,Good,86,51.142215,0.841117
+ARWest,Ashford,Chilmington Green,Hays Mews,0.24754445,Poor,5,51.134679,0.820971
+ARWest,Ashford,Egerton,Henshaw Place,0.11745862,Poor,2,51.192829,0.73227
+ARWest,Ashford,Chilmington Green,Herders Lane,0.2444042,Poor,12,51.124352,0.825501
+ARWest,Ashford,Kennington,Hereford Close,0.4497398,Good,24,51.17172,0.876253
+ARWest,Ashford,Singleton,High Ridge,0.22618249,Poor,31,51.137646,0.835175
+ARWest,Ashford,Challock,High Snoad Wood,0.2114594,Poor,70,51.218718,0.867754
+ARWest,Ashford,Charing,High Street,0.3562853,Moderate,156,51.209979,0.79401
+ARWest,,Chilmington Green,Highwood Drive,0.44647938,Good,42,51.134736,0.821961
+ARWest,Ashford,Great Chart,Hillcrest,0.3319336,Moderate,27,51.1413,0.828764
+ARWest,Ashford,Charing,Hither Field,0.5514018,Good,46,51.208502,0.789983
+ARWest,Ashford,,Hoads Wood Gardens,0.34652403,Moderate,86,51.16848,0.851759
+ARWest,Ashford,Chilmington Green,Hoggs Drive,0.23562971,Poor,10,51.125882,0.824737
+ARWest,Ashford,Chilmington Green,Hollycroft,0.3399693,Moderate,21,51.133907,0.821667
+ARWest,Ashford,Singleton,Holt Close,0.21464685,Poor,67,51.140586,0.834454
+ARWest,Ashford,Singleton,Homestead,0.35719076,Moderate,80,51.140986,0.841356
+ARWest,Ashford,Charing,Hook Lane,0.40124026,Good,13,51.210379,0.77877
+ARWest,Ashford,Singleton,Hoppers Way,0.46453452,Good,66,51.142801,0.839208
+ARWest,Ashford,Hothfield,Hothfield Common,0.10121088,Poor,7,51.178798,0.817924
+ARWest,Ashford,Singleton,House Meadow,0.38059017,Moderate,37,51.137202,0.833804
+ARWest,Ashford,Little Chart,Hunger Hatch Lane,0.5075427,Good,8,51.195032,0.770918
+ARWest,Ashford,Charing Heath,Hurst Lane,0.21202873,Poor,15,51.205251,0.762485
+ARWest,Ashford,Kennington,Hurst Road,0.5184773,Good,95,51.170951,0.872428
+ARWest,Faversham,Throwley,Hurst Wood Lodge,0.34411928,Moderate,2,51.234382,0.850991
+ARWest,Ashford,Little Chart,Hurstford Lane,0.28019378,Poor,7,51.185676,0.788017
+ARWest,Ashford,Egerton,Iden Lane,0.33343133,Moderate,8,51.194508,0.74472
+ARWest,Ashford,Singleton,Imperial Way,0.3659808,Moderate,266,51.139049,0.832573
+ARWest,Ashford,Kennington,Jersey Close,0.3702848,Moderate,49,51.173792,0.881247
+ARWest,Ashford,Smarden,Kelsham Farmhouse,0.20086564,Poor,2,51.13823,0.676862
+ARWest,Ashford,Smarden,Kelsham Oast,0.19565098,Poor,2,51.13823,0.676862
+ARWest,Ashford,Boughton Aluph,Kempes Corner,0.3363149,Moderate,18,51.184753,0.905015
+ARWest,Ashford,Kennington,Kenbrook,0.34485412,Moderate,17,51.170578,0.878814
+ARWest,Ashford,Charing,Kennelling Road,0.22598802,Poor,4,51.227163,0.794194
+ARWest,,Chilmington Green,Kettle Lane,0.05377963,Poor,21,51.126211,0.840852
+ARWest,Ashford,Challock,Kiln Close,0.26412162,Poor,40,51.2154,0.876842
+ARWest,Ashford,Bethersden,Kiln Lane,0.17304727,Poor,11,51.123889,0.765102
+ARWest,Ashford,Westwell,Kingsland Lane,0.19551322,Poor,38,51.174473,0.853488
+ARWest,Ashford,Singleton,Kirk View,0.32504928,Moderate,58,51.139445,0.835156
+ARWest,Ashford,Chilmington Green,Lakeview Gardens,0.38906512,Moderate,33,51.134601,0.820466
+ARWest,Ashford,Chilmington Green,Lamb Lane,0.32401386,Moderate,20,51.125475,0.825941
+ARWest,Ashford,Pluckley,Lambden Road,0.33556828,Moderate,78,51.168445,0.746135
+ARWest,Ashford,Chilmington Green,Laurel Court,0.2444042,Poor,17,51.126745,0.823603
+ARWest,Ashford,Charing,Leacon Lane,0.36531487,Moderate,68,51.193985,0.805023
+ARWest,Ashford,Eastwell,Lenacre Street,0.29684243,Poor,58,51.185335,0.868313
+ARWest,Maidstone,Lenham,Lenham Heath Road,0.14456514,Poor,22,51.213201,0.744945
+ARWest,Ashford,Smarden,Lewd Lane,0.35469806,Moderate,28,51.156892,0.695691
+ARWest,Ashford,Egerton,Link Hill Lane,0.12140852,Poor,24,51.191629,0.713117
+ARWest,Ashford,Hothfield,Little Chart Road,0.33126938,Moderate,17,51.170621,0.803032
+ARWest,Ashford,Smarden,Little Gilham,0.19565098,Poor,2,51.13823,0.676862
+ARWest,Ashford,Singleton,Little Hempen,0.53445625,Good,45,51.141285,0.84309
+ARWest,Ashford,Charing,Littledale,0.39755765,Moderate,11,51.21147,0.788103
+ARWest,,Chilmington Green,Lochan Green,0.049714167,Poor,6,51.12542,0.843419
+ARWest,Ashford,Smarden,Long Meadow Drive,0.34211308,Moderate,60,51.150585,0.696539
+ARWest,Ashford,Bethersden,Lovelace Court,0.303205,Moderate,26,51.127033,0.749721
+ARWest,Ashford,Smarden,Luckhurst Lane,0.21228544,Poor,12,51.13823,0.676862
+ARWest,Ashford,Westwell,Maidstone Road,0.37007222,Moderate,203,51.166757,0.848634
+ARWest,Ashford,Pluckley,Malmains Road,0.3449004,Moderate,12,51.165594,0.759511
+ARWest,Ashford,Smarden,Maltmans Hill,0.35593823,Moderate,51,51.155794,0.72097
+ARWest,Ashford,Charing,Market Place,0.30424988,Moderate,24,51.210531,0.795018
+ARWest,Ashford,Singleton,Marmion Way,0.3163454,Moderate,92,51.140364,0.83251
+ARWest,Ashford,Chilmington Green,Marsh Rise,0.20684747,Poor,40,51.126605,0.840561
+ARWest,Ashford,Chilmington Green,Meadows Grove,0.1669453,Poor,18,51.137866,0.825325
+ARWest,Ashford,Singleton,Melcombe Close,0.21452884,Poor,26,51.138072,0.830969
+ARWest,Ashford,Great Chart,Middle Close,0.3864171,Moderate,31,51.143001,0.835417
+ARWest,Ashford,Challock,Mill Lane,0.2737469,Poor,56,51.222228,0.877613
+ARWest,Ashford,Bethersden,Mill Road,0.4390303,Good,33,51.130424,0.759229
+ARWest,Ashford,Singleton,Millfield,0.4510423,Good,29,51.142816,0.840782
+ARWest,Ashford,Bethersden,Millfields Place,0.31910065,Moderate,34,51.131401,0.759759
+ARWest,Ashford,Great Chart,Mock Lane,0.21310852,Poor,3,51.131215,0.821003
+ARWest,Ashford,Challock,Monkery Lane,0.21626765,Poor,3,51.216942,0.853221
+ARWest,Ashford,Smarden,Monks Hill,0.1990996,Poor,3,51.138031,0.664753
+ARWest,Ashford,Charing,Monks Walk,0.31533772,Moderate,13,51.210797,0.793659
+ARWest,Ashford,Pluckley,Munday Bois Road,0.25295436,Poor,9,51.175391,0.729493
+ARWest,Ashford,Egerton,Mundy Bois Road,0.43072107,Good,31,51.182321,0.720069
+ARWest,Ashford,Kennington,Muscovy Road,0.4141553,Good,58,51.173262,0.874274
+ARWest,Ashford,Little Chart,Nettlepole Lane,0.1938552,Poor,3,51.18443,0.760939
+ARWest,Ashford,Pluckley,New House Lane,0.20752297,Poor,24,51.154707,0.741699
+ARWest,Ashford,Egerton,New Road,0.3097433,Moderate,33,51.193465,0.728942
+ARWest,Ashford,Egerton,Newland Green Lane,0.17323542,Poor,31,51.180714,0.716041
+ARWest,Ashford,Charing,Newlands Road,0.34750953,Moderate,21,51.200022,0.770991
+ARWest,Ashford,Great Chart,Ninn Lane,0.4332693,Good,48,51.145664,0.83242
+ARWest,Ashford,Bethersden,Norton Lane,0.47707397,Good,15,51.130245,0.75117
+ARWest,,Chilmington Green,Oak Bourne Place,0.122956,Poor,8,51.135717,0.824565
+ARWest,Ashford,Bethersden,Oaks Green,0.08640305,Poor,7,51.125453,0.758677
+ARWest,,Chilmington Green,Oakwood Mews,0.10913213,Poor,16,51.134461,0.821415
+ARWest,Ashford,Charing,Old Ashford Road,0.27885893,Poor,10,51.209654,0.794463
+ARWest,Ashford,Challock,Old Clockhouse Green,0.28824607,Poor,26,51.221082,0.874448
+ARWest,Ashford,Bethersden,Old Surrenden Manor Road,0.26177505,Poor,49,51.130739,0.770998
+ARWest,Ashford,Smarden,Omenden Lane,0.19565098,Poor,8,51.136196,0.689508
+ARWest,Ashford,Bethersden,Orchard Field,0.29932684,Poor,82,51.1268,0.750823
+ARWest,Ashford,Challock,Orchard Lane,0.2674775,Poor,18,51.220609,0.875406
+ARWest,Ashford,Chilmington Green,Oxbow Court,0.19196182,Poor,18,51.127133,0.841766
+ARWest,Ashford,Great Chart,Padwell Lane,0.31881195,Moderate,9,51.142028,0.831013
+ARWest,Ashford,Hothfield,Park Drive,0.42187762,Good,34,51.170189,0.818386
+ARWest,Ashford,Bethersden,Park Lane,0.33432338,Moderate,12,51.142662,0.786267
+ARWest,Ashford,Kingsnorth,Parkland Crescent,0.22983234,Poor,10,51.127295,0.838045
+ARWest,Ashford,Kingsnorth,Parkland Drive,0.42315415,Good,26,51.127989,0.838745
+ARWest,Ashford,Singleton,Pearmain Way,0.29402164,Poor,41,51.1391,0.828987
+ARWest,Ashford,Challock,Pested Lane,0.32659322,Moderate,35,51.227973,0.877984
+ARWest,Ashford,Charing,Pett Lane,0.44729337,Good,64,51.209906,0.799705
+ARWest,Ashford,Boughton Aluph,Pilgrims Way,0.4035107,Good,117,51.189797,0.895284
+ARWest,Ashford,Bethersden,Pimphurst Lane,0.29474044,Poor,5,51.139537,0.760287
+ARWest,,Pluckley,Pivington Lane,0.1893972,Poor,2,51.186154,0.746542
+ARWest,Ashford,Hothfield,Plantation Close,0.49883398,Good,29,51.1717,0.81875
+ARWest,Ashford,Bethersden,Pluckley Road,0.401282,Good,370,51.133755,0.755227
+ARWest,Ashford,Charing,Poppyfields,0.31767803,Moderate,23,51.211219,0.789577
+ARWest,Ashford,Bethersden,Pot Kiln Lane,0.2380271,Poor,7,51.124415,0.720895
+ARWest,Ashford,,Potters Close,0.6614871,Very Good,15,51.167231,0.850222
+ARWest,Ashford,Great Chart,Purchase Lane,0.30160484,Moderate,12,51.138686,0.801726
+ARWest,Ashford,Chilmington Green,Ram Crescent,0.3657778,Moderate,8,51.124741,0.825797
+ARWest,Ashford,Hothfield,Ram Lane,0.44210917,Good,56,51.184772,0.814097
+ARWest,Ashford,Charing,Ravensdane Wood,0.34625885,Moderate,15,51.222813,0.809097
+ARWest,Ashford,Singleton,Reedmace Close,0.39620295,Moderate,88,51.139852,0.83694
+ARWest,Ashford,Singleton,Ribston Way,0.3291101,Moderate,35,51.137949,0.829346
+ARWest,Ashford,Egerton,Rock Hill Road,0.26363322,Poor,116,51.193378,0.726505
+ARWest,Ashford,Smarden,Romden Road,0.26720166,Poor,53,51.146814,0.709088
+ARWest,Ashford,Little Chart,Rooting Lane,0.19113347,Poor,18,51.171532,0.782185
+ARWest,Ashford,Pluckley,Rose Farm Road,0.15314847,Poor,7,51.166852,0.735052
+ARWest,Maidstone,Lenham,Rose Lane,0.27940768,Poor,2,51.217406,0.750123
+ARWest,Ashford,Smarden,Rose Yard Smarden Business Estate,0.19565098,Poor,2,51.138692,0.668039
+ARWest,Ashford,Smarden,Rosemary Lane,0.27660814,Poor,8,51.165857,0.682908
+ARWest,Ashford,Charing,Ruglys Way,0.3061189,Moderate,26,51.210374,0.789896
+ARWest,Ashford,Pluckley,Rushbrook Road,0.2303504,Poor,6,51.164539,0.756587
+ARWest,Ashford,Singleton,Russett Close,0.40920222,Good,24,51.137569,0.829823
+ARWest,Ashford,Hothfield,Sackville Close,0.2500312,Poor,27,51.171193,0.819234
+ARWest,Ashford,Great Chart,Sandy Lane,0.26676857,Poor,25,51.135499,0.800706
+ARWest,Ashford,Boughton Aluph,Sandyhurst Lane,0.5513936,Good,426,51.171794,0.856384
+ARWest,Ashford,Charing,Sayer Road,0.23214333,Poor,45,51.213306,0.792551
+ARWest,Ashford,Appledore,School Road,0.25961334,Poor,144,51.127113,0.750512
+ARWest,Ashford,Smarden,Shenley Road,0.27067196,Poor,16,51.150655,0.655827
+ARWest,Ashford,Kennington,Sherwood Close,0.27787173,Poor,42,51.172631,0.882734
+ARWest,Ashford,Pluckley,Shipland Corner,0.1938552,Poor,6,51.176979,0.75653
+ARWest,Ashford,Singleton,Singleton Hill,0.17498386,Poor,10,51.139079,0.836892
+ARWest,Ashford,Great Chart,Singleton Road,0.3943277,Moderate,67,51.14304,0.836377
+ARWest,Ashford,Kennington,Siskin Close,0.3910563,Moderate,55,51.173145,0.872464
+ARWest,Ashford,Smarden,Smarden Bell Road,0.19937661,Poor,67,51.16515,0.692882
+ARWest,Ashford,Bethersden,Smarden Road,0.33136508,Moderate,15,51.130058,0.71181
+ARWest,Ashford,Kennington,Snipe Close,0.35174188,Moderate,27,51.172982,0.875802
+ARWest,Ashford,Smarden,Snughorne Lane,0.31146652,Moderate,10,51.146563,0.662499
+ARWest,Ashford,Charing,Southfield Lane,0.19807535,Poor,5,51.203519,0.750869
+ARWest,Ashford,Bethersden,Sparrow Hatch Lane,0.32867253,Moderate,8,51.146866,0.773294
+ARWest,Ashford,Singleton,Spartan Road,0.36341524,Moderate,19,51.138841,0.830401
+ARWest,Ashford,Challock,Squids Gate Lane,0.1942009,Poor,4,51.214065,0.834269
+ARWest,Ashford,Challock,Squids Gate,0.1942009,Poor,4,51.214065,0.834269
+ARWest,Ashford,Challock,St Cosmas Close,0.28075975,Poor,22,51.217087,0.8752
+ARWest,Ashford,Bethersden,St Margarets Place,0.3215655,Moderate,28,51.129172,0.751623
+ARWest,Ashford,Charing,Stalisfield Church Road,0.28076106,Poor,21,51.223744,0.801763
+ARWest,Ashford,Charing,Stalisfield Road,0.41453594,Good,37,51.224133,0.820392
+ARWest,Ashford,Bethersden,Standard Lane,0.24258004,Poor,22,51.114892,0.744285
+ARWest,Ashford,Pluckley,Station Road,0.28912407,Poor,245,51.157621,0.742088
+ARWest,Ashford,Egerton,Stevens Close,0.21670075,Poor,30,51.193702,0.729958
+ARWest,Ashford,Egerton,Stisted Way,0.36412245,Moderate,14,51.194335,0.727104
+ARWest,Ashford,Egerton,Stone Hill Road,0.15973823,Poor,14,51.19001,0.728222
+ARWest,Ashford,Charing,Stone Stile Farm Road,0.27676508,Poor,12,51.226764,0.781863
+ARWest,Ashford,Egerton,Stonebridge Green Road,0.40199268,Good,48,51.197168,0.73211
+ARWest,Ashford,Singleton,Stowell Close,0.3219411,Moderate,48,51.138935,0.831708
+ARWest,Ashford,Charing,Surgery Close,0.25478584,Poor,6,51.20971,0.791374
+ARWest,Ashford,Pluckley,Surrenden Road,0.3522055,Moderate,31,51.174059,0.771248
+ARWest,Ashford,Singleton,Swaffer Way,0.38170505,Moderate,108,51.137731,0.831277
+ARWest,Ashford,Little Chart,Swallow Mill Lane,0.1893972,Poor,3,51.186615,0.766291
+ARWest,Ashford,Pluckley,Swan Lane,0.2573828,Poor,33,51.176375,0.763061
+ARWest,Ashford,Charing,Tatchell Drive,0.31828585,Moderate,26,51.210332,0.790939
+ARWest,Ashford,Smarden,The Acorns,0.36515677,Moderate,37,51.150622,0.684812
+ARWest,Ashford,Hothfield,The Bogs,0.3083268,Moderate,5,51.174073,0.812084
+ARWest,Ashford,Singleton,The Bulrushes,0.41735455,Good,94,51.140642,0.835887
+ARWest,Ashford,Smarden,The Cut,0.28210685,Poor,4,51.140515,0.670586
+ARWest,Ashford,Bethersden,The Dene,0.29092458,Poor,14,51.12762,0.75646
+ARWest,Ashford,Boughton Aluph,The Green,0.6245482,Very Good,35,51.187704,0.891963
+ARWest,Ashford,Pluckley,The Grove,0.5415849,Good,46,51.157484,0.747914
+ARWest,Ashford,Charing,The Hill,0.2051771,Poor,44,51.213197,0.797886
+ARWest,Ashford,Charing,The Moat,0.2617989,Poor,94,51.208693,0.796639
+ARWest,Ashford,Great Chart,The Paddocks,0.4036589,Good,23,51.143916,0.834372
+ARWest,Ashford,Pluckley,The Pinnock,0.2914281,Poor,52,51.170197,0.72777
+ARWest,Ashford,Great Chart,The Street,0.36465922,Moderate,413,51.144528,0.833625
+ARWest,Ashford,Charing,The Wynd,0.40365237,Good,12,51.216116,0.804808
+ARWest,,Chilmington Green,Thicket Walk,0.14464475,Poor,4,51.125993,0.842053
+ARWest,Ashford,Pluckley,Thorne Estate,0.2906829,Poor,61,51.170183,0.744534
+ARWest,Ashford,Smarden,Tilden Chapel Lane,0.19565098,Poor,8,51.140515,0.670586
+ARWest,Ashford,Smarden,Tilden House,0.20086564,Poor,2,51.13823,0.676862
+ARWest,Ashford,Kennington,Tile Kiln Road,0.43010193,Good,25,51.170858,0.879146
+ARWest,Ashford,Charing Heath,Tile Lodge Road,0.31423596,Moderate,90,51.210244,0.760536
+ARWest,Ashford,Kennington,Tilers Walk,0.32979754,Moderate,5,51.171655,0.880369
+ARWest,Ashford,Great Chart,Toke Close,0.27145648,Poor,4,51.143852,0.832953
+ARWest,Ashford,Kennington,Towers View,0.49805945,Good,168,51.171907,0.879999
+ARWest,Ashford,Charing,Towner Close,0.22878945,Poor,59,51.212164,0.789145
+ARWest,Ashford,Boughton Aluph,Trinity Road,0.43380958,Good,4,51.170445,0.871795
+ARWest,Ashford,Bethersden,Tuesnoad Lane,0.43740562,Good,36,51.145628,0.728034
+ARWest,Ashford,Hothfield,Tufton Road,0.23898983,Poor,7,51.17119,0.817503
+ARWest,Ashford,Singleton,Tunbridge Way,0.38459465,Moderate,137,51.139455,0.830281
+ARWest,Ashford,Smarden,Tylden Barn,0.19565098,Poor,2,51.13823,0.676862
+ARWest,Ashford,Smarden,Vesper Court,0.27470395,Poor,7,51.149359,0.690087
+ARWest,Ashford,Smarden,Vesper Hawk Lane,0.29552153,Poor,28,51.147754,0.692184
+ARWest,Ashford,Charing Heath,Vicarage Lane,0.19807535,Poor,19,51.20908,0.750013
+ARWest,Ashford,Great Chart,Vitters Oak Lane,0.25708255,Poor,7,51.137572,0.795682
+ARWest,Ashford,Egerton,Wanden Lane,0.19135506,Poor,7,51.177845,0.702105
+ARWest,Ashford,Charing,Warren Street Road,0.40724176,Good,13,51.22934,0.786259
+ARWest,Ashford,Smarden,Water Lane,0.27500507,Poor,56,51.149937,0.685259
+ARWest,Ashford,Hothfield,Waterfall Road,0.18772507,Poor,5,51.169287,0.82258
+ARWest,Ashford,Westwell,Watery Lane,0.44334075,Good,29,51.179475,0.833448
+ARWest,Ashford,Boughton Aluph,Watsons Close,0.35200948,Moderate,16,51.175692,0.877888
+ARWest,Ashford,Hothfield,West Street,0.5490573,Good,37,51.171378,0.816041
+ARWest,Ashford,Pluckley,Westfields,0.41457188,Good,68,51.177399,0.75475
+ARWest,Ashford,Westwell,Westwell Lane,0.41937104,Good,243,51.191556,0.843408
+ARWest,Ashford,Charing,Wheler Road,0.31970066,Moderate,34,51.212905,0.793543
+ARWest,Ashford,Bethersden,Whiston Avenue,0.27784798,Poor,23,51.126637,0.747811
+ARWest,Ashford,Boughton Aluph,White Hill,0.4289702,Good,16,51.200622,0.915735
+ARWest,Ashford,Charing,Wickens Lane,0.23271106,Poor,1,51.200555,0.804449
+ARWest,Ashford,Charing,Wilkinson Close,0.18736304,Poor,13,51.205676,0.796828
+ARWest,Ashford,Charing Heath,Wind Hill Lane,0.30965766,Moderate,13,51.21082,0.763176
+ARWest,Ashford,Charing Heath,Wind Hill,0.19448769,Poor,29,51.210669,0.761964
+ARWest,,Chilmington Green,Winterbourne Mews,0.15784076,Poor,57,51.125232,0.84375
+ARWest,Ashford,Bethersden,Wissenden Green,0.24227592,Poor,6,51.137504,0.732745
+ARWest,Ashford,Bethersden,Wissenden Lane,0.3446799,Moderate,36,51.140165,0.724352
+ARWest,Ashford,Charing,Woodbrook,0.3971955,Moderate,73,51.209552,0.799096
+ARWest,Ashford,Chilmington Green,Woodland Rise,0.356985,Moderate,55,51.136965,0.824627
+ARWest,Ashford,Charing,Wootton Lane,0.34714782,Moderate,15,51.197649,0.808267
+ARWest,Ashford,Great Chart,Worten Road,0.34021607,Moderate,24,51.15605,0.817238
+ARWest,Ashford,Boughton Aluph,Wye Road,0.4165805,Good,88,51.189282,0.892833
+ARWest,Ashford,Singleton,Yeomans Square,0.24310747,Poor,12,51.142496,0.839163

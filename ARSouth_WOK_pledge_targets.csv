@@ -1,0 +1,263 @@
+KCCDistrict,Town,Village,StreetName,Avg_Reform_Prob,Success_Category,ElectorCount,Latitude,Longitude
+ARSouth,Ashford,Kingsnorth,Acorn Close,0.23910803,Poor,191,51.11818,0.877226
+ARSouth,Ashford,Kingsnorth,Antonius Court,0.20914605,Poor,38,51.126562,0.857436
+ARSouth,Ashford,Ruckinge,Ash Hill,0.5055734,Good,24,51.068765,0.884109
+ARSouth,Ashford,Kingsnorth,Ashford Road,0.53188217,Good,246,51.115487,0.856442
+ARSouth,Ashford,Kingsnorth,Augustus Walk,0.28398073,Poor,39,51.125835,0.853347
+ARSouth,Ashford,Kingsnorth,Aurelius Close,0.21137773,Poor,33,51.122863,0.857523
+ARSouth,Ashford,Kingsnorth,Autumn Drive,0.5766029,Good,41,51.108346,0.881348
+ARSouth,Ashford,Woodchurch,Back Lane,0.21278271,Poor,2,51.080796,0.77318
+ARSouth,,Kingsnorth,Bale Place,0.638536,Very Good,30,51.10663,0.883113
+ARSouth,Ashford,Hamstreet,Bankside,0.400817,Good,60,51.066114,0.853268
+ARSouth,Ashford,,Bargates,0.3879575,Moderate,37,51.130063,0.845202
+ARSouth,Ashford,,Barley Way,0.3107372,Moderate,71,51.12654,0.843213
+ARSouth,Ashford,Kingsnorth,Bell Chapel Close,0.49148315,Good,99,51.121671,0.872055
+ARSouth,Ashford,Kingsnorth,Beltex Place,0.043762293,Poor,10,51.114507,0.882442
+ARSouth,Ashford,,Bensted,0.42097834,Good,52,51.126932,0.851856
+ARSouth,Ashford,Woodchurch,Bethersden Road,0.6231301,Very Good,199,51.132642,0.700825
+ARSouth,Ashford,Ruckinge,Bilsington Road,0.4638503,Good,24,51.068283,0.893787
+ARSouth,Ashford,Hamstreet,Birchett Lane,0.2359892,Poor,6,51.081303,0.843369
+ARSouth,Ashford,Kingsnorth,Bishopswood,0.32200795,Moderate,92,51.117227,0.872808
+ARSouth,Ashford,Kingsnorth,Blackthorn Way,0.21515572,Poor,77,51.118399,0.871581
+ARSouth,Ashford,Shadoxhurst,Blindgrooms Lane,0.19846064,Poor,14,51.110873,0.830552
+ARSouth,Ashford,Kingsnorth,Bluebell Close,0.21816814,Poor,102,51.124054,0.870617
+ARSouth,Ashford,Kingsnorth,Bluebell Road,0.3615634,Moderate,206,51.113645,0.878745
+ARSouth,Ashford,Kingsnorth,Bodiam Avenue,0.4025898,Good,23,51.112786,0.884036
+ARSouth,Ashford,Woodchurch,Boldshaves Lane,0.2769563,Poor,12,51.090737,0.749442
+ARSouth,Ashford,Kingsnorth,Bond Lane,0.58967453,Good,26,51.112164,0.862492
+ARSouth,Ashford,Bilsington,Bonnington Road,0.5828562,Good,35,51.073495,0.911702
+ARSouth,Ashford,Hamstreet,Bourne Lane,0.3393004,Moderate,18,51.067815,0.857641
+ARSouth,Ashford,Bilsington,Bourne Road,0.49621207,Good,4,51.092017,0.915535
+ARSouth,Ashford,Woodchurch,Bournes Place,0.33072513,Moderate,18,51.08018,0.775628
+ARSouth,Ashford,Hamstreet,Bournewood,0.29466894,Poor,104,51.067149,0.858
+ARSouth,Ashford,Kingsnorth,Bramble Walk,0.2015212,Poor,45,51.113256,0.876649
+ARSouth,Ashford,Woodchurch,Brattle,0.3469936,Moderate,91,51.070131,0.776511
+ARSouth,Ashford,,Brentwood,0.20339063,Poor,46,51.126404,0.849908
+ARSouth,Ashford,Woodchurch,Bridge Close,0.1642939,Poor,51,51.071047,0.777679
+ARSouth,Ashford,Kingsnorth,Bridleway Lane,0.35171258,Moderate,56,51.120495,0.865365
+ARSouth,,Hamstreet,Brimstone Road,0.37004882,Moderate,41,51.070533,0.854958
+ARSouth,Ashford,Kingsnorth,Brisley Close,0.15628864,Poor,50,51.130086,0.840901
+ARSouth,Ashford,Kingsnorth,Brisley Court,0.22605851,Poor,85,51.129674,0.84159
+ARSouth,Ashford,Bilsington,Brisley Lane,0.31709212,Moderate,30,51.094622,0.885295
+ARSouth,Ashford,Kingsnorth,Britannia Lane,0.31150046,Moderate,65,51.125594,0.853632
+ARSouth,Ashford,,Broadmead,0.3989119,Moderate,57,51.133135,0.843132
+ARSouth,Ashford,Kingsnorth,Broadview Close,0.50821555,Good,69,51.112713,0.881159
+ARSouth,Ashford,Bilsington,Brockmans Lane,0.2881632,Poor,16,51.100978,0.891976
+ARSouth,Ashford,Ruckinge,Bromley Green Road,0.54856795,Good,272,51.093917,0.853566
+ARSouth,Ashford,Woodchurch,Brook Street,0.45338887,Good,98,51.070313,0.753527
+ARSouth,Ashford,Kingsnorth,Bryony Drive,0.28101903,Poor,185,51.116331,0.875968
+ARSouth,Ashford,Hamstreet,Bunkley Meadow,0.3486216,Moderate,30,51.06434,0.855557
+ARSouth,Ashford,Kingsnorth,Butterside Road,0.26053283,Poor,121,51.120172,0.876664
+ARSouth,Ashford,Kingsnorth,Caesar Avenue,0.35918847,Moderate,142,51.12335,0.856009
+ARSouth,Ashford,Ruckinge,Capel Road,0.57692474,Good,82,51.086864,0.857306
+ARSouth,Ashford,Hamstreet,Carters Wood,0.25205848,Poor,66,51.065169,0.860276
+ARSouth,Ashford,Kingsnorth,Centurion Walk,0.30364552,Moderate,94,51.122944,0.868533
+ARSouth,Ashford,Kingsnorth,Chaffinch Drive,0.3519781,Moderate,72,51.117087,0.875586
+ARSouth,Ashford,,Charminster,0.4517805,Good,33,51.129228,0.844379
+ARSouth,Ashford,Kingsnorth,Chartwell Road,0.49389803,Good,20,51.112392,0.883611
+ARSouth,Ashford,Kingsnorth,Cheesemans Green Lane,0.5159255,Good,32,51.110735,0.882965
+ARSouth,Ashford,Shadoxhurst,Chequers Green,0.4469259,Good,31,51.10877,0.817093
+ARSouth,Ashford,Woodchurch,Cherry Orchard,0.25224698,Poor,30,51.082043,0.771413
+ARSouth,Ashford,Kingsnorth,Chestnut Lane,0.66500217,Very Good,130,51.123374,0.872647
+ARSouth,Ashford,Kingsnorth,Church Hill,0.64087903,Very Good,111,51.11834,0.861545
+ARSouth,Ashford,Shadoxhurst,Church Lane,0.16487406,Poor,163,51.105884,0.81406
+ARSouth,Ashford,Warehorne,Church Road,0.40473643,Good,89,51.059548,0.833644
+ARSouth,Ashford,Kingsnorth,Claudius Grove,0.28478536,Poor,20,51.124934,0.854863
+ARSouth,Ashford,,Claygate,0.20413366,Poor,37,51.126994,0.849687
+ARSouth,Ashford,Hamstreet,Cock Lane,0.21228977,Poor,34,51.064243,0.856935
+ARSouth,Ashford,Kingsnorth,Cockerel Place,0.31287292,Moderate,34,51.108941,0.8813
+ARSouth,Ashford,Woodchurch,Coldblow,0.32517192,Moderate,26,51.086861,0.798349
+ARSouth,Ashford,Kingsnorth,Colemans Close,0.10042139,Poor,53,51.128459,0.841987
+ARSouth,Ashford,Kingsnorth,Collie Drive,0.2048265,Poor,35,51.125691,0.848192
+ARSouth,Ashford,Kingsnorth,Conker Close,0.29082403,Poor,77,51.118989,0.875033
+ARSouth,Ashford,Kingsnorth,Constantine Road,0.18886939,Poor,61,51.125357,0.856319
+ARSouth,Ashford,Kingsnorth,Corner Field,0.20938487,Poor,52,51.124668,0.869783
+ARSouth,Ashford,,Cornfield Lane,0.32123023,Moderate,31,51.108719,0.884829
+ARSouth,Ashford,Hamstreet,Cotton Hill Walk,0.26154742,Poor,8,51.065091,0.859057
+ARSouth,Ashford,Kingsnorth,Coulter Road,0.18429057,Poor,45,51.128013,0.841846
+ARSouth,Ashford,Shadoxhurst,Criol Lane,0.22866623,Poor,12,51.113861,0.814856
+ARSouth,Ashford,,Croftwood,0.2431723,Poor,38,51.131341,0.841821
+ARSouth,,Kingsnorth,Crop Lane,0.5490401,Good,31,51.106253,0.883076
+ARSouth,Ashford,Kingsnorth,Damara Way,0.10142406,Poor,70,51.114057,0.882457
+ARSouth,Ashford,Kingsnorth,Dorset Crescent,0.63562673,Very Good,47,51.11314,0.8828
+ARSouth,Ashford,Kingsnorth,Dove Close,0.28409034,Poor,110,51.117773,0.873628
+ARSouth,Ashford,,Down Court,0.4582013,Good,21,51.126639,0.848379
+ARSouth,Ashford,Kingsnorth,Downsberry Road,0.57019526,Good,32,51.111658,0.882351
+ARSouth,Ashford,Shadoxhurst,Duck Lane,0.3390438,Moderate,12,51.103098,0.81173
+ARSouth,Ashford,Hamstreet,Dukes Meadow,0.33418247,Moderate,46,51.065132,0.856276
+ARSouth,Ashford,Bilsington,Dynes Lane,0.25798622,Poor,3,51.08492,0.893911
+ARSouth,Ashford,Shadoxhurst,Eastwell Close,0.25743487,Poor,11,51.108518,0.820089
+ARSouth,Ashford,Kingsnorth,Emmetts Close,0.41725674,Good,10,51.111632,0.880863
+ARSouth,Ashford,Kingsnorth,Emperor Way,0.16909291,Poor,94,51.122802,0.854503
+ARSouth,Ashford,Hamstreet,Fairfield Terrace,0.2969572,Poor,92,51.062815,0.859079
+ARSouth,Ashford,Shadoxhurst,Farley Close,0.17240244,Poor,17,51.108416,0.815368
+ARSouth,Ashford,Hamstreet,Farm Road,0.3280945,Moderate,35,51.06188,0.858317
+ARSouth,Ashford,Warehorne,Farmers Grove,0.22451599,Poor,14,51.064843,0.848927
+ARSouth,Ashford,Kingsnorth,Farmers Way,0.13323052,Poor,30,51.128726,0.841003
+ARSouth,,Kingsnorth,Farmstead Road,0.50291413,Good,39,51.108919,0.883656
+ARSouth,Ashford,Kingsnorth,Farrers Walk,0.5528747,Good,100,51.122677,0.871003
+ARSouth,Ashford,Kingsnorth,Faustina Drive,0.25626957,Poor,35,51.12176,0.854096
+ARSouth,Ashford,Kingsnorth,Field View,0.338322,Moderate,7,51.120798,0.863626
+ARSouth,Ashford,Kingsnorth,Finn Farm Court,0.5703004,Good,11,51.110708,0.877491
+ARSouth,Ashford,Kingsnorth,Finn Farm Road,0.59564686,Good,173,51.11041,0.877172
+ARSouth,Ashford,Kingsnorth,Forum Way,0.13861378,Poor,98,51.127754,0.84396
+ARSouth,Ashford,Bilsington,Frith Road,0.35473967,Moderate,12,51.095358,0.911123
+ARSouth,Ashford,Woodchurch,Frogs Hole Lane,0.24017903,Poor,16,51.086734,0.739961
+ARSouth,Ashford,Woodchurch,Front Road,0.3000625,Moderate,258,51.077333,0.771674
+ARSouth,Ashford,Woodchurch,Garden Close,0.22084643,Poor,5,51.079352,0.771137
+ARSouth,Ashford,Woodchurch,Georges Hill,0.16124845,Poor,10,51.077987,0.781636
+ARSouth,Ashford,Ruckinge,Gill Lane,0.27037758,Poor,9,51.075473,0.874318
+ARSouth,Ashford,Kingsnorth,Godwin Court,0.14584145,Poor,17,51.12858,0.840322
+ARSouth,Ashford,Warehorne,Goldfield,0.29544303,Poor,5,51.059548,0.833644
+ARSouth,Ashford,,Green Lane,0.46414882,Good,63,51.129083,0.846643
+ARSouth,Ashford,,Greencroft,0.1462065,Poor,41,51.132138,0.843071
+ARSouth,Ashford,Kingsnorth,Hadleigh Street,0.44228825,Good,59,51.112427,0.882913
+ARSouth,Ashford,Kingsnorth,Hadrian Gardens,0.32763362,Moderate,55,51.126333,0.855021
+ARSouth,Ashford,Warehorne,Ham Mill Lane,0.39199987,Moderate,5,51.04885,0.854875
+ARSouth,Ashford,Ruckinge,Hamstreet Road,0.35596642,Moderate,157,51.101855,0.848226
+ARSouth,Ashford,Kingsnorth,Harrow Way,0.20434871,Poor,79,51.126493,0.846655
+ARSouth,Ashford,Kingsnorth,Hawthorn Road,0.60195374,Very Good,90,51.121991,0.867444
+ARSouth,Ashford,Woodchurch,Haycross Lane,0.18443248,Poor,6,51.075431,0.752085
+ARSouth,Ashford,Kingsnorth,Haywain Close,0.29773328,Poor,103,51.125648,0.845159
+ARSouth,Ashford,Kingsnorth,Hedgers Way,0.19358762,Poor,92,51.127629,0.839506
+ARSouth,Ashford,Kingsnorth,Herdwick Close,0.061865855,Poor,96,51.114833,0.882381
+ARSouth,,Kingsnorth,Heritage Road,0.5396546,Good,137,51.108655,0.882682
+ARSouth,Ashford,Kingsnorth,Hestia Way,0.10841144,Poor,42,51.127103,0.844105
+ARSouth,Ashford,Woodchurch,Highlands Lane,0.20215715,Poor,26,51.074126,0.794154
+ARSouth,Ashford,,Holdenhurst,0.19210677,Poor,46,51.129827,0.843072
+ARSouth,,Kingsnorth,Honeybee Drive,0.35867566,Moderate,32,51.109481,0.881305
+ARSouth,,Kingsnorth,Hop Lane,0.30960923,Moderate,23,51.107416,0.88442
+ARSouth,Ashford,Shadoxhurst,Hornash Lane,0.36877865,Moderate,190,51.106792,0.825259
+ARSouth,Ashford,Woodchurch,Hornbrook Lane,0.32255208,Moderate,12,51.064187,0.780223
+ARSouth,,Hamstreet,Huntborne Road,0.3971565,Moderate,12,51.070593,0.855833
+ARSouth,Ashford,Warehorne,Ingoldsby Lane,0.2272012,Poor,18,51.064978,0.849306
+ARSouth,Ashford,Kingsnorth,Jacobs Court,0.45749977,Good,36,51.113727,0.883451
+ARSouth,Ashford,Kingsnorth,Jupiter Lane,0.22000322,Poor,65,51.128582,0.843582
+ARSouth,Ashford,Appledore,Kenardington Road,0.1760719,Poor,38,51.061244,0.824541
+ARSouth,Ashford,Kingsnorth,Kestrel Close,0.30148873,Moderate,98,51.115931,0.872857
+ARSouth,Ashford,Shadoxhurst,Kings Close,0.27412635,Poor,29,51.107291,0.814617
+ARSouth,Ashford,,Kingsnorth Road,0.40113243,Good,12,51.126919,0.860117
+ARSouth,Ashford,Woodchurch,Kirkwood Avenue,0.30172724,Moderate,49,51.07647,0.774677
+ARSouth,Ashford,Ruckinge,Kitsbridge Lane,0.39881068,Moderate,2,51.053025,0.889538
+ARSouth,,Hamstreet,Lacewing Link,0.297414,Poor,5,51.070563,0.854475
+ARSouth,Ashford,Hamstreet,Lancaster Close,0.47571203,Good,182,51.06714,0.856163
+ARSouth,Ashford,,Langney Drive,0.23911588,Poor,82,51.131821,0.842451
+ARSouth,Ashford,Kingsnorth,Lapwing Drive,0.21359208,Poor,36,51.114926,0.87931
+ARSouth,Ashford,Kingsnorth,Lincoln Gardens,0.04805302,Poor,22,51.115499,0.882008
+ARSouth,Ashford,Shadoxhurst,Lonefield,0.2711209,Poor,34,51.109019,0.822448
+ARSouth,Ashford,Kingsnorth,Longlength,0.14464475,Poor,1,51.124376,0.84531
+ARSouth,Ashford,Woodchurch,Lower Road,0.29058608,Poor,166,51.07431,0.776647
+ARSouth,Ashford,Kingsnorth,Lucilla Avenue,0.3331651,Moderate,170,51.123491,0.852073
+ARSouth,Ashford,Kingsnorth,Magnolia Drive,0.16118518,Poor,18,51.126267,0.860323
+ARSouth,Ashford,Kingsnorth,Magpie Hall Road,0.43042615,Good,138,51.112625,0.842873
+ARSouth,,Kingsnorth,Maize Walk,0.4273358,Good,29,51.107839,0.88406
+ARSouth,Ashford,Warehorne,Malthouse Lane,0.28451183,Poor,14,51.076248,0.836001
+ARSouth,Ashford,Kingsnorth,Manor House Drive,0.25951463,Poor,158,51.119262,0.878208
+ARSouth,Ashford,Ruckinge,Marsh Road,0.5397989,Good,82,51.065557,0.890176
+ARSouth,Ashford,Warehorne,Mathews Court,0.43524477,Good,16,51.063547,0.847848
+ARSouth,Ashford,Shadoxhurst,Maytree Place,0.17240244,Poor,7,51.107744,0.813398
+ARSouth,Ashford,Kingsnorth,Meadow View,0.412521,Good,41,51.108689,0.88387
+ARSouth,Ashford,Kingsnorth,Merino Way,0.074703485,Poor,14,51.125138,0.849073
+ARSouth,Ashford,Ruckinge,Mill Bank,0.25768477,Poor,1,51.039382,0.902542
+ARSouth,Ashford,Woodchurch,Mill Lane,0.15458657,Poor,9,51.085714,0.772093
+ARSouth,Ashford,Woodchurch,Mill View,0.42717895,Good,36,51.082367,0.77029
+ARSouth,Ashford,Kingsnorth,Millbank Road,0.48457772,Good,26,51.126506,0.853102
+ARSouth,Ashford,Kingsnorth,Moat Field Meadow,0.11619052,Poor,5,51.123261,0.865151
+ARSouth,Ashford,Shadoxhurst,Molloy Road,0.38678932,Moderate,107,51.108846,0.824767
+ARSouth,Ashford,Kingsnorth,Myrtle Court,0.41173455,Good,17,51.11777,0.85838
+ARSouth,Ashford,Shadoxhurst,Nairne Close,0.27601042,Poor,29,51.10704,0.813112
+ARSouth,Ashford,Kingsnorth,New Rectory Lane,0.41302383,Good,60,51.120973,0.866767
+ARSouth,Ashford,Bilsington,Newchurch Road,0.5213592,Good,36,51.072367,0.911488
+ARSouth,Ashford,,Newlands,0.21549614,Poor,83,51.132178,0.841458
+ARSouth,Ashford,Shadoxhurst,Nickley Wood Road,0.42073113,Good,68,51.09606,0.827944
+ARSouth,,Kingsnorth,Oak Barn Lane,0.4018207,Good,22,51.107098,0.8842
+ARSouth,Ashford,Ruckinge,Oak Ridge,0.36541328,Moderate,25,51.065372,0.889651
+ARSouth,Ashford,Shadoxhurst,Oak View,0.2200617,Poor,35,51.107994,0.812345
+ARSouth,Ashford,Kingsnorth,Octavian Way,0.15777202,Poor,24,51.127563,0.843691
+ARSouth,Ashford,Kingsnorth,Orchid Court,0.2071785,Poor,64,51.112867,0.878554
+ARSouth,Ashford,Hamstreet,Orlestone View,0.29486716,Poor,87,51.063862,0.851174
+ARSouth,,Kingsnorth,Paddock Close,0.3002884,Moderate,15,51.109726,0.883392
+ARSouth,Ashford,Kingsnorth,Pantheon Gardens,0.19714813,Poor,23,51.125048,0.853512
+ARSouth,Ashford,Shadoxhurst,Park Farm Close,0.13036811,Poor,45,51.108407,0.818725
+ARSouth,Ashford,Kingsnorth,Park Wood Close,0.24836005,Poor,85,51.124967,0.867486
+ARSouth,Ashford,Hamstreet,Parker Close,0.29105923,Poor,29,51.063468,0.854033
+ARSouth,Ashford,,Penn Hill,0.42002758,Good,50,51.13104,0.843861
+ARSouth,Ashford,Woodchurch,Place Lane,0.18272832,Poor,2,51.087535,0.785565
+ARSouth,Ashford,Kingsnorth,Ploughmans Way,0.27273548,Poor,19,51.127707,0.841112
+ARSouth,Ashford,Woodchurch,Plum Tree Gardens,0.1823325,Poor,27,51.072722,0.777594
+ARSouth,Ashford,High Halden,Plurenden Road,0.45251113,Good,70,51.102154,0.746604
+ARSouth,Ashford,Kingsnorth,Poppy Mead,0.21778902,Poor,138,51.113697,0.877005
+ARSouth,Ashford,Kingsnorth,Pound Lane,0.47189504,Good,71,51.119631,0.857294
+ARSouth,Ashford,Ruckinge,Poundhurst Road,0.47501436,Good,36,51.08109,0.872325
+ARSouth,Ashford,Kingsnorth,Primrose Drive,0.2977318,Poor,155,51.120032,0.868109
+ARSouth,Ashford,Bilsington,Priory Road,0.39523405,Moderate,24,51.085863,0.913121
+ARSouth,Ashford,Hamstreet,Quince Orchard,0.33055267,Moderate,29,51.065963,0.855728
+ARSouth,Ashford,Ruckinge,Ransley Green,0.5123049,Good,23,51.066419,0.88916
+ARSouth,Ashford,Woodchurch,Rectory Close,0.26891327,Poor,54,51.081011,0.769741
+ARSouth,Ashford,Kingsnorth,Redberry Road,0.15989192,Poor,53,51.124595,0.866505
+ARSouth,Ashford,Woodchurch,Redbrook Street,0.21394755,Poor,130,51.098474,0.743615
+ARSouth,Ashford,Kingsnorth,Remus Close,0.20981671,Poor,22,51.122821,0.85226
+ARSouth,Ashford,Kingsnorth,Richborough Way,0.09054677,Poor,46,51.127703,0.845329
+ARSouth,Ashford,Kingsnorth,Riverside Close,0.5429758,Good,76,51.119859,0.85828
+ARSouth,Ashford,Kingsnorth,Roman Way,0.41895714,Good,30,51.12186,0.873153
+ARSouth,,,Romney Marsh,0.21566555,Poor,1,51.030958,0.839068
+ARSouth,Ashford,Hamstreet,Romney Road,0.4402294,Good,23,51.061898,0.857919
+ARSouth,Ashford,Kingsnorth,Romulus Gardens,0.3576326,Moderate,70,51.123743,0.853918
+ARSouth,Ashford,Bilsington,Rowling Street,0.30183578,Moderate,7,51.094622,0.885295
+ARSouth,Ashford,Bilsington,Ruckinge Road,0.4269715,Good,68,51.073488,0.909831
+ARSouth,Ashford,Kingsnorth,Ruffets Wood,0.29912716,Poor,45,51.116775,0.87108
+ARSouth,Ashford,Kingsnorth,Rutledge Avenue,0.532732,Good,55,51.111502,0.883227
+ARSouth,Ashford,Kingsnorth,Ryeland Way,0.09248499,Poor,136,51.115485,0.881092
+ARSouth,Ashford,Kingsnorth,Saddleback Close,0.462585,Good,51,51.107168,0.882075
+ARSouth,Ashford,Kingsnorth,Saddlers Way,0.2195916,Poor,10,51.123996,0.867097
+ARSouth,Ashford,Kingsnorth,Saw Lodge Field,0.21398589,Poor,55,51.119216,0.876419
+ARSouth,Ashford,Warehorne,School Hill,0.40561742,Good,15,51.0635,0.832053
+ARSouth,Ashford,Kingsnorth,Scotney Close,0.3967313,Moderate,24,51.11096,0.88075
+ARSouth,Ashford,Woodchurch,Shadoxhurst Road,0.20257019,Poor,29,51.094085,0.785845
+ARSouth,Ashford,Kingsnorth,Sheepfold Lane,0.21116962,Poor,13,51.12063,0.876693
+ARSouth,Ashford,Kingsnorth,Shepherd Close,0.089747764,Poor,15,51.125428,0.849019
+ARSouth,Ashford,Kingsnorth,Shipley Mill Close,0.57942134,Good,107,51.120894,0.873636
+ARSouth,Ashford,Woodchurch,Shirkoak Park,0.2385591,Poor,187,51.094719,0.770474
+ARSouth,Ashford,Woodchurch,Shirley Moor,0.2979641,Poor,4,51.059641,0.755345
+ARSouth,Ashford,Shadoxhurst,Silver Birch Court,0.19448219,Poor,15,51.108182,0.812753
+ARSouth,Ashford,Kingsnorth,Silver Birch Grove,0.69956017,Very Good,30,51.121961,0.869029
+ARSouth,Ashford,Woodchurch,Six Bells Park,0.42919356,Good,62,51.081814,0.77343
+ARSouth,Ashford,,Skylark Way,0.22776662,Poor,73,51.115356,0.878666
+ARSouth,Ashford,Kingsnorth,Smithy Drive,0.60340166,Very Good,153,51.121969,0.874932
+ARSouth,Ashford,Kingsnorth,Snowbell Road,0.6872105,Very Good,87,51.120841,0.870332
+ARSouth,Ashford,Kingsnorth,South Lea,0.34236047,Moderate,19,51.118708,0.86011
+ARSouth,Ashford,Kingsnorth,South Motto,0.2550415,Poor,53,51.124055,0.86873
+ARSouth,Ashford,,Southbourne,0.34924734,Moderate,66,51.128939,0.845162
+ARSouth,Ashford,Kingsnorth,Southdown Close,0.41526282,Good,29,51.110591,0.88367
+ARSouth,Ashford,Warehorne,Spot House Lane,0.2941691,Poor,6,51.077341,0.815712
+ARSouth,Ashford,Hamstreet,St Marys Close,0.36957058,Moderate,30,51.068746,0.854129
+ARSouth,Ashford,Kingsnorth,Steeds Close,0.5601318,Good,11,51.110737,0.857589
+ARSouth,Ashford,Kingsnorth,Steeds Lane,0.5822557,Good,111,51.108174,0.870079
+ARSouth,Ashford,Bilsington,Stone Cross Road,0.43415898,Good,40,51.089803,0.887394
+ARSouth,Ashford,Ruckinge,Stonegate Lane,0.46677274,Good,7,51.081106,0.878266
+ARSouth,Ashford,Kingsnorth,Stumble Lane,0.44988152,Good,74,51.110373,0.868768
+ARSouth,Ashford,Woodchurch,Susans Hill,0.23413551,Poor,82,51.082533,0.757191
+ARSouth,Ashford,Woodchurch,Swain Road,0.19294204,Poor,20,51.078617,0.738914
+ARSouth,Ashford,Stubbs Cross,Tally Ho Road,0.30942395,Moderate,174,51.109781,0.82477
+ARSouth,Ashford,Ruckinge,Tarpot Lane,0.31652996,Moderate,1,51.057147,0.897836
+ARSouth,Ashford,Kingsnorth,Temple Close,0.1671078,Poor,31,51.125352,0.855418
+ARSouth,Ashford,Woodchurch,The Green,0.40430006,Good,67,51.080604,0.773629
+ARSouth,Ashford,Kingsnorth,The Haven,0.21727435,Poor,22,51.125798,0.8508
+ARSouth,Ashford,Kingsnorth,Tudor Farm Close,0.33303678,Moderate,28,51.119318,0.861648
+ARSouth,Ashford,Kingsnorth,Vespasian Way,0.088654645,Poor,56,51.12304,0.855461
+ARSouth,Ashford,Hamstreet,Village Way,0.4180351,Good,29,51.063181,0.858069
+ARSouth,Ashford,Kingsnorth,Violet Way,0.32160625,Moderate,130,51.112182,0.877897
+ARSouth,Ashford,Hamstreet,Warehorne Road,0.24303743,Poor,194,51.065296,0.852861
+ARSouth,Ashford,,Washford Farm Road,0.40960887,Good,123,51.127016,0.848803
+ARSouth,Ashford,Warehorne,Waylett Crescent,0.2459899,Poor,56,51.064803,0.848339
+ARSouth,Ashford,,Westbourne,0.20131567,Poor,41,51.130867,0.84245
+ARSouth,Ashford,,Westmoors,0.33072138,Moderate,30,51.13152,0.843333
+ARSouth,Ashford,Ruckinge,Wey Street,0.3982149,Moderate,5,51.048395,0.889456
+ARSouth,,Hamstreet,White Admiral Way,0.3373119,Moderate,30,51.070315,0.855801
+ARSouth,Ashford,,Willingdon,0.4009107,Good,35,51.127416,0.848999
+ARSouth,Ashford,Hamstreet,Willow Drive,0.46727267,Good,65,51.061866,0.859615
+ARSouth,Ashford,Kingsnorth,Wiltshire Gardens,0.05107873,Poor,24,51.115911,0.881676
+ARSouth,Ashford,,Wivenhoe,0.09292246,Poor,27,51.127343,0.847565
+ARSouth,Ashford,Kingsnorth,Wood Lane,0.18596584,Poor,234,51.116777,0.878682
+ARSouth,Ashford,Shadoxhurst,Woodchurch Road,0.18365929,Poor,243,51.108238,0.815657
+ARSouth,Ashford,,Woodside,0.42418647,Good,29,51.132437,0.843733
