@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_93616453de8d3d1a413cda984f12d00e {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_93616453de8d3d1a413cda984f12d00e" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_93616453de8d3d1a413cda984f12d00e = L.map(
+                "map_93616453de8d3d1a413cda984f12d00e",
+                {
+                    center: [51.135287399999996, 0.23882320000000004],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_054ad44f9ee70affe9ab9d66a1a49e6f = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_054ad44f9ee70affe9ab9d66a1a49e6f.addTo(map_93616453de8d3d1a413cda984f12d00e);
+        
+    
+            var marker_fafaebd6943eec755ccdf80e02ff278d = L.marker(
+                [51.132774, 0.220282],
+                {
+}
+            ).addTo(map_93616453de8d3d1a413cda984f12d00e);
+        
+    
+        var popup_a65ec0aa07d14d47f33fb327e2cf736f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_8e585cd0391262e7e1899ef7ccac9d6b = $(`<div id="html_8e585cd0391262e7e1899ef7ccac9d6b" style="width: 100.0%; height: 100.0%;">Monteith Close<br>High % retirees<br>Electors: 41</div>`)[0];
+                popup_a65ec0aa07d14d47f33fb327e2cf736f.setContent(html_8e585cd0391262e7e1899ef7ccac9d6b);
+            
+        
+
+        marker_fafaebd6943eec755ccdf80e02ff278d.bindPopup(popup_a65ec0aa07d14d47f33fb327e2cf736f)
+        ;
+
+        
+    
+    
+            var marker_9acde4aaa6369a4cd6b2a390f087d547 = L.marker(
+                [51.134148, 0.203766],
+                {
+}
+            ).addTo(map_93616453de8d3d1a413cda984f12d00e);
+        
+    
+        var popup_157628a9930db494d255581b97b0266e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_37534f105ffe57b9671f36cf98b54c7f = $(`<div id="html_37534f105ffe57b9671f36cf98b54c7f" style="width: 100.0%; height: 100.0%;">Lampington Row<br>Far from station<br>Electors: 44</div>`)[0];
+                popup_157628a9930db494d255581b97b0266e.setContent(html_37534f105ffe57b9671f36cf98b54c7f);
+            
+        
+
+        marker_9acde4aaa6369a4cd6b2a390f087d547.bindPopup(popup_157628a9930db494d255581b97b0266e)
+        ;
+
+        
+    
+    
+            var marker_eea5d8114fcd60fbd5a254ce799fd52a = L.marker(
+                [51.134966, 0.239669],
+                {
+}
+            ).addTo(map_93616453de8d3d1a413cda984f12d00e);
+        
+    
+        var popup_6e603f4c79cd09f1a4fd6359cb88a2ad = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_732ff177cdc4769a616a950d9ef8649a = $(`<div id="html_732ff177cdc4769a616a950d9ef8649a" style="width: 100.0%; height: 100.0%;">Harmony Street<br>LOW IMD (deprived) in Cluster 0<br>Electors: 60</div>`)[0];
+                popup_6e603f4c79cd09f1a4fd6359cb88a2ad.setContent(html_732ff177cdc4769a616a950d9ef8649a);
+            
+        
+
+        marker_eea5d8114fcd60fbd5a254ce799fd52a.bindPopup(popup_6e603f4c79cd09f1a4fd6359cb88a2ad)
+        ;
+
+        
+    
+    
+            var marker_4908c581f4aed231462425d8a64397c7 = L.marker(
+                [51.136321, 0.237461],
+                {
+}
+            ).addTo(map_93616453de8d3d1a413cda984f12d00e);
+        
+    
+        var popup_29985c9f155f112ff0264d4eaf42db08 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6b7aeabbaf8fb5ac79d658de8c34087b = $(`<div id="html_6b7aeabbaf8fb5ac79d658de8c34087b" style="width: 100.0%; height: 100.0%;">Grange Gardens<br>Semi-detached housing<br>Electors: 30</div>`)[0];
+                popup_29985c9f155f112ff0264d4eaf42db08.setContent(html_6b7aeabbaf8fb5ac79d658de8c34087b);
+            
+        
+
+        marker_4908c581f4aed231462425d8a64397c7.bindPopup(popup_29985c9f155f112ff0264d4eaf42db08)
+        ;
+
+        
+    
+    
+            var marker_a336b7a8d84d6d2d08692a6197b82a6a = L.marker(
+                [51.138283, 0.227964],
+                {
+}
+            ).addTo(map_93616453de8d3d1a413cda984f12d00e);
+        
+    
+        var popup_a67b73e44a7107bbf5fffeb5502745af = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_094b5f29aedaf4e37c735db274a4664f = $(`<div id="html_094b5f29aedaf4e37c735db274a4664f" style="width: 100.0%; height: 100.0%;">Parsonage Road<br>Medium IMD in Cluster 0<br>Electors: 95</div>`)[0];
+                popup_a67b73e44a7107bbf5fffeb5502745af.setContent(html_094b5f29aedaf4e37c735db274a4664f);
+            
+        
+
+        marker_a336b7a8d84d6d2d08692a6197b82a6a.bindPopup(popup_a67b73e44a7107bbf5fffeb5502745af)
+        ;
+
+        
+    
+    
+            var marker_582530a0c75ad40ee4df1b00047ada40 = L.marker(
+                [51.137479, 0.234301],
+                {
+}
+            ).addTo(map_93616453de8d3d1a413cda984f12d00e);
+        
+    
+        var popup_615a3aa3976c78c32d0ff2763872bad2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a3aa61d4a27d8bb1b404941bb1f6dc9d = $(`<div id="html_a3aa61d4a27d8bb1b404941bb1f6dc9d" style="width: 100.0%; height: 100.0%;">Allan Close<br>HIGH IMD (affluent) in Cluster 0<br>Electors: 57</div>`)[0];
+                popup_615a3aa3976c78c32d0ff2763872bad2.setContent(html_a3aa61d4a27d8bb1b404941bb1f6dc9d);
+            
+        
+
+        marker_582530a0c75ad40ee4df1b00047ada40.bindPopup(popup_615a3aa3976c78c32d0ff2763872bad2)
+        ;
+
+        
+    
+    
+            var marker_9de82c052795adc068868501df527eb5 = L.marker(
+                [51.130917, 0.261728],
+                {
+}
+            ).addTo(map_93616453de8d3d1a413cda984f12d00e);
+        
+    
+        var popup_ef6e0d84a40c95fd76b2192c5db50131 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6f9190ece1fb4580304ecdc99623f1ff = $(`<div id="html_6f9190ece1fb4580304ecdc99623f1ff" style="width: 100.0%; height: 100.0%;">Lonsdale Gardens<br>High % Asian background<br>Electors: 38</div>`)[0];
+                popup_ef6e0d84a40c95fd76b2192c5db50131.setContent(html_6f9190ece1fb4580304ecdc99623f1ff);
+            
+        
+
+        marker_9de82c052795adc068868501df527eb5.bindPopup(popup_ef6e0d84a40c95fd76b2192c5db50131)
+        ;
+
+        
+    
+    
+            var marker_4a6a17e405230f20270952c1fe1feaf4 = L.marker(
+                [51.139726, 0.262503],
+                {
+}
+            ).addTo(map_93616453de8d3d1a413cda984f12d00e);
+        
+    
+        var popup_fdd6184e9019d5cdd87d5ef51e3b5f04 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0a91e8d0d6f0e3b962da40e23a4c4e23 = $(`<div id="html_0a91e8d0d6f0e3b962da40e23a4c4e23" style="width: 100.0%; height: 100.0%;">Woodbury Close<br>Many speak foreign languages<br>Electors: 31</div>`)[0];
+                popup_fdd6184e9019d5cdd87d5ef51e3b5f04.setContent(html_0a91e8d0d6f0e3b962da40e23a4c4e23);
+            
+        
+
+        marker_4a6a17e405230f20270952c1fe1feaf4.bindPopup(popup_fdd6184e9019d5cdd87d5ef51e3b5f04)
+        ;
+
+        
+    
+    
+            var marker_d3cb4edffe8ed6af199d4c7406d3048f = L.marker(
+                [51.136042, 0.253045],
+                {
+}
+            ).addTo(map_93616453de8d3d1a413cda984f12d00e);
+        
+    
+        var popup_eed23660b231f9149c542da8af03a858 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ce76258efdd5ca36f1284a7128244e62 = $(`<div id="html_ce76258efdd5ca36f1284a7128244e62" style="width: 100.0%; height: 100.0%;">Oakdale Road<br>Flat housing<br>Electors: 44</div>`)[0];
+                popup_eed23660b231f9149c542da8af03a858.setContent(html_ce76258efdd5ca36f1284a7128244e62);
+            
+        
+
+        marker_d3cb4edffe8ed6af199d4c7406d3048f.bindPopup(popup_eed23660b231f9149c542da8af03a858)
+        ;
+
+        
+    
+    
+            var marker_2de184b25042de259eac3114f9d0fc51 = L.marker(
+                [51.132218, 0.247513],
+                {
+}
+            ).addTo(map_93616453de8d3d1a413cda984f12d00e);
+        
+    
+        var popup_50f11d3e01276cda353f30581ac953fd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a1206f67bca105d3ef2905596a3f72c4 = $(`<div id="html_a1206f67bca105d3ef2905596a3f72c4" style="width: 100.0%; height: 100.0%;">Manor Park<br>Excellent health indicators<br>Electors: 31</div>`)[0];
+                popup_50f11d3e01276cda353f30581ac953fd.setContent(html_a1206f67bca105d3ef2905596a3f72c4);
+            
+        
+
+        marker_2de184b25042de259eac3114f9d0fc51.bindPopup(popup_50f11d3e01276cda353f30581ac953fd)
+        ;
+
+        
+    
+    
+            tile_layer_054ad44f9ee70affe9ab9d66a1a49e6f.addTo(map_93616453de8d3d1a413cda984f12d00e);
+        
+</script>
+</html>

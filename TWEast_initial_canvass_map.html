@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_a75fe9f1d6a0c07afe78575df8a7c937 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_a75fe9f1d6a0c07afe78575df8a7c937" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_a75fe9f1d6a0c07afe78575df8a7c937 = L.map(
+                "map_a75fe9f1d6a0c07afe78575df8a7c937",
+                {
+                    center: [51.145711923076924, 0.2909283846153846],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_a391a07eac77c01dc5ef67179349477d = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_a391a07eac77c01dc5ef67179349477d.addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+    
+            var marker_a93a8efbe6d433c794d79405c44c0e66 = L.marker(
+                [51.149295, 0.331148],
+                {
+}
+            ).addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+    
+        var popup_28c37b7c304b6a0614052089fa8e31e6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1ff39c714500bb9fdb973d00ed357ae4 = $(`<div id="html_1ff39c714500bb9fdb973d00ed357ae4" style="width: 100.0%; height: 100.0%;">Petersfield<br>HIGH IMD (affluent) in Cluster 1<br>Electors: 36</div>`)[0];
+                popup_28c37b7c304b6a0614052089fa8e31e6.setContent(html_1ff39c714500bb9fdb973d00ed357ae4);
+            
+        
+
+        marker_a93a8efbe6d433c794d79405c44c0e66.bindPopup(popup_28c37b7c304b6a0614052089fa8e31e6)
+        ;
+
+        
+    
+    
+            var marker_13be2bb914ed6b1f1841621b7d920eaa = L.marker(
+                [51.146164, 0.323599],
+                {
+}
+            ).addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+    
+        var popup_26caab109177794639f6fc26f68b517c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_02337aa921a79e53d5fc70cdaa709c44 = $(`<div id="html_02337aa921a79e53d5fc70cdaa709c44" style="width: 100.0%; height: 100.0%;">Westway<br>High % retirees<br>Electors: 52</div>`)[0];
+                popup_26caab109177794639f6fc26f68b517c.setContent(html_02337aa921a79e53d5fc70cdaa709c44);
+            
+        
+
+        marker_13be2bb914ed6b1f1841621b7d920eaa.bindPopup(popup_26caab109177794639f6fc26f68b517c)
+        ;
+
+        
+    
+    
+            var marker_b7367425deca3bb005da466672f20135 = L.marker(
+                [51.148914, 0.281669],
+                {
+}
+            ).addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+    
+        var popup_fe3a62f9be8e45a1aa783026a5cee666 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_bb01863e4749c19f9a882e02583874ef = $(`<div id="html_bb01863e4749c19f9a882e02583874ef" style="width: 100.0%; height: 100.0%;">Laurel Road<br>High % children<br>Electors: 103</div>`)[0];
+                popup_fe3a62f9be8e45a1aa783026a5cee666.setContent(html_bb01863e4749c19f9a882e02583874ef);
+            
+        
+
+        marker_b7367425deca3bb005da466672f20135.bindPopup(popup_fe3a62f9be8e45a1aa783026a5cee666)
+        ;
+
+        
+    
+    
+            var marker_6e080137fc723bd69f47045990a0b4ce = L.marker(
+                [51.144828, 0.278521],
+                {
+}
+            ).addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+    
+        var popup_e2c70270dbd06e8fd8415ff5bcef8e13 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ae996863de736b27005804b98bfa34f3 = $(`<div id="html_ae996863de736b27005804b98bfa34f3" style="width: 100.0%; height: 100.0%;">Parkwood Close<br>LOW IMD (deprived) in Cluster 0<br>Electors: 38</div>`)[0];
+                popup_e2c70270dbd06e8fd8415ff5bcef8e13.setContent(html_ae996863de736b27005804b98bfa34f3);
+            
+        
+
+        marker_6e080137fc723bd69f47045990a0b4ce.bindPopup(popup_e2c70270dbd06e8fd8415ff5bcef8e13)
+        ;
+
+        
+    
+    
+            var marker_3e7dba31e54cc8e7be073feb9a690bb7 = L.marker(
+                [51.146616, 0.288732],
+                {
+}
+            ).addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+    
+        var popup_9182734b48f03ee961f334867bbed629 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_81495e2ed47f08649f8f015a8b002e47 = $(`<div id="html_81495e2ed47f08649f8f015a8b002e47" style="width: 100.0%; height: 100.0%;">Lakewood Drive<br>Ethnically diverse<br>Electors: 37</div>`)[0];
+                popup_9182734b48f03ee961f334867bbed629.setContent(html_81495e2ed47f08649f8f015a8b002e47);
+            
+        
+
+        marker_3e7dba31e54cc8e7be073feb9a690bb7.bindPopup(popup_9182734b48f03ee961f334867bbed629)
+        ;
+
+        
+    
+    
+            var marker_5d835cfd4f9f68f3e4c91e337f5c254e = L.marker(
+                [51.14162, 0.284898],
+                {
+}
+            ).addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+    
+        var popup_c635d35f9c9aeee20e1b0b8aecb16d4d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_65e9183d9c7c87a64787170e50970762 = $(`<div id="html_65e9183d9c7c87a64787170e50970762" style="width: 100.0%; height: 100.0%;">Sherwood Way<br>Poor health indicators<br>Electors: 70</div>`)[0];
+                popup_c635d35f9c9aeee20e1b0b8aecb16d4d.setContent(html_65e9183d9c7c87a64787170e50970762);
+            
+        
+
+        marker_5d835cfd4f9f68f3e4c91e337f5c254e.bindPopup(popup_c635d35f9c9aeee20e1b0b8aecb16d4d)
+        ;
+
+        
+    
+    
+            var marker_b7e2cfd2332d06975e2eac295ae05a30 = L.marker(
+                [51.135692, 0.266494],
+                {
+}
+            ).addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+    
+        var popup_3f9ef810eec29af08c067ac73304b1ff = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9625284c3d126e47b41711c6ccfe0975 = $(`<div id="html_9625284c3d126e47b41711c6ccfe0975" style="width: 100.0%; height: 100.0%;">Victoria Road<br>Many speak foreign languages<br>Electors: 47</div>`)[0];
+                popup_3f9ef810eec29af08c067ac73304b1ff.setContent(html_9625284c3d126e47b41711c6ccfe0975);
+            
+        
+
+        marker_b7e2cfd2332d06975e2eac295ae05a30.bindPopup(popup_3f9ef810eec29af08c067ac73304b1ff)
+        ;
+
+        
+    
+    
+            var marker_c3a7f1dc81700bff7fd1b2530125b85c = L.marker(
+                [51.149248, 0.294854],
+                {
+}
+            ).addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+    
+        var popup_71e2d547b6436929f4b6b046f2aebf3d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3e56ca89dcdba4832c3369f546a192b4 = $(`<div id="html_3e56ca89dcdba4832c3369f546a192b4" style="width: 100.0%; height: 100.0%;">Monarch Gardens<br>Medium IMD in Cluster 0<br>Electors: 45</div>`)[0];
+                popup_71e2d547b6436929f4b6b046f2aebf3d.setContent(html_3e56ca89dcdba4832c3369f546a192b4);
+            
+        
+
+        marker_c3a7f1dc81700bff7fd1b2530125b85c.bindPopup(popup_71e2d547b6436929f4b6b046f2aebf3d)
+        ;
+
+        
+    
+    
+            var marker_0514485a3531c0267e65d54759f674fb = L.marker(
+                [51.145416, 0.297739],
+                {
+}
+            ).addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+    
+        var popup_5842a7adefb3d8d67365555b122a18f9 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1b5b8a5d8eb1fa6f1bed4717ce443e6e = $(`<div id="html_1b5b8a5d8eb1fa6f1bed4717ce443e6e" style="width: 100.0%; height: 100.0%;">Malton Way<br>Detached housing<br>Electors: 59</div>`)[0];
+                popup_5842a7adefb3d8d67365555b122a18f9.setContent(html_1b5b8a5d8eb1fa6f1bed4717ce443e6e);
+            
+        
+
+        marker_0514485a3531c0267e65d54759f674fb.bindPopup(popup_5842a7adefb3d8d67365555b122a18f9)
+        ;
+
+        
+    
+    
+            var marker_ec23d75a97c28e7de3191ca6597cd2cb = L.marker(
+                [51.150432, 0.284431],
+                {
+}
+            ).addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+    
+        var popup_cd89031d06956ce90ccc4875f9ad291c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_faa932c898a9257379d2bbac21dbd1d7 = $(`<div id="html_faa932c898a9257379d2bbac21dbd1d7" style="width: 100.0%; height: 100.0%;">Longview Way<br>Terraced housing<br>Electors: 30</div>`)[0];
+                popup_cd89031d06956ce90ccc4875f9ad291c.setContent(html_faa932c898a9257379d2bbac21dbd1d7);
+            
+        
+
+        marker_ec23d75a97c28e7de3191ca6597cd2cb.bindPopup(popup_cd89031d06956ce90ccc4875f9ad291c)
+        ;
+
+        
+    
+    
+            var marker_c9021ed7c45016fe6866e52c24d1002a = L.marker(
+                [51.152714, 0.290521],
+                {
+}
+            ).addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+    
+        var popup_2763a6f479f42761b8bff9cc4d6cebf7 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e54641eea487f29a47de171b05b0c028 = $(`<div id="html_e54641eea487f29a47de171b05b0c028" style="width: 100.0%; height: 100.0%;">Lower Mead<br>Other housing<br>Electors: 36</div>`)[0];
+                popup_2763a6f479f42761b8bff9cc4d6cebf7.setContent(html_e54641eea487f29a47de171b05b0c028);
+            
+        
+
+        marker_c9021ed7c45016fe6866e52c24d1002a.bindPopup(popup_2763a6f479f42761b8bff9cc4d6cebf7)
+        ;
+
+        
+    
+    
+            var marker_4b76700e812ce1bde31bed6fff1958db = L.marker(
+                [51.137318, 0.283685],
+                {
+}
+            ).addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+    
+        var popup_bb766e3b5ebb51c4acd2b5f35ace940a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_22da6455f7982a222bdb5fdbff65d596 = $(`<div id="html_22da6455f7982a222bdb5fdbff65d596" style="width: 100.0%; height: 100.0%;">Quantock Close<br>Mostly white<br>Electors: 32</div>`)[0];
+                popup_bb766e3b5ebb51c4acd2b5f35ace940a.setContent(html_22da6455f7982a222bdb5fdbff65d596);
+            
+        
+
+        marker_4b76700e812ce1bde31bed6fff1958db.bindPopup(popup_bb766e3b5ebb51c4acd2b5f35ace940a)
+        ;
+
+        
+    
+    
+            var marker_2e78572c2d1cd31063808af4687b830b = L.marker(
+                [51.145998, 0.275778],
+                {
+}
+            ).addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+    
+        var popup_6ccc7898b668a47ba712642fc3d65c64 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d614c5f207b5832e04826abc29323688 = $(`<div id="html_d614c5f207b5832e04826abc29323688" style="width: 100.0%; height: 100.0%;">Addison Road<br>HIGH IMD (affluent) in Cluster 0<br>Electors: 116</div>`)[0];
+                popup_6ccc7898b668a47ba712642fc3d65c64.setContent(html_d614c5f207b5832e04826abc29323688);
+            
+        
+
+        marker_2e78572c2d1cd31063808af4687b830b.bindPopup(popup_6ccc7898b668a47ba712642fc3d65c64)
+        ;
+
+        
+    
+    
+            tile_layer_a391a07eac77c01dc5ef67179349477d.addTo(map_a75fe9f1d6a0c07afe78575df8a7c937);
+        
+</script>
+</html>
